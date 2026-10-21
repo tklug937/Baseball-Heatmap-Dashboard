@@ -1,0 +1,1648 @@
+batter,batter_num,batter_pos,batter_archetype,plate_x,plate_z,zone,launch_speed,launch_angle,events,pitch_type
+Lucas Vance,24,OF,Power Slugger,-0.46,3.13,1,97.0,-15.7,single,4-Seam Fastball
+Lucas Vance,24,OF,Power Slugger,0.82,1.9,9,99.6,24.8,double,4-Seam Fastball
+Lucas Vance,24,OF,Power Slugger,-0.63,2.62,4,95.8,15.5,double,Sinker
+Lucas Vance,24,OF,Power Slugger,-0.63,1.27,13,93.1,39.7,field_out,4-Seam Fastball
+Lucas Vance,24,OF,Power Slugger,0.37,3.23,3,86.1,-7.3,field_out,Changeup
+Lucas Vance,24,OF,Power Slugger,-0.25,2.36,5,101.2,45.5,field_out,4-Seam Fastball
+Lucas Vance,24,OF,Power Slugger,0.45,1.86,9,84.4,10.0,field_out,4-Seam Fastball
+Lucas Vance,24,OF,Power Slugger,0.62,2.37,6,99.1,34.7,single,Slider
+Lucas Vance,24,OF,Power Slugger,-0.11,3.57,11,83.1,-19.0,field_out,Changeup
+Lucas Vance,24,OF,Power Slugger,-0.19,2.45,5,100.3,23.7,home_run,Sinker
+Lucas Vance,24,OF,Power Slugger,0.59,2.73,6,83.2,7.0,field_out,Changeup
+Lucas Vance,24,OF,Power Slugger,1.14,3.35,12,90.2,56.0,field_out,Slider
+Lucas Vance,24,OF,Power Slugger,0.53,2.43,6,82.2,3.0,field_out,Cutter
+Lucas Vance,24,OF,Power Slugger,-1.23,1.4,13,80.3,46.2,field_out,Sinker
+Lucas Vance,24,OF,Power Slugger,0.06,2.42,5,92.5,-19.8,field_out,Curveball
+Lucas Vance,24,OF,Power Slugger,1.21,1.83,14,91.9,0.3,field_out,4-Seam Fastball
+Lucas Vance,24,OF,Power Slugger,0.95,3.23,12,86.7,-10.8,grounded_into_dp,Curveball
+Lucas Vance,24,OF,Power Slugger,0.18,1.8,8,96.3,40.6,field_out,4-Seam Fastball
+Lucas Vance,24,OF,Power Slugger,0.15,3.46,2,92.0,-16.7,field_out,Sinker
+Lucas Vance,24,OF,Power Slugger,0.18,2.71,5,104.2,46.7,field_out,Changeup
+Lucas Vance,24,OF,Power Slugger,1.09,3.64,12,66.6,9.1,field_out,Sinker
+Lucas Vance,24,OF,Power Slugger,-0.4,2.19,4,104.6,-5.9,field_out,4-Seam Fastball
+Lucas Vance,24,OF,Power Slugger,-0.04,1.92,8,106.9,38.1,field_out,Changeup
+Lucas Vance,24,OF,Power Slugger,-0.64,2.45,4,97.9,-15.5,grounded_into_dp,Cutter
+Lucas Vance,24,OF,Power Slugger,0.71,3.23,3,88.8,55.2,field_out,Slider
+Lucas Vance,24,OF,Power Slugger,0.09,2.14,8,99.8,29.1,field_out,Sinker
+Lucas Vance,24,OF,Power Slugger,-0.13,2.43,5,95.8,2.7,field_out,Slider
+Lucas Vance,24,OF,Power Slugger,-0.26,1.92,8,99.0,37.9,field_out,4-Seam Fastball
+Lucas Vance,24,OF,Power Slugger,-0.06,1.66,8,95.7,20.4,double,Changeup
+Lucas Vance,24,OF,Power Slugger,-0.48,2.29,4,107.7,7.0,field_out,Cutter
+Lucas Vance,24,OF,Power Slugger,-0.35,1.83,7,92.9,-18.6,grounded_into_dp,Curveball
+Lucas Vance,24,OF,Power Slugger,0.44,2.61,6,90.7,38.4,field_out,Sinker
+Lucas Vance,24,OF,Power Slugger,-0.01,2.9,2,100.5,14.0,double,4-Seam Fastball
+Lucas Vance,24,OF,Power Slugger,-0.41,2.32,4,108.9,23.0,home_run,Slider
+Lucas Vance,24,OF,Power Slugger,-0.44,2.98,1,85.6,-18.9,field_out,Cutter
+Lucas Vance,24,OF,Power Slugger,-0.1,2.22,5,107.6,32.6,home_run,Slider
+Lucas Vance,24,OF,Power Slugger,-0.28,2.52,5,91.5,50.0,field_out,Slider
+Lucas Vance,24,OF,Power Slugger,0.09,2.64,5,96.7,-16.2,field_out,Cutter
+Lucas Vance,24,OF,Power Slugger,-0.14,1.77,8,103.0,27.3,home_run,4-Seam Fastball
+Lucas Vance,24,OF,Power Slugger,0.33,2.14,9,110.3,14.1,double,4-Seam Fastball
+Lucas Vance,24,OF,Power Slugger,0.6,2.01,9,83.8,0.2,grounded_into_dp,Cutter
+Lucas Vance,24,OF,Power Slugger,-0.79,2.64,4,105.4,10.4,single,Cutter
+Lucas Vance,24,OF,Power Slugger,0.05,1.68,8,109.8,23.5,home_run,Sinker
+Lucas Vance,24,OF,Power Slugger,0.64,2.0,9,85.8,14.0,single,Sinker
+Lucas Vance,24,OF,Power Slugger,-0.34,2.32,4,104.6,23.6,home_run,Sinker
+Lucas Vance,24,OF,Power Slugger,0.07,2.31,5,102.2,-9.8,field_out,4-Seam Fastball
+Lucas Vance,24,OF,Power Slugger,-0.71,2.32,4,98.5,29.0,single,4-Seam Fastball
+Lucas Vance,24,OF,Power Slugger,-1.04,1.97,13,89.8,-6.0,field_out,Sinker
+Lucas Vance,24,OF,Power Slugger,0.5,2.44,6,96.9,15.0,double,Slider
+Lucas Vance,24,OF,Power Slugger,-0.7,2.51,4,99.3,12.6,double,Slider
+Lucas Vance,24,OF,Power Slugger,-0.59,2.66,4,103.3,6.8,single,4-Seam Fastball
+Lucas Vance,24,OF,Power Slugger,-0.01,2.4,5,106.1,17.4,double,Slider
+Derek Sterling,15,3B,Power Slugger,-0.08,2.69,5,98.8,56.4,field_out,Cutter
+Derek Sterling,15,3B,Power Slugger,-0.22,3.3,2,113.6,-17.3,single,Changeup
+Derek Sterling,15,3B,Power Slugger,0.56,2.91,3,95.0,-0.6,field_out,4-Seam Fastball
+Derek Sterling,15,3B,Power Slugger,1.2,3.09,12,93.8,-11.8,field_out,Curveball
+Derek Sterling,15,3B,Power Slugger,1.19,3.41,12,86.5,26.9,single,Slider
+Derek Sterling,15,3B,Power Slugger,-0.41,3.59,11,93.5,52.7,field_out,Curveball
+Derek Sterling,15,3B,Power Slugger,-0.61,2.67,4,87.1,21.8,field_out,4-Seam Fastball
+Derek Sterling,15,3B,Power Slugger,-0.04,3.15,2,97.1,21.0,single,Changeup
+Derek Sterling,15,3B,Power Slugger,-0.43,2.15,7,89.2,11.4,field_out,Changeup
+Derek Sterling,15,3B,Power Slugger,-0.9,2.04,13,86.6,37.8,field_out,Cutter
+Derek Sterling,15,3B,Power Slugger,-0.13,3.21,2,97.4,-5.0,field_out,4-Seam Fastball
+Derek Sterling,15,3B,Power Slugger,0.43,2.8,6,105.9,30.9,home_run,Cutter
+Derek Sterling,15,3B,Power Slugger,-1.46,3.34,11,80.9,-7.8,field_out,4-Seam Fastball
+Derek Sterling,15,3B,Power Slugger,0.7,1.67,9,104.1,36.7,field_out,Slider
+Derek Sterling,15,3B,Power Slugger,-0.09,3.02,2,113.6,49.2,field_out,4-Seam Fastball
+Derek Sterling,15,3B,Power Slugger,0.07,2.58,5,110.6,-3.0,field_out,Slider
+Derek Sterling,15,3B,Power Slugger,-0.27,2.39,5,108.8,32.6,home_run,Changeup
+Derek Sterling,15,3B,Power Slugger,-0.13,3.11,2,111.1,10.8,single,Curveball
+Derek Sterling,15,3B,Power Slugger,-0.58,2.93,1,90.7,42.5,field_out,Sinker
+Derek Sterling,15,3B,Power Slugger,-0.22,3.5,2,107.2,33.4,home_run,4-Seam Fastball
+Derek Sterling,15,3B,Power Slugger,-0.29,2.18,4,100.6,-1.7,single,4-Seam Fastball
+Derek Sterling,15,3B,Power Slugger,0.0,2.46,5,100.0,-3.7,field_out,Sinker
+Derek Sterling,15,3B,Power Slugger,0.02,1.99,8,103.6,-7.3,field_out,4-Seam Fastball
+Derek Sterling,15,3B,Power Slugger,-0.77,2.65,4,93.0,17.4,single,Slider
+Derek Sterling,15,3B,Power Slugger,-1.05,3.16,11,83.8,54.0,field_out,Cutter
+Derek Sterling,15,3B,Power Slugger,-0.09,1.7,8,90.0,50.2,field_out,Cutter
+Derek Sterling,15,3B,Power Slugger,0.71,2.57,6,104.4,15.0,single,Slider
+Derek Sterling,15,3B,Power Slugger,0.11,2.62,5,95.4,53.0,field_out,Changeup
+Derek Sterling,15,3B,Power Slugger,0.55,2.53,6,106.9,16.3,double,Cutter
+Derek Sterling,15,3B,Power Slugger,-0.11,3.5,11,83.3,51.7,field_out,4-Seam Fastball
+Derek Sterling,15,3B,Power Slugger,0.23,2.5,5,104.0,-9.2,field_out,Cutter
+Derek Sterling,15,3B,Power Slugger,-1.16,3.24,11,78.9,6.4,grounded_into_dp,Changeup
+Derek Sterling,15,3B,Power Slugger,0.02,2.63,5,95.0,-11.8,field_out,Cutter
+Derek Sterling,15,3B,Power Slugger,1.48,1.97,14,78.0,0.9,field_out,Sinker
+Derek Sterling,15,3B,Power Slugger,0.66,3.3,3,92.4,33.7,field_out,Cutter
+Derek Sterling,15,3B,Power Slugger,-0.16,2.04,8,104.9,55.1,home_run,Curveball
+Derek Sterling,15,3B,Power Slugger,-0.15,2.43,5,100.3,22.7,home_run,Changeup
+Derek Sterling,15,3B,Power Slugger,-0.1,2.4,5,99.6,2.8,field_out,4-Seam Fastball
+Derek Sterling,15,3B,Power Slugger,0.47,1.89,9,82.4,27.2,field_out,Slider
+Derek Sterling,15,3B,Power Slugger,-0.8,3.01,1,102.0,34.4,single,4-Seam Fastball
+Derek Sterling,15,3B,Power Slugger,-0.49,2.82,4,98.5,11.1,single,Cutter
+Derek Sterling,15,3B,Power Slugger,1.07,1.63,14,84.0,-7.0,field_out,Sinker
+Derek Sterling,15,3B,Power Slugger,0.61,2.98,3,96.1,6.7,single,Changeup
+Derek Sterling,15,3B,Power Slugger,-0.27,1.52,8,86.6,54.6,field_out,4-Seam Fastball
+Derek Sterling,15,3B,Power Slugger,-0.51,2.5,4,93.2,30.8,field_out,Sinker
+Derek Sterling,15,3B,Power Slugger,-0.14,3.66,11,86.4,-0.7,field_out,Sinker
+Derek Sterling,15,3B,Power Slugger,0.94,2.33,14,90.4,9.5,single,Curveball
+Derek Sterling,15,3B,Power Slugger,0.03,2.48,5,106.5,48.2,field_out,Sinker
+Colton Hayes,33,1B,Power Slugger,-0.15,2.37,5,84.7,47.3,field_out,Curveball
+Colton Hayes,33,1B,Power Slugger,-0.09,1.42,13,87.1,2.6,field_out,Changeup
+Colton Hayes,33,1B,Power Slugger,0.94,3.41,12,74.5,56.3,field_out,Changeup
+Colton Hayes,33,1B,Power Slugger,-0.22,1.82,8,95.4,27.1,single,Cutter
+Colton Hayes,33,1B,Power Slugger,-0.31,2.8,4,91.7,-8.5,field_out,Slider
+Colton Hayes,33,1B,Power Slugger,0.22,1.82,8,98.9,28.4,field_out,Sinker
+Colton Hayes,33,1B,Power Slugger,-0.55,3.17,1,89.3,18.9,single,Sinker
+Colton Hayes,33,1B,Power Slugger,0.11,1.54,8,103.2,-1.3,field_out,Changeup
+Colton Hayes,33,1B,Power Slugger,-0.83,2.12,7,100.2,20.5,home_run,4-Seam Fastball
+Colton Hayes,33,1B,Power Slugger,0.42,2.53,6,103.4,28.1,home_run,Cutter
+Colton Hayes,33,1B,Power Slugger,1.47,3.69,12,84.8,-16.3,field_out,Cutter
+Colton Hayes,33,1B,Power Slugger,0.17,3.49,2,98.6,-14.1,field_out,Sinker
+Colton Hayes,33,1B,Power Slugger,0.19,2.11,8,88.4,29.3,single,Slider
+Colton Hayes,33,1B,Power Slugger,-0.37,1.88,7,81.8,26.5,single,Curveball
+Colton Hayes,33,1B,Power Slugger,0.29,2.2,6,80.6,-7.2,field_out,4-Seam Fastball
+Colton Hayes,33,1B,Power Slugger,-0.56,1.84,7,101.8,40.7,field_out,Slider
+Colton Hayes,33,1B,Power Slugger,-0.23,1.99,8,103.8,12.7,double,Cutter
+Colton Hayes,33,1B,Power Slugger,-0.72,2.66,4,90.5,-6.8,field_out,Changeup
+Colton Hayes,33,1B,Power Slugger,0.92,1.81,14,82.3,36.8,field_out,Sinker
+Colton Hayes,33,1B,Power Slugger,-0.14,2.18,5,98.3,16.9,double,Slider
+Colton Hayes,33,1B,Power Slugger,0.35,2.51,6,87.6,28.6,field_out,Sinker
+Colton Hayes,33,1B,Power Slugger,0.04,2.69,5,92.3,25.7,single,Curveball
+Colton Hayes,33,1B,Power Slugger,-0.1,2.37,5,99.2,48.2,field_out,Sinker
+Colton Hayes,33,1B,Power Slugger,-0.96,2.36,13,70.0,51.5,field_out,Changeup
+Colton Hayes,33,1B,Power Slugger,0.1,3.23,2,114.1,11.0,field_out,Changeup
+Colton Hayes,33,1B,Power Slugger,-0.35,2.18,4,75.3,38.5,field_out,Changeup
+Colton Hayes,33,1B,Power Slugger,-0.14,1.53,8,94.2,35.3,field_out,Cutter
+Colton Hayes,33,1B,Power Slugger,-0.19,2.55,5,104.0,49.7,field_out,4-Seam Fastball
+Colton Hayes,33,1B,Power Slugger,-1.1,2.03,13,85.2,-3.7,field_out,Curveball
+Colton Hayes,33,1B,Power Slugger,0.94,3.2,12,93.6,35.5,field_out,Curveball
+Colton Hayes,33,1B,Power Slugger,-0.71,1.54,7,104.6,16.7,double,Curveball
+Colton Hayes,33,1B,Power Slugger,0.34,2.51,6,93.4,-13.4,field_out,4-Seam Fastball
+Colton Hayes,33,1B,Power Slugger,0.43,2.39,6,88.4,12.5,single,Curveball
+Colton Hayes,33,1B,Power Slugger,-1.26,2.75,11,89.0,7.3,field_out,Changeup
+Colton Hayes,33,1B,Power Slugger,-0.04,1.64,8,95.6,-15.2,field_out,Curveball
+Colton Hayes,33,1B,Power Slugger,1.24,1.82,14,88.3,46.6,field_out,Slider
+Colton Hayes,33,1B,Power Slugger,-0.3,2.62,4,87.9,40.6,field_out,4-Seam Fastball
+Colton Hayes,33,1B,Power Slugger,0.1,2.56,5,79.6,14.1,field_out,Curveball
+Colton Hayes,33,1B,Power Slugger,-1.05,1.5,13,89.4,12.1,field_out,Slider
+Colton Hayes,33,1B,Power Slugger,0.25,3.77,12,74.3,-18.6,field_out,4-Seam Fastball
+Colton Hayes,33,1B,Power Slugger,-0.7,1.76,7,105.2,-12.9,single,Sinker
+Colton Hayes,33,1B,Power Slugger,-0.1,2.08,8,104.8,47.6,field_out,Curveball
+Colton Hayes,33,1B,Power Slugger,-0.44,1.66,7,104.4,53.6,field_out,Sinker
+Colton Hayes,33,1B,Power Slugger,-0.59,1.88,7,98.3,-15.0,field_out,Curveball
+Colton Hayes,33,1B,Power Slugger,0.02,1.81,8,108.6,-16.1,grounded_into_dp,Cutter
+Colton Hayes,33,1B,Power Slugger,0.05,2.37,5,105.0,-15.5,field_out,Curveball
+Colton Hayes,33,1B,Power Slugger,1.17,3.21,12,89.2,-10.0,field_out,Curveball
+Colton Hayes,33,1B,Power Slugger,0.92,2.44,14,89.9,2.7,field_out,Sinker
+Colton Hayes,33,1B,Power Slugger,0.73,1.48,14,70.0,25.7,single,Sinker
+Colton Hayes,33,1B,Power Slugger,-0.06,2.15,8,101.6,5.0,single,Sinker
+Marcus Brody,44,DH,Power Slugger,0.15,2.67,5,100.4,35.2,single,4-Seam Fastball
+Marcus Brody,44,DH,Power Slugger,-0.41,2.54,4,102.6,16.2,double,Sinker
+Marcus Brody,44,DH,Power Slugger,0.61,3.07,3,96.9,29.1,field_out,Curveball
+Marcus Brody,44,DH,Power Slugger,-0.14,2.39,5,101.8,-11.3,field_out,Sinker
+Marcus Brody,44,DH,Power Slugger,-0.4,2.31,4,101.5,1.2,field_out,Cutter
+Marcus Brody,44,DH,Power Slugger,-0.64,2.42,4,105.8,2.8,field_out,4-Seam Fastball
+Marcus Brody,44,DH,Power Slugger,-0.05,2.28,5,95.2,13.8,double,4-Seam Fastball
+Marcus Brody,44,DH,Power Slugger,1.17,1.91,14,92.9,48.7,field_out,Sinker
+Marcus Brody,44,DH,Power Slugger,1.17,2.11,14,77.9,36.9,field_out,Slider
+Marcus Brody,44,DH,Power Slugger,0.33,2.54,6,98.3,17.7,double,Changeup
+Marcus Brody,44,DH,Power Slugger,0.67,3.15,3,94.5,45.3,field_out,Sinker
+Marcus Brody,44,DH,Power Slugger,-0.75,2.46,4,97.0,4.2,field_out,Curveball
+Marcus Brody,44,DH,Power Slugger,-0.53,3.32,1,103.8,-0.3,field_out,Slider
+Marcus Brody,44,DH,Power Slugger,-0.51,2.56,4,93.4,22.5,field_out,4-Seam Fastball
+Marcus Brody,44,DH,Power Slugger,0.29,3.05,3,85.6,31.2,field_out,Sinker
+Marcus Brody,44,DH,Power Slugger,-0.57,2.4,4,105.0,-8.9,grounded_into_dp,Cutter
+Marcus Brody,44,DH,Power Slugger,-0.58,2.41,4,92.8,46.1,field_out,Sinker
+Marcus Brody,44,DH,Power Slugger,-1.4,3.25,11,88.5,41.2,field_out,Cutter
+Marcus Brody,44,DH,Power Slugger,-0.06,2.87,2,90.7,11.7,single,Curveball
+Marcus Brody,44,DH,Power Slugger,-1.37,1.7,13,75.0,18.1,single,4-Seam Fastball
+Marcus Brody,44,DH,Power Slugger,-0.59,2.65,4,110.0,8.8,single,Curveball
+Marcus Brody,44,DH,Power Slugger,0.75,1.62,9,96.1,57.0,field_out,Slider
+Marcus Brody,44,DH,Power Slugger,-1.15,3.06,11,101.3,33.9,home_run,Changeup
+Marcus Brody,44,DH,Power Slugger,-0.54,2.33,4,102.3,5.0,field_out,Changeup
+Marcus Brody,44,DH,Power Slugger,0.45,2.38,6,92.3,21.5,single,4-Seam Fastball
+Marcus Brody,44,DH,Power Slugger,1.0,2.01,14,68.4,18.6,field_out,4-Seam Fastball
+Marcus Brody,44,DH,Power Slugger,-0.33,2.04,7,90.1,28.3,single,Cutter
+Marcus Brody,44,DH,Power Slugger,-0.07,2.47,5,101.2,14.7,single,Slider
+Marcus Brody,44,DH,Power Slugger,-0.75,3.55,11,92.7,32.9,field_out,Slider
+Marcus Brody,44,DH,Power Slugger,-0.32,3.01,1,92.1,49.5,field_out,Cutter
+Marcus Brody,44,DH,Power Slugger,-0.64,3.27,1,89.3,10.8,single,4-Seam Fastball
+Marcus Brody,44,DH,Power Slugger,0.13,2.02,8,85.9,3.8,field_out,Curveball
+Marcus Brody,44,DH,Power Slugger,-0.61,3.42,1,92.6,39.8,field_out,Changeup
+Marcus Brody,44,DH,Power Slugger,-0.44,2.79,4,109.2,4.8,field_out,Curveball
+Marcus Brody,44,DH,Power Slugger,-0.64,3.39,1,93.2,22.1,single,Cutter
+Marcus Brody,44,DH,Power Slugger,0.3,2.01,9,82.6,-8.6,field_out,Changeup
+Marcus Brody,44,DH,Power Slugger,-0.92,2.21,13,88.5,51.9,field_out,Sinker
+Marcus Brody,44,DH,Power Slugger,1.08,3.51,12,85.1,2.2,field_out,Curveball
+Marcus Brody,44,DH,Power Slugger,-0.62,3.15,1,100.2,23.1,home_run,Changeup
+Marcus Brody,44,DH,Power Slugger,-0.86,3.02,11,81.1,3.2,grounded_into_dp,Curveball
+Marcus Brody,44,DH,Power Slugger,0.0,2.58,5,94.6,8.9,single,Cutter
+Marcus Brody,44,DH,Power Slugger,-0.14,2.8,5,102.4,46.5,field_out,Curveball
+Marcus Brody,44,DH,Power Slugger,-0.91,3.4,11,84.5,-3.3,field_out,Slider
+Marcus Brody,44,DH,Power Slugger,-0.37,2.28,4,101.2,29.5,home_run,Cutter
+Marcus Brody,44,DH,Power Slugger,-0.88,2.22,13,80.3,36.5,field_out,Cutter
+Marcus Brody,44,DH,Power Slugger,0.55,1.76,9,93.9,22.4,field_out,Sinker
+Travis Holloway,28,1B,Power Slugger,-0.11,2.19,5,91.4,50.8,field_out,Changeup
+Travis Holloway,28,1B,Power Slugger,-0.24,2.63,5,87.1,-6.8,field_out,4-Seam Fastball
+Travis Holloway,28,1B,Power Slugger,0.64,1.88,9,91.6,-19.1,field_out,Sinker
+Travis Holloway,28,1B,Power Slugger,0.68,1.97,9,88.8,-18.6,field_out,4-Seam Fastball
+Travis Holloway,28,1B,Power Slugger,0.46,2.48,6,106.8,35.0,field_out,Slider
+Travis Holloway,28,1B,Power Slugger,-0.13,3.2,2,90.2,-6.2,field_out,Cutter
+Travis Holloway,28,1B,Power Slugger,-0.11,2.9,2,97.5,26.9,double,Cutter
+Travis Holloway,28,1B,Power Slugger,-0.1,2.26,5,104.5,22.1,home_run,Slider
+Travis Holloway,28,1B,Power Slugger,-0.13,2.45,5,97.6,12.8,double,Slider
+Travis Holloway,28,1B,Power Slugger,0.66,2.07,9,100.9,51.1,field_out,Changeup
+Travis Holloway,28,1B,Power Slugger,0.65,2.08,9,102.5,14.2,field_out,Sinker
+Travis Holloway,28,1B,Power Slugger,0.08,2.16,8,92.1,31.2,single,Changeup
+Travis Holloway,28,1B,Power Slugger,0.63,1.89,9,100.7,5.5,grounded_into_dp,Curveball
+Travis Holloway,28,1B,Power Slugger,0.32,1.94,9,95.4,57.3,field_out,Slider
+Travis Holloway,28,1B,Power Slugger,-0.01,2.65,5,97.1,-11.1,single,Changeup
+Travis Holloway,28,1B,Power Slugger,0.56,1.53,9,104.1,11.3,single,Slider
+Travis Holloway,28,1B,Power Slugger,0.04,2.39,5,109.1,-18.2,field_out,Cutter
+Travis Holloway,28,1B,Power Slugger,-0.16,1.93,8,79.0,52.6,field_out,Sinker
+Travis Holloway,28,1B,Power Slugger,0.74,2.17,6,102.7,-13.5,single,Curveball
+Travis Holloway,28,1B,Power Slugger,0.16,2.66,5,99.8,2.2,grounded_into_dp,Changeup
+Travis Holloway,28,1B,Power Slugger,-0.09,3.47,2,108.6,54.7,home_run,Cutter
+Travis Holloway,28,1B,Power Slugger,-0.07,1.47,13,72.3,51.2,field_out,4-Seam Fastball
+Travis Holloway,28,1B,Power Slugger,0.47,1.78,9,90.3,-11.8,field_out,4-Seam Fastball
+Travis Holloway,28,1B,Power Slugger,0.38,2.07,9,93.0,24.1,field_out,4-Seam Fastball
+Travis Holloway,28,1B,Power Slugger,0.73,2.45,6,101.1,48.0,field_out,Changeup
+Travis Holloway,28,1B,Power Slugger,0.67,2.76,6,109.8,45.4,home_run,Sinker
+Travis Holloway,28,1B,Power Slugger,-0.11,3.04,2,88.1,52.3,field_out,Curveball
+Travis Holloway,28,1B,Power Slugger,0.45,1.73,9,99.6,57.2,field_out,Slider
+Travis Holloway,28,1B,Power Slugger,0.81,1.71,9,94.0,2.7,field_out,Sinker
+Travis Holloway,28,1B,Power Slugger,0.63,1.68,9,95.1,20.9,double,Sinker
+Travis Holloway,28,1B,Power Slugger,0.83,3.56,12,79.9,55.1,field_out,Sinker
+Travis Holloway,28,1B,Power Slugger,-1.17,3.42,11,91.9,-4.7,field_out,Slider
+Travis Holloway,28,1B,Power Slugger,-1.13,1.52,13,73.1,0.1,grounded_into_dp,4-Seam Fastball
+Travis Holloway,28,1B,Power Slugger,-0.13,2.32,5,99.0,37.9,field_out,Cutter
+Travis Holloway,28,1B,Power Slugger,0.46,2.55,6,100.8,44.6,field_out,Slider
+Travis Holloway,28,1B,Power Slugger,0.76,2.11,9,102.8,-10.3,field_out,Sinker
+Travis Holloway,28,1B,Power Slugger,0.12,2.25,5,103.6,52.8,field_out,Slider
+Travis Holloway,28,1B,Power Slugger,0.49,2.71,6,104.0,28.4,home_run,Sinker
+Travis Holloway,28,1B,Power Slugger,1.25,1.81,14,92.7,22.7,field_out,Cutter
+Travis Holloway,28,1B,Power Slugger,0.21,2.36,5,103.9,4.5,single,Sinker
+Travis Holloway,28,1B,Power Slugger,0.52,2.53,6,107.7,12.2,single,Slider
+Travis Holloway,28,1B,Power Slugger,0.4,1.93,9,100.0,45.3,field_out,Slider
+Julian Briggs,27,C,Power Slugger,0.58,2.51,6,83.0,-2.4,field_out,Changeup
+Julian Briggs,27,C,Power Slugger,-0.42,2.83,4,99.9,11.0,field_out,Slider
+Julian Briggs,27,C,Power Slugger,0.04,2.85,2,91.8,-2.4,field_out,Sinker
+Julian Briggs,27,C,Power Slugger,-0.5,3.2,1,95.4,-18.1,single,Slider
+Julian Briggs,27,C,Power Slugger,0.74,1.61,9,93.4,41.1,field_out,Slider
+Julian Briggs,27,C,Power Slugger,-0.68,2.39,4,98.6,54.7,field_out,4-Seam Fastball
+Julian Briggs,27,C,Power Slugger,-0.1,2.58,5,110.4,24.2,home_run,Cutter
+Julian Briggs,27,C,Power Slugger,0.54,2.79,6,89.7,31.4,single,Changeup
+Julian Briggs,27,C,Power Slugger,-0.26,2.02,8,100.5,-0.7,field_out,Cutter
+Julian Briggs,27,C,Power Slugger,0.46,2.09,9,101.7,-12.4,field_out,Changeup
+Julian Briggs,27,C,Power Slugger,-0.43,2.48,4,111.2,17.6,double,Sinker
+Julian Briggs,27,C,Power Slugger,0.36,2.7,6,91.1,13.8,single,Changeup
+Julian Briggs,27,C,Power Slugger,0.32,3.48,3,91.9,57.2,field_out,Sinker
+Julian Briggs,27,C,Power Slugger,0.75,3.22,3,90.9,1.6,field_out,Curveball
+Julian Briggs,27,C,Power Slugger,-0.45,2.6,4,101.2,11.5,single,Changeup
+Julian Briggs,27,C,Power Slugger,0.79,2.11,9,95.9,-6.6,field_out,4-Seam Fastball
+Julian Briggs,27,C,Power Slugger,-1.22,2.1,13,85.9,-18.2,field_out,Curveball
+Julian Briggs,27,C,Power Slugger,0.84,1.35,14,89.8,26.8,field_out,Changeup
+Julian Briggs,27,C,Power Slugger,-1.18,1.28,13,80.3,-3.3,field_out,Slider
+Julian Briggs,27,C,Power Slugger,0.11,2.73,5,89.4,28.3,single,Curveball
+Julian Briggs,27,C,Power Slugger,-0.72,1.83,7,92.5,22.7,field_out,Curveball
+Julian Briggs,27,C,Power Slugger,-0.21,2.62,5,112.0,32.5,home_run,4-Seam Fastball
+Julian Briggs,27,C,Power Slugger,0.04,1.39,14,83.7,33.1,single,4-Seam Fastball
+Julian Briggs,27,C,Power Slugger,-0.12,1.8,8,94.8,-16.3,field_out,Sinker
+Julian Briggs,27,C,Power Slugger,0.32,2.64,6,88.5,-15.3,field_out,Curveball
+Julian Briggs,27,C,Power Slugger,-1.0,1.76,13,79.7,24.7,single,Changeup
+Julian Briggs,27,C,Power Slugger,0.01,1.7,8,102.8,-0.1,single,Cutter
+Julian Briggs,27,C,Power Slugger,0.07,1.71,8,104.7,53.2,field_out,Cutter
+Julian Briggs,27,C,Power Slugger,0.24,2.54,5,112.0,20.6,home_run,4-Seam Fastball
+Julian Briggs,27,C,Power Slugger,-0.12,1.76,8,102.9,33.8,home_run,Changeup
+Julian Briggs,27,C,Power Slugger,-0.12,3.05,2,90.3,7.1,field_out,Slider
+Julian Briggs,27,C,Power Slugger,0.63,2.93,3,88.8,2.0,grounded_into_dp,Slider
+Julian Briggs,27,C,Power Slugger,-0.55,2.97,1,104.6,-13.6,field_out,Cutter
+Julian Briggs,27,C,Power Slugger,-0.47,2.25,4,100.8,49.7,field_out,Curveball
+Julian Briggs,27,C,Power Slugger,-0.6,1.47,13,86.2,25.6,field_out,Sinker
+Julian Briggs,27,C,Power Slugger,0.12,2.09,8,93.6,17.0,field_out,Slider
+Julian Briggs,27,C,Power Slugger,0.59,3.39,3,104.3,44.8,home_run,4-Seam Fastball
+Julian Briggs,27,C,Power Slugger,-0.08,2.14,8,93.3,22.1,field_out,Changeup
+Julian Briggs,27,C,Power Slugger,-0.83,2.0,13,78.9,25.0,field_out,Cutter
+Julian Briggs,27,C,Power Slugger,0.07,1.91,8,96.0,-6.3,single,Cutter
+Grant Keller,7,SS,Line Drive Hitter,0.1,1.76,8,98.9,-10.0,grounded_into_dp,4-Seam Fastball
+Grant Keller,7,SS,Line Drive Hitter,-0.51,1.59,7,91.3,-9.1,field_out,Cutter
+Grant Keller,7,SS,Line Drive Hitter,-0.23,2.1,8,90.0,7.0,field_out,Changeup
+Grant Keller,7,SS,Line Drive Hitter,-0.49,1.5,13,82.8,10.2,single,Curveball
+Grant Keller,7,SS,Line Drive Hitter,0.01,2.22,5,98.7,-8.0,field_out,Changeup
+Grant Keller,7,SS,Line Drive Hitter,1.01,3.44,12,74.8,-0.4,field_out,4-Seam Fastball
+Grant Keller,7,SS,Line Drive Hitter,-0.06,3.08,2,91.2,27.9,field_out,Cutter
+Grant Keller,7,SS,Line Drive Hitter,0.37,3.24,3,96.6,54.6,field_out,Sinker
+Grant Keller,7,SS,Line Drive Hitter,-0.05,3.12,2,93.9,-5.2,field_out,4-Seam Fastball
+Grant Keller,7,SS,Line Drive Hitter,-0.01,2.47,5,88.6,6.0,field_out,4-Seam Fastball
+Grant Keller,7,SS,Line Drive Hitter,0.01,1.4,14,87.0,-7.4,field_out,4-Seam Fastball
+Grant Keller,7,SS,Line Drive Hitter,0.06,2.04,8,111.2,-1.5,field_out,Slider
+Grant Keller,7,SS,Line Drive Hitter,0.2,2.27,5,96.1,57.2,field_out,Changeup
+Grant Keller,7,SS,Line Drive Hitter,-0.19,3.22,2,89.4,18.7,single,Changeup
+Grant Keller,7,SS,Line Drive Hitter,0.52,2.55,6,94.3,6.3,field_out,Cutter
+Grant Keller,7,SS,Line Drive Hitter,0.09,3.15,2,104.0,22.7,home_run,Curveball
+Grant Keller,7,SS,Line Drive Hitter,0.59,3.39,3,95.6,-14.0,single,Cutter
+Grant Keller,7,SS,Line Drive Hitter,0.21,2.26,5,104.9,-1.9,single,Cutter
+Grant Keller,7,SS,Line Drive Hitter,0.05,2.33,5,93.8,28.5,single,4-Seam Fastball
+Grant Keller,7,SS,Line Drive Hitter,-1.04,1.77,13,90.2,51.3,field_out,4-Seam Fastball
+Grant Keller,7,SS,Line Drive Hitter,-0.04,2.71,5,102.4,53.0,field_out,Cutter
+Grant Keller,7,SS,Line Drive Hitter,-0.22,3.32,2,98.0,18.5,double,Cutter
+Grant Keller,7,SS,Line Drive Hitter,-0.58,1.87,7,88.5,16.0,single,Sinker
+Grant Keller,7,SS,Line Drive Hitter,0.0,2.88,2,85.0,-0.7,field_out,Cutter
+Grant Keller,7,SS,Line Drive Hitter,-0.18,1.37,13,78.5,-13.7,grounded_into_dp,Slider
+Grant Keller,7,SS,Line Drive Hitter,-0.24,1.88,8,90.5,23.9,single,Cutter
+Grant Keller,7,SS,Line Drive Hitter,-0.12,3.0,2,100.3,45.6,field_out,Sinker
+Grant Keller,7,SS,Line Drive Hitter,-0.06,2.4,5,93.1,16.3,single,Slider
+Grant Keller,7,SS,Line Drive Hitter,-1.35,1.34,13,88.0,47.9,field_out,Curveball
+Grant Keller,7,SS,Line Drive Hitter,0.44,2.65,6,92.7,50.7,field_out,Sinker
+Grant Keller,7,SS,Line Drive Hitter,0.14,3.22,2,95.1,33.8,field_out,Changeup
+Grant Keller,7,SS,Line Drive Hitter,1.09,3.26,12,87.4,10.8,single,Curveball
+Grant Keller,7,SS,Line Drive Hitter,-0.3,1.82,7,84.1,27.0,field_out,Changeup
+Grant Keller,7,SS,Line Drive Hitter,-1.3,1.28,13,87.1,47.9,field_out,Slider
+Grant Keller,7,SS,Line Drive Hitter,-0.18,2.05,8,87.9,12.7,single,Changeup
+Grant Keller,7,SS,Line Drive Hitter,-0.04,2.95,2,97.9,20.6,single,Sinker
+Grant Keller,7,SS,Line Drive Hitter,0.99,1.77,14,74.8,30.6,field_out,Changeup
+Grant Keller,7,SS,Line Drive Hitter,0.08,3.47,2,95.3,21.2,double,Cutter
+Grant Keller,7,SS,Line Drive Hitter,-0.53,3.07,1,90.2,2.8,field_out,Slider
+Grant Keller,7,SS,Line Drive Hitter,-1.0,3.24,11,83.7,-14.1,field_out,Changeup
+Grant Keller,7,SS,Line Drive Hitter,-1.35,3.68,11,77.5,52.3,field_out,Changeup
+Grant Keller,7,SS,Line Drive Hitter,-0.12,2.02,8,91.3,43.1,field_out,Cutter
+Grant Keller,7,SS,Line Drive Hitter,-0.67,2.56,4,84.9,-3.7,field_out,Sinker
+Grant Keller,7,SS,Line Drive Hitter,0.39,3.28,3,85.5,28.3,single,Changeup
+Grant Keller,7,SS,Line Drive Hitter,-0.58,2.47,4,89.7,22.5,field_out,Curveball
+Grant Keller,7,SS,Line Drive Hitter,0.52,1.5,9,91.0,17.5,single,4-Seam Fastball
+Grant Keller,7,SS,Line Drive Hitter,-0.02,3.73,11,79.2,-8.1,field_out,Curveball
+Grant Keller,7,SS,Line Drive Hitter,0.85,2.71,12,90.4,7.6,field_out,Sinker
+Grant Keller,7,SS,Line Drive Hitter,0.1,2.2,5,90.8,10.5,single,Cutter
+Grant Keller,7,SS,Line Drive Hitter,-1.14,1.46,13,78.8,41.4,field_out,Changeup
+Grant Keller,7,SS,Line Drive Hitter,-0.54,2.33,4,90.8,4.5,field_out,Cutter
+Grant Keller,7,SS,Line Drive Hitter,-0.28,1.94,7,101.1,-11.0,field_out,Slider
+Grant Keller,7,SS,Line Drive Hitter,0.22,2.89,2,103.5,-7.1,grounded_into_dp,Cutter
+Grant Keller,7,SS,Line Drive Hitter,1.18,3.32,12,79.5,30.5,single,Cutter
+Nate Donovan,10,2B,Line Drive Hitter,0.65,2.3,6,94.2,-17.3,field_out,4-Seam Fastball
+Nate Donovan,10,2B,Line Drive Hitter,0.3,2.19,6,92.3,41.2,field_out,Sinker
+Nate Donovan,10,2B,Line Drive Hitter,-0.35,3.29,1,83.5,31.3,field_out,Sinker
+Nate Donovan,10,2B,Line Drive Hitter,-0.61,2.52,4,96.9,27.9,double,4-Seam Fastball
+Nate Donovan,10,2B,Line Drive Hitter,-0.68,3.39,1,90.6,-16.4,field_out,Slider
+Nate Donovan,10,2B,Line Drive Hitter,-0.61,1.95,7,92.7,24.8,field_out,Curveball
+Nate Donovan,10,2B,Line Drive Hitter,0.96,1.41,14,73.9,42.4,field_out,Cutter
+Nate Donovan,10,2B,Line Drive Hitter,0.09,2.97,2,83.3,20.4,field_out,Curveball
+Nate Donovan,10,2B,Line Drive Hitter,-0.55,2.68,4,95.9,42.0,field_out,Curveball
+Nate Donovan,10,2B,Line Drive Hitter,0.53,1.97,9,92.8,-11.5,field_out,Curveball
+Nate Donovan,10,2B,Line Drive Hitter,-0.03,2.33,5,96.1,41.1,field_out,4-Seam Fastball
+Nate Donovan,10,2B,Line Drive Hitter,-0.71,1.85,7,90.4,53.4,field_out,4-Seam Fastball
+Nate Donovan,10,2B,Line Drive Hitter,-0.55,2.68,4,100.5,12.5,double,Sinker
+Nate Donovan,10,2B,Line Drive Hitter,1.2,2.74,12,82.9,-15.9,field_out,4-Seam Fastball
+Nate Donovan,10,2B,Line Drive Hitter,-0.11,2.46,5,93.6,57.1,field_out,Cutter
+Nate Donovan,10,2B,Line Drive Hitter,0.65,2.1,9,85.9,20.1,field_out,Sinker
+Nate Donovan,10,2B,Line Drive Hitter,-0.72,1.81,7,82.8,22.8,single,Cutter
+Nate Donovan,10,2B,Line Drive Hitter,1.21,3.09,12,85.3,-18.3,field_out,Sinker
+Nate Donovan,10,2B,Line Drive Hitter,0.51,2.17,9,90.3,31.1,field_out,Slider
+Nate Donovan,10,2B,Line Drive Hitter,-0.61,2.38,4,92.9,35.3,single,Sinker
+Nate Donovan,10,2B,Line Drive Hitter,-0.11,2.43,5,93.6,45.3,field_out,Cutter
+Nate Donovan,10,2B,Line Drive Hitter,-0.52,1.5,7,94.5,22.8,single,Sinker
+Nate Donovan,10,2B,Line Drive Hitter,-0.46,2.71,4,87.9,17.0,single,Changeup
+Nate Donovan,10,2B,Line Drive Hitter,0.51,2.77,6,92.9,0.4,field_out,Sinker
+Nate Donovan,10,2B,Line Drive Hitter,-0.65,1.93,7,86.5,46.0,field_out,Changeup
+Nate Donovan,10,2B,Line Drive Hitter,-0.48,2.28,4,93.1,21.1,field_out,Curveball
+Nate Donovan,10,2B,Line Drive Hitter,1.32,3.27,12,83.8,12.0,single,Changeup
+Nate Donovan,10,2B,Line Drive Hitter,0.38,2.76,6,90.0,19.4,single,Curveball
+Nate Donovan,10,2B,Line Drive Hitter,-0.25,1.49,13,90.5,29.0,single,Changeup
+Nate Donovan,10,2B,Line Drive Hitter,0.51,2.75,6,89.4,-7.8,field_out,Cutter
+Nate Donovan,10,2B,Line Drive Hitter,-0.43,1.73,7,101.4,23.7,home_run,Slider
+Nate Donovan,10,2B,Line Drive Hitter,-0.11,2.56,5,98.9,22.6,double,Sinker
+Nate Donovan,10,2B,Line Drive Hitter,0.01,2.33,5,98.4,-5.8,single,Changeup
+Nate Donovan,10,2B,Line Drive Hitter,0.43,2.45,6,94.9,10.5,field_out,Cutter
+Nate Donovan,10,2B,Line Drive Hitter,-0.62,2.54,4,88.4,41.2,field_out,Curveball
+Nate Donovan,10,2B,Line Drive Hitter,0.38,2.65,6,99.7,-14.9,field_out,Cutter
+Nate Donovan,10,2B,Line Drive Hitter,0.21,2.0,8,95.0,-2.6,field_out,Curveball
+Nate Donovan,10,2B,Line Drive Hitter,0.41,2.22,6,92.3,-16.6,field_out,Sinker
+Nate Donovan,10,2B,Line Drive Hitter,0.79,3.28,3,92.0,9.5,single,Slider
+Nate Donovan,10,2B,Line Drive Hitter,0.94,2.82,12,93.3,0.8,field_out,Changeup
+Nate Donovan,10,2B,Line Drive Hitter,1.2,1.94,14,81.2,5.8,field_out,4-Seam Fastball
+Nate Donovan,10,2B,Line Drive Hitter,-0.7,3.03,1,82.5,18.4,field_out,Cutter
+Nate Donovan,10,2B,Line Drive Hitter,-0.18,2.92,2,88.3,4.7,field_out,Sinker
+Nate Donovan,10,2B,Line Drive Hitter,-0.05,2.87,2,94.5,53.3,field_out,Slider
+Nate Donovan,10,2B,Line Drive Hitter,0.52,2.56,6,94.2,3.4,grounded_into_dp,Changeup
+Nate Donovan,10,2B,Line Drive Hitter,-0.81,3.5,1,93.5,23.6,field_out,4-Seam Fastball
+Nate Donovan,10,2B,Line Drive Hitter,1.13,3.01,12,84.7,2.7,grounded_into_dp,Slider
+Nate Donovan,10,2B,Line Drive Hitter,-0.67,1.85,7,81.3,3.4,field_out,Sinker
+Nate Donovan,10,2B,Line Drive Hitter,0.61,2.87,3,90.8,-11.7,field_out,4-Seam Fastball
+Nate Donovan,10,2B,Line Drive Hitter,-0.08,2.9,2,92.9,4.3,field_out,Cutter
+Wyatt Mercer,3,OF,Line Drive Hitter,0.23,3.31,2,91.8,8.7,field_out,Changeup
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.77,2.02,7,84.4,57.8,field_out,Sinker
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.59,2.31,4,90.3,21.3,single,Changeup
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.44,2.66,4,103.2,12.8,double,Changeup
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.33,3.03,1,95.1,51.8,field_out,4-Seam Fastball
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.55,2.84,1,87.9,-15.9,grounded_into_dp,4-Seam Fastball
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.42,3.08,1,104.1,55.1,home_run,Curveball
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.62,2.79,4,103.1,42.8,field_out,Cutter
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.27,3.44,2,90.1,23.3,single,Slider
+Wyatt Mercer,3,OF,Line Drive Hitter,0.46,3.19,3,85.7,21.4,single,4-Seam Fastball
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.18,3.43,2,100.7,39.2,field_out,Curveball
+Wyatt Mercer,3,OF,Line Drive Hitter,0.11,3.16,2,99.7,34.2,field_out,Changeup
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.03,3.06,2,99.2,52.5,field_out,Slider
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.38,1.89,7,93.9,-15.9,field_out,Curveball
+Wyatt Mercer,3,OF,Line Drive Hitter,-1.23,1.29,13,82.1,47.6,field_out,Slider
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.02,3.2,2,98.5,-8.3,field_out,Cutter
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.33,2.63,4,91.3,53.9,field_out,Slider
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.17,3.42,2,84.8,22.0,field_out,Curveball
+Wyatt Mercer,3,OF,Line Drive Hitter,0.46,2.91,3,90.3,-11.7,field_out,Sinker
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.32,3.39,1,91.7,3.4,field_out,Cutter
+Wyatt Mercer,3,OF,Line Drive Hitter,1.19,1.58,14,76.9,-16.3,field_out,Cutter
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.52,3.21,1,90.8,19.9,single,Slider
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.25,3.06,2,91.2,47.9,field_out,Changeup
+Wyatt Mercer,3,OF,Line Drive Hitter,1.18,1.79,14,81.9,23.6,single,Sinker
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.57,2.46,4,89.2,55.6,field_out,Cutter
+Wyatt Mercer,3,OF,Line Drive Hitter,0.4,2.98,3,84.4,26.0,single,4-Seam Fastball
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.28,3.1,1,92.8,-19.1,field_out,Curveball
+Wyatt Mercer,3,OF,Line Drive Hitter,0.42,1.86,9,83.3,-8.6,field_out,Sinker
+Wyatt Mercer,3,OF,Line Drive Hitter,0.13,3.1,2,93.9,6.0,field_out,Sinker
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.46,3.14,1,92.4,-12.8,field_out,Changeup
+Wyatt Mercer,3,OF,Line Drive Hitter,0.14,1.56,8,91.1,19.2,single,Slider
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.79,2.52,4,95.9,16.5,double,Slider
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.13,2.98,2,95.0,-5.4,field_out,4-Seam Fastball
+Wyatt Mercer,3,OF,Line Drive Hitter,0.76,1.77,9,90.3,24.8,single,Curveball
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.7,2.52,4,89.6,36.5,field_out,Cutter
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.53,3.06,1,105.6,18.0,single,Sinker
+Wyatt Mercer,3,OF,Line Drive Hitter,0.11,2.95,2,95.8,53.0,field_out,Changeup
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.13,3.02,2,92.6,26.6,single,Curveball
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.67,2.98,1,91.9,1.0,field_out,Sinker
+Wyatt Mercer,3,OF,Line Drive Hitter,0.93,2.98,12,83.8,4.4,field_out,Curveball
+Wyatt Mercer,3,OF,Line Drive Hitter,0.5,2.16,9,94.4,-5.0,field_out,Curveball
+Wyatt Mercer,3,OF,Line Drive Hitter,1.09,1.49,14,83.8,49.1,field_out,Curveball
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.08,3.41,2,95.1,-12.0,single,Slider
+Wyatt Mercer,3,OF,Line Drive Hitter,0.29,3.24,3,97.0,48.6,field_out,Curveball
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.08,3.44,2,94.9,12.1,single,Changeup
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.4,3.38,1,98.8,-11.2,field_out,Sinker
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.06,2.41,5,90.3,18.6,single,4-Seam Fastball
+Wyatt Mercer,3,OF,Line Drive Hitter,-0.47,3.0,1,96.3,28.8,field_out,Cutter
+Chase Montgomery,12,C,Line Drive Hitter,-0.55,2.15,7,89.1,31.1,single,Slider
+Chase Montgomery,12,C,Line Drive Hitter,-0.47,3.41,1,97.4,-15.4,field_out,Sinker
+Chase Montgomery,12,C,Line Drive Hitter,-0.03,2.06,8,100.0,50.8,field_out,Sinker
+Chase Montgomery,12,C,Line Drive Hitter,1.02,2.98,12,84.9,54.3,field_out,Changeup
+Chase Montgomery,12,C,Line Drive Hitter,1.13,3.59,12,77.2,19.3,single,Changeup
+Chase Montgomery,12,C,Line Drive Hitter,-0.34,1.8,7,96.7,41.4,field_out,Changeup
+Chase Montgomery,12,C,Line Drive Hitter,-0.32,1.83,7,84.0,50.6,field_out,4-Seam Fastball
+Chase Montgomery,12,C,Line Drive Hitter,-0.09,1.72,8,91.2,-10.3,field_out,Changeup
+Chase Montgomery,12,C,Line Drive Hitter,0.29,3.09,3,96.2,-10.2,field_out,4-Seam Fastball
+Chase Montgomery,12,C,Line Drive Hitter,-0.28,1.82,8,100.0,7.2,single,Changeup
+Chase Montgomery,12,C,Line Drive Hitter,-0.16,1.91,8,86.5,49.9,field_out,Sinker
+Chase Montgomery,12,C,Line Drive Hitter,-0.34,3.07,1,92.4,27.8,field_out,Curveball
+Chase Montgomery,12,C,Line Drive Hitter,0.16,2.2,5,94.7,15.5,single,Sinker
+Chase Montgomery,12,C,Line Drive Hitter,-0.75,1.93,7,82.3,30.1,field_out,Changeup
+Chase Montgomery,12,C,Line Drive Hitter,0.61,2.61,6,96.9,38.9,field_out,Slider
+Chase Montgomery,12,C,Line Drive Hitter,0.2,1.9,8,97.1,-4.4,field_out,4-Seam Fastball
+Chase Montgomery,12,C,Line Drive Hitter,-0.02,2.29,5,99.1,21.1,double,4-Seam Fastball
+Chase Montgomery,12,C,Line Drive Hitter,0.53,2.56,6,95.0,-16.9,single,4-Seam Fastball
+Chase Montgomery,12,C,Line Drive Hitter,-0.1,2.48,5,96.9,14.9,double,Changeup
+Chase Montgomery,12,C,Line Drive Hitter,0.03,2.4,5,98.9,5.3,field_out,Slider
+Chase Montgomery,12,C,Line Drive Hitter,0.13,1.98,8,88.1,53.6,field_out,Cutter
+Chase Montgomery,12,C,Line Drive Hitter,-0.35,2.65,4,87.4,11.1,single,4-Seam Fastball
+Chase Montgomery,12,C,Line Drive Hitter,-0.48,2.24,4,88.3,8.8,field_out,Slider
+Chase Montgomery,12,C,Line Drive Hitter,-0.06,1.43,13,83.5,47.6,field_out,Cutter
+Chase Montgomery,12,C,Line Drive Hitter,-0.19,1.61,8,97.8,55.2,field_out,Slider
+Chase Montgomery,12,C,Line Drive Hitter,0.86,2.0,14,81.2,33.1,field_out,Slider
+Chase Montgomery,12,C,Line Drive Hitter,0.01,3.42,2,84.4,10.7,single,4-Seam Fastball
+Chase Montgomery,12,C,Line Drive Hitter,-1.06,1.76,13,88.5,53.6,field_out,Changeup
+Chase Montgomery,12,C,Line Drive Hitter,0.58,3.38,3,74.6,40.4,field_out,4-Seam Fastball
+Chase Montgomery,12,C,Line Drive Hitter,0.12,2.82,5,90.6,22.3,field_out,Curveball
+Chase Montgomery,12,C,Line Drive Hitter,0.53,2.05,9,98.4,-3.6,field_out,Cutter
+Chase Montgomery,12,C,Line Drive Hitter,0.24,2.28,5,97.1,20.3,single,Changeup
+Chase Montgomery,12,C,Line Drive Hitter,-0.04,1.65,8,107.1,56.7,field_out,Curveball
+Chase Montgomery,12,C,Line Drive Hitter,-0.58,2.83,4,92.9,20.1,single,Curveball
+Chase Montgomery,12,C,Line Drive Hitter,-0.11,1.88,8,90.5,19.4,single,Sinker
+Chase Montgomery,12,C,Line Drive Hitter,-0.24,2.45,5,81.7,-14.5,field_out,Sinker
+Chase Montgomery,12,C,Line Drive Hitter,0.28,2.67,5,93.4,-19.8,field_out,4-Seam Fastball
+Chase Montgomery,12,C,Line Drive Hitter,0.29,2.74,6,90.3,21.7,field_out,4-Seam Fastball
+Chase Montgomery,12,C,Line Drive Hitter,0.21,1.87,8,92.9,34.4,field_out,Changeup
+Chase Montgomery,12,C,Line Drive Hitter,0.12,2.97,2,91.0,16.4,single,4-Seam Fastball
+Chase Montgomery,12,C,Line Drive Hitter,-0.91,3.3,11,95.0,7.6,field_out,4-Seam Fastball
+Chase Montgomery,12,C,Line Drive Hitter,-0.56,1.75,7,85.9,17.6,single,Sinker
+Chase Montgomery,12,C,Line Drive Hitter,-0.32,2.15,7,91.0,-3.1,field_out,4-Seam Fastball
+Chase Montgomery,12,C,Line Drive Hitter,0.09,2.04,8,93.0,6.6,field_out,Changeup
+Chase Montgomery,12,C,Line Drive Hitter,-0.09,2.53,5,102.5,-16.8,single,Cutter
+Tyler Callahan,21,OF,Line Drive Hitter,-0.39,2.32,4,77.3,41.7,field_out,Curveball
+Tyler Callahan,21,OF,Line Drive Hitter,1.06,3.08,12,81.8,34.3,single,Curveball
+Tyler Callahan,21,OF,Line Drive Hitter,0.56,2.61,6,92.8,49.4,field_out,Changeup
+Tyler Callahan,21,OF,Line Drive Hitter,0.35,2.81,6,93.3,-2.3,field_out,Slider
+Tyler Callahan,21,OF,Line Drive Hitter,0.55,3.21,3,100.1,28.6,home_run,Changeup
+Tyler Callahan,21,OF,Line Drive Hitter,0.44,3.24,3,89.4,32.5,field_out,Sinker
+Tyler Callahan,21,OF,Line Drive Hitter,0.57,2.79,6,90.7,-6.5,field_out,4-Seam Fastball
+Tyler Callahan,21,OF,Line Drive Hitter,0.45,3.18,3,94.2,16.4,single,Curveball
+Tyler Callahan,21,OF,Line Drive Hitter,0.37,2.69,6,100.7,27.9,home_run,4-Seam Fastball
+Tyler Callahan,21,OF,Line Drive Hitter,0.98,3.69,12,75.8,-11.5,field_out,Curveball
+Tyler Callahan,21,OF,Line Drive Hitter,0.72,3.1,3,102.3,2.2,single,Changeup
+Tyler Callahan,21,OF,Line Drive Hitter,-1.05,3.36,11,84.1,40.4,field_out,Sinker
+Tyler Callahan,21,OF,Line Drive Hitter,-0.4,2.1,7,95.9,-3.3,single,Slider
+Tyler Callahan,21,OF,Line Drive Hitter,1.29,1.95,14,77.4,-8.0,field_out,4-Seam Fastball
+Tyler Callahan,21,OF,Line Drive Hitter,1.03,1.49,14,80.9,-19.3,grounded_into_dp,Slider
+Tyler Callahan,21,OF,Line Drive Hitter,0.79,3.47,3,92.3,-8.6,field_out,Changeup
+Tyler Callahan,21,OF,Line Drive Hitter,-0.04,3.4,2,83.0,-3.2,field_out,4-Seam Fastball
+Tyler Callahan,21,OF,Line Drive Hitter,0.88,3.17,12,81.7,-0.9,field_out,Changeup
+Tyler Callahan,21,OF,Line Drive Hitter,0.05,2.49,5,86.4,-19.2,field_out,Curveball
+Tyler Callahan,21,OF,Line Drive Hitter,0.65,2.5,6,91.6,9.2,single,Curveball
+Tyler Callahan,21,OF,Line Drive Hitter,-1.12,3.06,11,81.1,32.8,field_out,Cutter
+Tyler Callahan,21,OF,Line Drive Hitter,-0.05,3.51,11,87.5,11.2,single,Cutter
+Tyler Callahan,21,OF,Line Drive Hitter,0.5,2.48,6,96.5,55.1,field_out,Changeup
+Tyler Callahan,21,OF,Line Drive Hitter,0.21,1.92,8,88.9,17.4,single,Changeup
+Tyler Callahan,21,OF,Line Drive Hitter,0.08,2.62,5,83.4,12.0,field_out,Changeup
+Tyler Callahan,21,OF,Line Drive Hitter,0.31,2.99,3,97.9,43.6,field_out,Slider
+Tyler Callahan,21,OF,Line Drive Hitter,0.64,2.27,6,88.5,37.2,field_out,Sinker
+Tyler Callahan,21,OF,Line Drive Hitter,0.52,3.06,3,83.6,-3.9,field_out,Slider
+Tyler Callahan,21,OF,Line Drive Hitter,0.68,2.46,6,87.5,-2.6,field_out,Sinker
+Tyler Callahan,21,OF,Line Drive Hitter,0.09,3.1,2,95.6,-2.7,field_out,Curveball
+Tyler Callahan,21,OF,Line Drive Hitter,0.9,3.06,12,76.5,9.4,single,Slider
+Tyler Callahan,21,OF,Line Drive Hitter,0.48,2.17,9,90.9,20.8,single,Slider
+Tyler Callahan,21,OF,Line Drive Hitter,0.63,3.08,3,97.3,2.1,single,Cutter
+Tyler Callahan,21,OF,Line Drive Hitter,0.66,3.08,3,97.3,44.7,field_out,4-Seam Fastball
+Tyler Callahan,21,OF,Line Drive Hitter,0.54,2.56,6,99.6,17.1,double,Slider
+Tyler Callahan,21,OF,Line Drive Hitter,0.94,1.56,14,79.1,45.4,field_out,Slider
+Tyler Callahan,21,OF,Line Drive Hitter,0.8,2.44,6,93.4,54.5,field_out,Slider
+Tyler Callahan,21,OF,Line Drive Hitter,0.54,3.22,3,96.7,-4.1,single,4-Seam Fastball
+Tyler Callahan,21,OF,Line Drive Hitter,1.22,1.96,14,81.0,55.2,field_out,Slider
+Tyler Callahan,21,OF,Line Drive Hitter,-0.44,1.85,7,93.1,-19.5,field_out,Changeup
+Tyler Callahan,21,OF,Line Drive Hitter,-0.51,2.93,1,88.2,25.1,single,Sinker
+Tyler Callahan,21,OF,Line Drive Hitter,-1.24,3.39,11,76.9,53.0,field_out,Changeup
+Tyler Callahan,21,OF,Line Drive Hitter,-0.25,2.3,5,89.5,6.6,field_out,Sinker
+Tyler Callahan,21,OF,Line Drive Hitter,0.17,2.61,5,98.0,0.6,field_out,Changeup
+Austin Rhodes,9,2B,Line Drive Hitter,0.09,3.25,2,86.2,52.0,field_out,Cutter
+Austin Rhodes,9,2B,Line Drive Hitter,-0.34,2.66,4,95.0,10.5,single,Changeup
+Austin Rhodes,9,2B,Line Drive Hitter,-0.36,2.32,4,92.6,17.9,single,Sinker
+Austin Rhodes,9,2B,Line Drive Hitter,-0.67,2.47,4,89.3,53.1,field_out,Sinker
+Austin Rhodes,9,2B,Line Drive Hitter,-0.61,1.85,7,96.4,-11.7,single,Slider
+Austin Rhodes,9,2B,Line Drive Hitter,1.1,1.52,14,86.3,33.5,single,Changeup
+Austin Rhodes,9,2B,Line Drive Hitter,-0.38,2.46,4,88.8,39.8,field_out,Slider
+Austin Rhodes,9,2B,Line Drive Hitter,-0.69,2.29,4,98.6,15.9,double,Cutter
+Austin Rhodes,9,2B,Line Drive Hitter,-0.03,2.82,5,91.9,23.2,single,4-Seam Fastball
+Austin Rhodes,9,2B,Line Drive Hitter,0.01,3.22,2,97.0,11.3,single,Curveball
+Austin Rhodes,9,2B,Line Drive Hitter,-1.34,1.7,13,90.7,-7.5,field_out,Changeup
+Austin Rhodes,9,2B,Line Drive Hitter,-0.23,2.77,5,94.6,-13.3,field_out,4-Seam Fastball
+Austin Rhodes,9,2B,Line Drive Hitter,-0.64,2.03,7,97.9,27.0,double,Cutter
+Austin Rhodes,9,2B,Line Drive Hitter,-0.36,2.45,4,95.5,14.7,double,Cutter
+Austin Rhodes,9,2B,Line Drive Hitter,-0.64,1.44,13,82.6,35.7,single,Changeup
+Austin Rhodes,9,2B,Line Drive Hitter,-0.64,1.87,7,88.1,-20.0,field_out,Cutter
+Austin Rhodes,9,2B,Line Drive Hitter,0.2,2.36,5,93.2,39.3,field_out,Slider
+Austin Rhodes,9,2B,Line Drive Hitter,-0.06,2.53,5,97.3,-11.2,grounded_into_dp,Cutter
+Austin Rhodes,9,2B,Line Drive Hitter,-0.71,1.78,7,91.4,14.7,single,Curveball
+Austin Rhodes,9,2B,Line Drive Hitter,-0.09,2.69,5,95.8,-7.9,field_out,Curveball
+Austin Rhodes,9,2B,Line Drive Hitter,-0.52,2.45,4,97.2,57.1,field_out,4-Seam Fastball
+Austin Rhodes,9,2B,Line Drive Hitter,-1.05,3.17,11,68.9,48.5,field_out,Curveball
+Austin Rhodes,9,2B,Line Drive Hitter,-0.57,1.95,7,89.7,-1.5,field_out,Slider
+Austin Rhodes,9,2B,Line Drive Hitter,-0.53,1.88,7,89.2,1.7,field_out,Sinker
+Austin Rhodes,9,2B,Line Drive Hitter,-0.06,2.4,5,96.4,16.8,single,Changeup
+Austin Rhodes,9,2B,Line Drive Hitter,0.0,3.29,2,81.6,-14.2,field_out,Sinker
+Austin Rhodes,9,2B,Line Drive Hitter,-0.41,2.19,4,85.7,33.6,single,Slider
+Austin Rhodes,9,2B,Line Drive Hitter,1.02,2.02,14,84.3,37.7,field_out,4-Seam Fastball
+Austin Rhodes,9,2B,Line Drive Hitter,0.6,3.08,3,101.1,28.7,home_run,Sinker
+Austin Rhodes,9,2B,Line Drive Hitter,0.67,2.92,3,81.0,-16.2,field_out,Slider
+Austin Rhodes,9,2B,Line Drive Hitter,-0.4,2.78,4,99.9,15.8,double,Changeup
+Austin Rhodes,9,2B,Line Drive Hitter,-0.21,2.86,2,84.5,29.0,field_out,Curveball
+Austin Rhodes,9,2B,Line Drive Hitter,0.11,2.97,2,81.7,-18.4,field_out,Curveball
+Austin Rhodes,9,2B,Line Drive Hitter,0.01,2.28,5,98.6,8.8,single,Changeup
+Austin Rhodes,9,2B,Line Drive Hitter,-0.09,2.82,5,87.3,8.9,single,Cutter
+Austin Rhodes,9,2B,Line Drive Hitter,-0.59,2.28,4,81.4,45.9,field_out,Changeup
+Austin Rhodes,9,2B,Line Drive Hitter,0.52,1.82,9,89.6,19.2,field_out,4-Seam Fastball
+Austin Rhodes,9,2B,Line Drive Hitter,0.55,3.28,3,83.0,52.2,field_out,4-Seam Fastball
+Austin Rhodes,9,2B,Line Drive Hitter,-0.35,1.87,7,103.8,30.9,home_run,Sinker
+Austin Rhodes,9,2B,Line Drive Hitter,-0.43,1.97,7,93.7,-19.5,field_out,Changeup
+Austin Rhodes,9,2B,Line Drive Hitter,-0.65,2.06,7,90.5,20.4,field_out,Changeup
+Austin Rhodes,9,2B,Line Drive Hitter,-0.22,2.18,5,94.5,28.0,single,Changeup
+Austin Rhodes,9,2B,Line Drive Hitter,0.01,2.65,5,97.1,44.0,field_out,Changeup
+Austin Rhodes,9,2B,Line Drive Hitter,-0.84,1.66,13,81.9,51.5,field_out,Cutter
+Austin Rhodes,9,2B,Line Drive Hitter,-0.3,2.35,4,94.7,56.9,field_out,Changeup
+Austin Rhodes,9,2B,Line Drive Hitter,0.0,2.55,5,87.0,37.3,field_out,Cutter
+Austin Rhodes,9,2B,Line Drive Hitter,0.44,2.57,6,84.0,1.7,field_out,Curveball
+Preston Blake,16,OF,Line Drive Hitter,-1.3,1.75,13,86.2,42.2,field_out,Cutter
+Preston Blake,16,OF,Line Drive Hitter,0.21,2.9,2,98.8,41.1,field_out,Cutter
+Preston Blake,16,OF,Line Drive Hitter,0.51,3.26,3,94.9,50.5,field_out,Sinker
+Preston Blake,16,OF,Line Drive Hitter,-0.56,2.26,4,92.4,6.6,field_out,Changeup
+Preston Blake,16,OF,Line Drive Hitter,-0.84,2.54,11,94.8,10.3,single,Sinker
+Preston Blake,16,OF,Line Drive Hitter,0.0,3.35,2,90.8,19.1,single,Sinker
+Preston Blake,16,OF,Line Drive Hitter,-0.95,2.84,11,76.0,-18.6,field_out,Changeup
+Preston Blake,16,OF,Line Drive Hitter,-0.05,2.6,5,97.7,-13.3,field_out,4-Seam Fastball
+Preston Blake,16,OF,Line Drive Hitter,0.26,3.26,2,104.7,10.2,single,Slider
+Preston Blake,16,OF,Line Drive Hitter,0.3,3.2,3,89.7,-14.7,field_out,4-Seam Fastball
+Preston Blake,16,OF,Line Drive Hitter,-0.47,2.5,4,91.2,44.5,field_out,Curveball
+Preston Blake,16,OF,Line Drive Hitter,0.09,2.29,5,97.8,-2.2,single,Cutter
+Preston Blake,16,OF,Line Drive Hitter,-0.17,2.6,5,100.7,-6.1,field_out,4-Seam Fastball
+Preston Blake,16,OF,Line Drive Hitter,0.06,2.64,5,92.4,13.8,single,Changeup
+Preston Blake,16,OF,Line Drive Hitter,0.32,1.97,9,94.4,0.3,field_out,Slider
+Preston Blake,16,OF,Line Drive Hitter,-0.63,2.47,4,89.0,9.2,field_out,Curveball
+Preston Blake,16,OF,Line Drive Hitter,0.38,3.11,3,87.5,-8.9,field_out,Cutter
+Preston Blake,16,OF,Line Drive Hitter,-0.12,2.86,2,85.0,1.0,field_out,Changeup
+Preston Blake,16,OF,Line Drive Hitter,-0.89,3.38,11,79.4,21.5,single,4-Seam Fastball
+Preston Blake,16,OF,Line Drive Hitter,0.14,3.46,2,87.1,-13.3,field_out,Slider
+Preston Blake,16,OF,Line Drive Hitter,0.0,2.29,5,92.5,30.4,field_out,Sinker
+Preston Blake,16,OF,Line Drive Hitter,0.67,2.82,6,100.4,47.2,field_out,Cutter
+Preston Blake,16,OF,Line Drive Hitter,0.29,3.18,3,84.6,29.1,field_out,Curveball
+Preston Blake,16,OF,Line Drive Hitter,-0.24,3.47,2,93.0,44.5,field_out,Changeup
+Preston Blake,16,OF,Line Drive Hitter,-0.26,2.5,5,86.2,40.8,field_out,Sinker
+Preston Blake,16,OF,Line Drive Hitter,-1.03,1.62,13,87.0,10.1,single,4-Seam Fastball
+Preston Blake,16,OF,Line Drive Hitter,-0.47,1.88,7,91.9,16.1,single,Cutter
+Preston Blake,16,OF,Line Drive Hitter,0.07,2.73,5,96.9,23.6,double,Changeup
+Preston Blake,16,OF,Line Drive Hitter,-0.32,3.23,1,86.7,11.4,single,4-Seam Fastball
+Preston Blake,16,OF,Line Drive Hitter,-1.11,1.85,13,68.2,9.8,field_out,4-Seam Fastball
+Preston Blake,16,OF,Line Drive Hitter,-1.3,3.06,11,89.2,25.6,field_out,Changeup
+Preston Blake,16,OF,Line Drive Hitter,-0.76,2.44,4,102.1,15.5,double,Changeup
+Preston Blake,16,OF,Line Drive Hitter,0.76,2.94,3,86.9,17.0,single,Curveball
+Preston Blake,16,OF,Line Drive Hitter,-0.47,2.82,4,85.5,-1.6,field_out,Slider
+Preston Blake,16,OF,Line Drive Hitter,0.02,2.32,5,90.5,52.3,field_out,4-Seam Fastball
+Preston Blake,16,OF,Line Drive Hitter,0.09,2.63,5,94.8,-18.8,field_out,Changeup
+Preston Blake,16,OF,Line Drive Hitter,0.67,2.83,6,95.3,1.1,field_out,4-Seam Fastball
+Preston Blake,16,OF,Line Drive Hitter,-0.73,2.51,4,87.3,-5.9,field_out,Sinker
+Preston Blake,16,OF,Line Drive Hitter,0.66,2.46,6,92.4,50.6,field_out,Cutter
+Preston Blake,16,OF,Line Drive Hitter,0.16,2.68,5,94.6,50.1,field_out,Sinker
+Preston Blake,16,OF,Line Drive Hitter,0.12,2.59,5,100.2,-14.6,field_out,Curveball
+Trevor Finch,19,3B,Line Drive Hitter,0.99,3.01,12,78.5,7.2,field_out,4-Seam Fastball
+Trevor Finch,19,3B,Line Drive Hitter,0.63,2.01,9,97.3,6.3,field_out,Curveball
+Trevor Finch,19,3B,Line Drive Hitter,0.3,1.31,14,83.3,12.2,field_out,Sinker
+Trevor Finch,19,3B,Line Drive Hitter,0.13,2.03,8,92.3,3.3,grounded_into_dp,Cutter
+Trevor Finch,19,3B,Line Drive Hitter,-1.11,1.69,13,84.4,38.3,field_out,Curveball
+Trevor Finch,19,3B,Line Drive Hitter,-0.94,1.83,13,85.0,33.5,single,Cutter
+Trevor Finch,19,3B,Line Drive Hitter,0.56,2.9,3,89.7,4.0,field_out,Slider
+Trevor Finch,19,3B,Line Drive Hitter,0.09,1.72,8,83.6,-16.3,field_out,Sinker
+Trevor Finch,19,3B,Line Drive Hitter,0.2,2.25,5,88.7,54.7,field_out,Curveball
+Trevor Finch,19,3B,Line Drive Hitter,0.74,1.98,9,96.9,21.7,single,Slider
+Trevor Finch,19,3B,Line Drive Hitter,-0.25,3.18,2,86.0,-12.0,field_out,Sinker
+Trevor Finch,19,3B,Line Drive Hitter,-0.19,1.54,8,85.7,0.4,field_out,4-Seam Fastball
+Trevor Finch,19,3B,Line Drive Hitter,-0.35,3.01,1,88.7,1.8,field_out,Cutter
+Trevor Finch,19,3B,Line Drive Hitter,0.45,2.78,6,83.4,-18.4,field_out,4-Seam Fastball
+Trevor Finch,19,3B,Line Drive Hitter,0.77,1.96,9,93.8,23.3,field_out,Curveball
+Trevor Finch,19,3B,Line Drive Hitter,1.3,3.62,12,82.4,51.6,field_out,Curveball
+Trevor Finch,19,3B,Line Drive Hitter,0.31,3.1,3,86.6,39.3,field_out,Sinker
+Trevor Finch,19,3B,Line Drive Hitter,0.61,1.83,9,95.7,36.8,field_out,Sinker
+Trevor Finch,19,3B,Line Drive Hitter,-0.14,2.83,2,86.1,-0.4,field_out,Sinker
+Trevor Finch,19,3B,Line Drive Hitter,0.22,1.64,8,86.5,-14.3,field_out,Changeup
+Trevor Finch,19,3B,Line Drive Hitter,0.43,2.12,9,93.8,39.6,field_out,Sinker
+Trevor Finch,19,3B,Line Drive Hitter,0.59,1.86,9,91.7,34.2,field_out,4-Seam Fastball
+Trevor Finch,19,3B,Line Drive Hitter,-0.52,3.14,1,90.5,-17.4,grounded_into_dp,Changeup
+Trevor Finch,19,3B,Line Drive Hitter,0.85,3.45,12,74.4,-19.6,grounded_into_dp,Changeup
+Trevor Finch,19,3B,Line Drive Hitter,0.7,2.1,9,98.2,-3.0,field_out,Slider
+Trevor Finch,19,3B,Line Drive Hitter,0.35,1.64,9,99.5,56.6,field_out,Sinker
+Trevor Finch,19,3B,Line Drive Hitter,0.6,1.79,9,94.2,-3.7,field_out,Sinker
+Trevor Finch,19,3B,Line Drive Hitter,0.74,2.1,9,91.4,-3.8,field_out,Curveball
+Trevor Finch,19,3B,Line Drive Hitter,0.54,2.43,6,80.6,6.6,field_out,Sinker
+Trevor Finch,19,3B,Line Drive Hitter,-0.9,1.63,13,86.8,7.2,field_out,Sinker
+Trevor Finch,19,3B,Line Drive Hitter,-0.73,1.65,7,88.7,25.7,single,Changeup
+Trevor Finch,19,3B,Line Drive Hitter,0.53,2.02,9,93.1,25.1,field_out,Slider
+Trevor Finch,19,3B,Line Drive Hitter,-0.29,1.84,7,89.0,48.0,field_out,Sinker
+Trevor Finch,19,3B,Line Drive Hitter,-0.23,2.65,5,91.5,-14.5,field_out,Changeup
+Trevor Finch,19,3B,Line Drive Hitter,0.6,3.24,3,92.6,32.6,single,Cutter
+Trevor Finch,19,3B,Line Drive Hitter,-0.14,3.01,2,84.5,9.9,field_out,Sinker
+Trevor Finch,19,3B,Line Drive Hitter,-0.15,2.22,5,91.9,47.9,field_out,Curveball
+Trevor Finch,19,3B,Line Drive Hitter,-1.2,3.35,11,87.8,30.0,single,Sinker
+Cameron Shaw,2,CF,Contact Specialist,-0.47,2.19,4,87.4,48.1,field_out,Changeup
+Cameron Shaw,2,CF,Contact Specialist,0.16,2.7,5,86.2,-9.7,field_out,Changeup
+Cameron Shaw,2,CF,Contact Specialist,0.56,1.87,9,89.9,-5.0,field_out,Slider
+Cameron Shaw,2,CF,Contact Specialist,-0.14,2.2,5,92.7,26.6,field_out,Cutter
+Cameron Shaw,2,CF,Contact Specialist,0.13,3.63,12,79.3,-13.1,field_out,4-Seam Fastball
+Cameron Shaw,2,CF,Contact Specialist,-0.11,2.22,5,100.1,6.0,grounded_into_dp,Sinker
+Cameron Shaw,2,CF,Contact Specialist,-0.69,1.73,7,82.7,9.0,single,Slider
+Cameron Shaw,2,CF,Contact Specialist,0.55,1.42,14,83.2,56.1,field_out,Curveball
+Cameron Shaw,2,CF,Contact Specialist,-0.12,1.9,8,88.0,17.9,single,4-Seam Fastball
+Cameron Shaw,2,CF,Contact Specialist,-0.23,3.34,2,85.2,34.0,field_out,4-Seam Fastball
+Cameron Shaw,2,CF,Contact Specialist,-0.05,1.96,8,84.1,4.5,grounded_into_dp,Curveball
+Cameron Shaw,2,CF,Contact Specialist,0.1,2.05,8,87.1,15.6,single,Sinker
+Cameron Shaw,2,CF,Contact Specialist,-0.11,1.86,8,81.9,-5.1,field_out,Sinker
+Cameron Shaw,2,CF,Contact Specialist,-0.79,2.87,1,88.7,40.1,field_out,4-Seam Fastball
+Cameron Shaw,2,CF,Contact Specialist,0.1,1.59,8,84.2,45.2,field_out,Changeup
+Cameron Shaw,2,CF,Contact Specialist,-0.04,1.65,8,92.0,-14.6,field_out,Cutter
+Cameron Shaw,2,CF,Contact Specialist,0.54,2.59,6,90.3,27.8,field_out,Slider
+Cameron Shaw,2,CF,Contact Specialist,0.08,1.97,8,100.2,36.3,field_out,Cutter
+Cameron Shaw,2,CF,Contact Specialist,0.35,1.62,9,88.9,24.5,field_out,Changeup
+Cameron Shaw,2,CF,Contact Specialist,-0.08,1.78,8,94.6,-5.7,field_out,Slider
+Cameron Shaw,2,CF,Contact Specialist,0.17,1.78,8,90.6,16.6,single,Changeup
+Cameron Shaw,2,CF,Contact Specialist,-0.04,2.43,5,101.5,14.1,double,Changeup
+Cameron Shaw,2,CF,Contact Specialist,1.18,3.27,12,80.8,13.9,single,Sinker
+Cameron Shaw,2,CF,Contact Specialist,0.18,2.96,2,79.4,-5.0,field_out,Curveball
+Cameron Shaw,2,CF,Contact Specialist,0.21,2.74,5,95.6,-15.2,grounded_into_dp,Changeup
+Cameron Shaw,2,CF,Contact Specialist,0.63,3.3,3,88.0,-5.2,field_out,Sinker
+Cameron Shaw,2,CF,Contact Specialist,0.17,2.56,5,87.1,35.2,field_out,Cutter
+Cameron Shaw,2,CF,Contact Specialist,-0.16,1.75,8,84.7,17.5,single,Cutter
+Cameron Shaw,2,CF,Contact Specialist,0.67,3.13,3,87.3,-5.9,field_out,Sinker
+Cameron Shaw,2,CF,Contact Specialist,1.05,3.29,12,93.4,-2.5,field_out,Sinker
+Cameron Shaw,2,CF,Contact Specialist,-0.2,1.6,8,94.3,-19.7,field_out,Cutter
+Cameron Shaw,2,CF,Contact Specialist,1.15,3.69,12,82.2,3.4,field_out,Curveball
+Cameron Shaw,2,CF,Contact Specialist,-0.48,1.38,13,81.2,26.7,single,Changeup
+Cameron Shaw,2,CF,Contact Specialist,-0.79,1.8,7,87.5,17.4,single,Cutter
+Cameron Shaw,2,CF,Contact Specialist,-0.01,2.44,5,95.2,21.0,double,Slider
+Cameron Shaw,2,CF,Contact Specialist,-0.66,1.89,7,95.0,43.4,field_out,Cutter
+Cameron Shaw,2,CF,Contact Specialist,-0.09,2.26,5,86.9,41.2,field_out,Curveball
+Cameron Shaw,2,CF,Contact Specialist,-0.66,3.12,1,83.8,0.1,field_out,4-Seam Fastball
+Cameron Shaw,2,CF,Contact Specialist,-0.4,2.78,4,90.9,8.7,single,Changeup
+Cameron Shaw,2,CF,Contact Specialist,0.12,2.91,2,85.6,2.4,field_out,4-Seam Fastball
+Cameron Shaw,2,CF,Contact Specialist,-0.0,1.9,8,96.7,33.9,field_out,Slider
+Cameron Shaw,2,CF,Contact Specialist,0.08,2.16,8,93.4,27.0,field_out,Cutter
+Cameron Shaw,2,CF,Contact Specialist,0.14,2.25,5,89.5,23.9,field_out,Cutter
+Cameron Shaw,2,CF,Contact Specialist,-0.85,3.45,11,78.0,55.2,field_out,4-Seam Fastball
+Cameron Shaw,2,CF,Contact Specialist,-0.09,1.92,8,92.5,1.1,field_out,Cutter
+Cameron Shaw,2,CF,Contact Specialist,0.31,2.08,9,87.4,-2.4,field_out,Changeup
+Cameron Shaw,2,CF,Contact Specialist,0.17,1.82,8,84.1,50.7,field_out,Slider
+Cameron Shaw,2,CF,Contact Specialist,-0.15,2.36,5,83.9,13.4,field_out,Cutter
+Cameron Shaw,2,CF,Contact Specialist,0.41,3.35,3,85.8,-5.9,field_out,Cutter
+Cameron Shaw,2,CF,Contact Specialist,-0.16,2.17,5,92.3,26.8,field_out,Slider
+Cameron Shaw,2,CF,Contact Specialist,-0.91,3.5,11,75.0,39.0,field_out,Cutter
+Cameron Shaw,2,CF,Contact Specialist,0.03,2.62,5,85.3,37.1,field_out,Curveball
+Cameron Shaw,2,CF,Contact Specialist,-0.71,1.62,7,92.7,47.6,field_out,Sinker
+Cameron Shaw,2,CF,Contact Specialist,-0.4,1.57,7,91.4,1.2,field_out,Changeup
+Cameron Shaw,2,CF,Contact Specialist,0.66,1.63,9,93.0,-8.0,field_out,4-Seam Fastball
+Derrick Lawson,5,IF,Contact Specialist,0.06,2.82,5,90.5,-11.0,field_out,Curveball
+Derrick Lawson,5,IF,Contact Specialist,-0.6,2.65,4,88.5,7.7,field_out,Cutter
+Derrick Lawson,5,IF,Contact Specialist,0.06,2.57,5,93.6,-18.1,field_out,Cutter
+Derrick Lawson,5,IF,Contact Specialist,0.27,2.76,5,86.5,53.0,field_out,Cutter
+Derrick Lawson,5,IF,Contact Specialist,-0.18,1.79,8,89.5,26.5,field_out,4-Seam Fastball
+Derrick Lawson,5,IF,Contact Specialist,-0.02,1.44,13,83.2,-1.8,field_out,Changeup
+Derrick Lawson,5,IF,Contact Specialist,-0.44,3.45,1,88.2,21.5,field_out,4-Seam Fastball
+Derrick Lawson,5,IF,Contact Specialist,0.75,3.37,3,88.0,47.3,field_out,4-Seam Fastball
+Derrick Lawson,5,IF,Contact Specialist,-0.52,2.51,4,88.0,50.5,field_out,Curveball
+Derrick Lawson,5,IF,Contact Specialist,0.83,1.54,14,79.9,-3.4,field_out,Slider
+Derrick Lawson,5,IF,Contact Specialist,0.07,1.38,14,86.3,47.5,field_out,Cutter
+Derrick Lawson,5,IF,Contact Specialist,-0.39,2.49,4,87.9,49.6,field_out,Cutter
+Derrick Lawson,5,IF,Contact Specialist,-0.74,2.83,4,98.4,50.2,field_out,4-Seam Fastball
+Derrick Lawson,5,IF,Contact Specialist,1.1,1.41,14,86.0,36.2,field_out,Cutter
+Derrick Lawson,5,IF,Contact Specialist,0.22,2.21,5,91.2,19.0,single,Cutter
+Derrick Lawson,5,IF,Contact Specialist,-1.26,1.91,13,84.2,-15.3,field_out,Curveball
+Derrick Lawson,5,IF,Contact Specialist,-0.82,3.49,1,88.4,30.6,field_out,4-Seam Fastball
+Derrick Lawson,5,IF,Contact Specialist,0.63,1.62,9,100.3,17.7,field_out,Cutter
+Derrick Lawson,5,IF,Contact Specialist,0.04,2.25,5,93.1,47.2,field_out,Changeup
+Derrick Lawson,5,IF,Contact Specialist,1.06,1.32,14,85.8,33.5,field_out,Changeup
+Derrick Lawson,5,IF,Contact Specialist,-0.01,1.74,8,91.7,28.8,field_out,Changeup
+Derrick Lawson,5,IF,Contact Specialist,-0.14,2.57,5,93.6,13.4,single,4-Seam Fastball
+Derrick Lawson,5,IF,Contact Specialist,0.11,1.66,8,95.0,31.4,field_out,Curveball
+Derrick Lawson,5,IF,Contact Specialist,-0.66,2.56,4,91.5,19.2,field_out,Curveball
+Derrick Lawson,5,IF,Contact Specialist,-0.64,2.46,4,89.8,-18.0,field_out,Slider
+Derrick Lawson,5,IF,Contact Specialist,0.42,2.35,6,83.3,19.3,single,4-Seam Fastball
+Derrick Lawson,5,IF,Contact Specialist,-0.09,1.78,8,89.2,7.1,grounded_into_dp,Curveball
+Derrick Lawson,5,IF,Contact Specialist,-0.04,2.13,8,87.9,52.8,field_out,Changeup
+Derrick Lawson,5,IF,Contact Specialist,0.33,1.61,9,84.3,14.4,single,Cutter
+Derrick Lawson,5,IF,Contact Specialist,-0.06,2.14,8,85.8,-18.3,field_out,Curveball
+Derrick Lawson,5,IF,Contact Specialist,1.21,3.18,12,79.8,28.4,field_out,Changeup
+Derrick Lawson,5,IF,Contact Specialist,-0.72,2.74,4,89.8,-4.3,field_out,Changeup
+Derrick Lawson,5,IF,Contact Specialist,-0.06,2.57,5,90.0,35.9,field_out,Curveball
+Derrick Lawson,5,IF,Contact Specialist,0.48,2.19,6,90.0,-6.4,field_out,Changeup
+Derrick Lawson,5,IF,Contact Specialist,0.54,2.98,3,90.6,33.7,field_out,Sinker
+Derrick Lawson,5,IF,Contact Specialist,-0.65,2.24,4,79.7,0.2,field_out,Sinker
+Derrick Lawson,5,IF,Contact Specialist,-0.22,2.68,5,91.2,40.3,field_out,Sinker
+Derrick Lawson,5,IF,Contact Specialist,0.62,2.77,6,87.1,7.5,field_out,Cutter
+Derrick Lawson,5,IF,Contact Specialist,-0.6,2.69,4,90.4,25.6,field_out,Curveball
+Derrick Lawson,5,IF,Contact Specialist,-0.25,2.43,5,83.2,3.3,field_out,Changeup
+Derrick Lawson,5,IF,Contact Specialist,0.17,2.42,5,81.2,43.9,field_out,Slider
+Derrick Lawson,5,IF,Contact Specialist,0.38,1.73,9,88.1,13.0,field_out,Sinker
+Derrick Lawson,5,IF,Contact Specialist,0.34,2.2,6,96.5,-13.6,single,Sinker
+Derrick Lawson,5,IF,Contact Specialist,1.07,2.84,12,84.8,-1.6,field_out,Curveball
+Derrick Lawson,5,IF,Contact Specialist,0.04,2.92,2,83.9,13.5,single,Changeup
+Garrett Boone,1,LF,Contact Specialist,-0.7,2.6,4,88.7,-12.1,field_out,Changeup
+Garrett Boone,1,LF,Contact Specialist,0.35,1.89,9,92.0,-9.8,field_out,4-Seam Fastball
+Garrett Boone,1,LF,Contact Specialist,-0.64,3.19,1,86.7,54.0,field_out,4-Seam Fastball
+Garrett Boone,1,LF,Contact Specialist,-0.65,2.61,4,83.8,13.5,field_out,Cutter
+Garrett Boone,1,LF,Contact Specialist,-0.43,2.42,4,92.5,-12.7,field_out,4-Seam Fastball
+Garrett Boone,1,LF,Contact Specialist,-0.45,2.11,7,86.6,19.0,single,Sinker
+Garrett Boone,1,LF,Contact Specialist,-0.47,1.68,7,89.8,19.7,field_out,Changeup
+Garrett Boone,1,LF,Contact Specialist,0.93,1.55,14,80.9,-7.0,field_out,Sinker
+Garrett Boone,1,LF,Contact Specialist,-0.03,2.19,5,89.5,36.2,field_out,Cutter
+Garrett Boone,1,LF,Contact Specialist,0.06,1.73,8,84.1,3.0,field_out,4-Seam Fastball
+Garrett Boone,1,LF,Contact Specialist,-0.3,2.37,4,84.7,20.2,single,Cutter
+Garrett Boone,1,LF,Contact Specialist,0.69,3.21,3,88.8,-18.6,grounded_into_dp,Curveball
+Garrett Boone,1,LF,Contact Specialist,1.6,1.71,14,80.0,43.5,field_out,Cutter
+Garrett Boone,1,LF,Contact Specialist,-0.6,3.22,1,89.9,14.0,field_out,Slider
+Garrett Boone,1,LF,Contact Specialist,-0.63,1.89,7,86.4,-12.2,grounded_into_dp,Sinker
+Garrett Boone,1,LF,Contact Specialist,-0.62,1.59,7,88.9,0.9,field_out,Changeup
+Garrett Boone,1,LF,Contact Specialist,-0.32,3.23,1,87.0,13.9,field_out,Changeup
+Garrett Boone,1,LF,Contact Specialist,0.12,2.25,5,88.3,10.0,single,Cutter
+Garrett Boone,1,LF,Contact Specialist,-0.43,3.5,1,90.0,13.9,single,4-Seam Fastball
+Garrett Boone,1,LF,Contact Specialist,-0.59,3.15,1,89.0,30.0,field_out,Curveball
+Garrett Boone,1,LF,Contact Specialist,1.15,1.85,14,74.1,24.1,single,Slider
+Garrett Boone,1,LF,Contact Specialist,-0.39,2.4,4,84.7,-12.2,field_out,Curveball
+Garrett Boone,1,LF,Contact Specialist,0.17,3.38,2,91.2,48.3,field_out,Curveball
+Garrett Boone,1,LF,Contact Specialist,-0.11,1.79,8,79.1,16.4,field_out,Slider
+Garrett Boone,1,LF,Contact Specialist,-0.07,3.06,2,81.3,56.2,field_out,Curveball
+Garrett Boone,1,LF,Contact Specialist,-0.49,2.25,4,91.7,14.2,field_out,4-Seam Fastball
+Garrett Boone,1,LF,Contact Specialist,-1.09,2.3,13,80.6,0.9,field_out,4-Seam Fastball
+Garrett Boone,1,LF,Contact Specialist,-0.47,2.83,1,85.2,17.8,single,4-Seam Fastball
+Garrett Boone,1,LF,Contact Specialist,-0.24,3.1,2,89.2,24.4,single,Sinker
+Garrett Boone,1,LF,Contact Specialist,0.4,3.03,3,84.1,-8.0,field_out,4-Seam Fastball
+Garrett Boone,1,LF,Contact Specialist,0.36,2.55,6,94.2,39.6,field_out,Sinker
+Garrett Boone,1,LF,Contact Specialist,-0.89,2.48,13,74.8,36.4,field_out,Slider
+Garrett Boone,1,LF,Contact Specialist,0.91,2.53,12,75.0,55.5,field_out,Curveball
+Garrett Boone,1,LF,Contact Specialist,-0.32,2.97,1,93.0,2.8,field_out,Curveball
+Garrett Boone,1,LF,Contact Specialist,0.59,2.26,6,90.1,55.4,field_out,Slider
+Garrett Boone,1,LF,Contact Specialist,0.25,1.63,8,85.9,47.1,field_out,Changeup
+Garrett Boone,1,LF,Contact Specialist,1.12,3.07,12,82.8,31.1,single,Changeup
+Garrett Boone,1,LF,Contact Specialist,0.27,1.97,8,86.8,20.7,field_out,Curveball
+Garrett Boone,1,LF,Contact Specialist,-0.59,2.78,4,93.0,56.4,field_out,Changeup
+Garrett Boone,1,LF,Contact Specialist,0.21,1.65,8,84.6,-13.7,field_out,Cutter
+Garrett Boone,1,LF,Contact Specialist,-0.21,2.19,5,92.4,-3.9,field_out,4-Seam Fastball
+Garrett Boone,1,LF,Contact Specialist,-0.36,3.06,1,88.6,16.6,single,Slider
+Garrett Boone,1,LF,Contact Specialist,-0.31,2.09,7,88.1,-10.9,field_out,Cutter
+Spencer Reed,11,UT,Contact Specialist,-0.27,1.88,8,84.5,17.3,single,Slider
+Spencer Reed,11,UT,Contact Specialist,0.1,3.27,2,92.0,-9.3,field_out,Curveball
+Spencer Reed,11,UT,Contact Specialist,-0.89,3.07,11,81.1,20.7,single,4-Seam Fastball
+Spencer Reed,11,UT,Contact Specialist,0.08,3.15,2,89.0,-8.7,field_out,Cutter
+Spencer Reed,11,UT,Contact Specialist,0.08,2.94,2,90.3,24.9,field_out,Slider
+Spencer Reed,11,UT,Contact Specialist,0.63,1.81,9,83.3,-16.8,field_out,Changeup
+Spencer Reed,11,UT,Contact Specialist,-0.44,1.87,7,83.9,-10.1,field_out,Curveball
+Spencer Reed,11,UT,Contact Specialist,0.59,2.68,6,95.2,53.7,field_out,Changeup
+Spencer Reed,11,UT,Contact Specialist,0.63,2.76,6,84.9,34.9,field_out,Changeup
+Spencer Reed,11,UT,Contact Specialist,0.42,1.6,9,78.5,24.0,field_out,Sinker
+Spencer Reed,11,UT,Contact Specialist,-0.1,2.54,5,84.4,36.2,field_out,Changeup
+Spencer Reed,11,UT,Contact Specialist,0.48,1.58,9,85.2,28.7,field_out,4-Seam Fastball
+Spencer Reed,11,UT,Contact Specialist,-0.27,3.23,2,97.0,30.5,field_out,Sinker
+Spencer Reed,11,UT,Contact Specialist,0.55,1.92,9,85.3,56.3,field_out,Cutter
+Spencer Reed,11,UT,Contact Specialist,0.04,3.31,2,84.2,25.8,single,Cutter
+Spencer Reed,11,UT,Contact Specialist,0.31,2.94,3,88.1,-8.1,field_out,Slider
+Spencer Reed,11,UT,Contact Specialist,0.69,2.62,6,91.9,20.9,field_out,Cutter
+Spencer Reed,11,UT,Contact Specialist,-0.04,3.11,2,95.5,17.2,double,Cutter
+Spencer Reed,11,UT,Contact Specialist,-0.03,3.23,2,91.0,45.5,field_out,Curveball
+Spencer Reed,11,UT,Contact Specialist,0.22,3.31,2,83.2,16.0,field_out,Cutter
+Spencer Reed,11,UT,Contact Specialist,1.08,1.79,14,79.4,-1.3,field_out,Changeup
+Spencer Reed,11,UT,Contact Specialist,-0.32,2.8,4,84.4,14.6,field_out,Curveball
+Spencer Reed,11,UT,Contact Specialist,0.85,2.08,14,79.9,56.4,field_out,Slider
+Spencer Reed,11,UT,Contact Specialist,0.07,3.26,2,84.7,-13.8,field_out,Curveball
+Spencer Reed,11,UT,Contact Specialist,0.63,2.75,6,85.6,-15.2,field_out,Cutter
+Spencer Reed,11,UT,Contact Specialist,0.5,2.83,6,89.3,5.0,field_out,Curveball
+Spencer Reed,11,UT,Contact Specialist,0.52,2.33,6,93.5,-15.5,field_out,Changeup
+Spencer Reed,11,UT,Contact Specialist,0.85,2.42,14,81.1,28.5,field_out,Cutter
+Spencer Reed,11,UT,Contact Specialist,-0.03,2.0,8,77.9,-19.2,field_out,Slider
+Spencer Reed,11,UT,Contact Specialist,0.24,2.46,5,89.1,1.9,field_out,Slider
+Spencer Reed,11,UT,Contact Specialist,1.08,3.29,12,72.2,7.1,field_out,4-Seam Fastball
+Spencer Reed,11,UT,Contact Specialist,0.27,2.12,8,88.0,24.8,single,Cutter
+Spencer Reed,11,UT,Contact Specialist,0.64,2.44,6,93.9,9.7,single,Sinker
+Spencer Reed,11,UT,Contact Specialist,-1.48,3.57,11,80.8,2.4,field_out,4-Seam Fastball
+Spencer Reed,11,UT,Contact Specialist,0.42,2.34,6,89.9,16.3,single,Curveball
+Spencer Reed,11,UT,Contact Specialist,0.39,2.65,6,87.6,9.7,field_out,Sinker
+Spencer Reed,11,UT,Contact Specialist,-0.52,2.42,4,81.8,45.9,field_out,Changeup
+Spencer Reed,11,UT,Contact Specialist,0.26,1.9,8,81.2,27.0,single,Curveball
+Spencer Reed,11,UT,Contact Specialist,-0.66,3.26,1,84.4,16.8,single,Curveball
+Brady Thornton,6,CF,Contact Specialist,-0.13,2.87,2,82.6,9.8,field_out,Changeup
+Brady Thornton,6,CF,Contact Specialist,-0.57,2.41,4,82.2,48.8,field_out,Changeup
+Brady Thornton,6,CF,Contact Specialist,0.11,2.62,5,89.7,55.3,field_out,4-Seam Fastball
+Brady Thornton,6,CF,Contact Specialist,-1.28,1.53,13,76.0,-1.3,grounded_into_dp,Sinker
+Brady Thornton,6,CF,Contact Specialist,0.46,1.95,9,94.7,2.9,field_out,Slider
+Brady Thornton,6,CF,Contact Specialist,-0.2,1.77,8,87.7,-1.3,field_out,Slider
+Brady Thornton,6,CF,Contact Specialist,-0.31,2.42,4,85.6,7.6,field_out,Cutter
+Brady Thornton,6,CF,Contact Specialist,1.26,2.1,14,77.7,-7.0,field_out,Slider
+Brady Thornton,6,CF,Contact Specialist,0.68,1.55,9,98.0,-8.1,grounded_into_dp,4-Seam Fastball
+Brady Thornton,6,CF,Contact Specialist,-0.42,1.43,13,78.0,56.3,field_out,Sinker
+Brady Thornton,6,CF,Contact Specialist,-1.02,1.9,13,85.3,21.3,single,4-Seam Fastball
+Brady Thornton,6,CF,Contact Specialist,-0.17,2.35,5,86.8,54.5,field_out,Slider
+Brady Thornton,6,CF,Contact Specialist,0.7,2.4,6,90.5,24.1,field_out,Slider
+Brady Thornton,6,CF,Contact Specialist,0.3,2.18,6,89.8,-8.1,field_out,Curveball
+Brady Thornton,6,CF,Contact Specialist,0.87,3.36,12,79.3,13.7,field_out,4-Seam Fastball
+Brady Thornton,6,CF,Contact Specialist,0.91,1.87,14,88.8,-13.9,field_out,Slider
+Brady Thornton,6,CF,Contact Specialist,1.23,1.94,14,81.5,-18.7,field_out,Slider
+Brady Thornton,6,CF,Contact Specialist,-0.15,2.77,5,93.8,40.8,field_out,Curveball
+Brady Thornton,6,CF,Contact Specialist,0.54,1.77,9,90.0,34.3,field_out,Curveball
+Brady Thornton,6,CF,Contact Specialist,-0.74,3.58,11,74.2,15.3,field_out,Sinker
+Brady Thornton,6,CF,Contact Specialist,0.03,1.89,8,90.4,-18.6,field_out,Curveball
+Brady Thornton,6,CF,Contact Specialist,-1.07,1.91,13,81.7,34.0,single,Cutter
+Brady Thornton,6,CF,Contact Specialist,1.6,1.74,14,76.6,41.0,field_out,4-Seam Fastball
+Brady Thornton,6,CF,Contact Specialist,0.52,2.01,9,93.3,-11.8,field_out,Curveball
+Brady Thornton,6,CF,Contact Specialist,-0.13,2.26,5,91.4,5.0,field_out,Changeup
+Brady Thornton,6,CF,Contact Specialist,0.66,2.07,9,92.9,39.8,field_out,4-Seam Fastball
+Brady Thornton,6,CF,Contact Specialist,0.58,1.98,9,84.7,-2.4,field_out,Cutter
+Brady Thornton,6,CF,Contact Specialist,0.51,3.17,3,82.4,-1.5,field_out,Changeup
+Brady Thornton,6,CF,Contact Specialist,0.76,2.73,6,89.7,11.6,single,Sinker
+Brady Thornton,6,CF,Contact Specialist,0.04,1.98,8,88.5,0.3,field_out,4-Seam Fastball
+Brady Thornton,6,CF,Contact Specialist,0.94,3.22,12,84.7,-20.0,field_out,Curveball
+Brady Thornton,6,CF,Contact Specialist,-0.71,3.46,1,91.8,6.6,field_out,Sinker
+Brady Thornton,6,CF,Contact Specialist,-0.53,1.97,7,98.9,34.4,single,Cutter
+Brady Thornton,6,CF,Contact Specialist,0.16,2.03,8,83.1,-13.3,grounded_into_dp,Sinker
+Brady Thornton,6,CF,Contact Specialist,0.27,2.44,5,88.3,34.7,single,4-Seam Fastball
+Brady Thornton,6,CF,Contact Specialist,0.26,1.29,14,85.3,16.0,single,Sinker
+Zachary Cole,4,2B,Contact Specialist,0.61,1.66,9,79.2,24.0,field_out,Cutter
+Zachary Cole,4,2B,Contact Specialist,0.34,3.41,3,90.3,-16.4,field_out,4-Seam Fastball
+Zachary Cole,4,2B,Contact Specialist,0.38,2.22,6,91.9,-0.5,field_out,Changeup
+Zachary Cole,4,2B,Contact Specialist,0.65,1.92,9,94.4,22.7,single,4-Seam Fastball
+Zachary Cole,4,2B,Contact Specialist,0.55,2.4,6,83.6,-2.8,field_out,Cutter
+Zachary Cole,4,2B,Contact Specialist,-1.17,1.79,13,81.5,-3.7,field_out,Cutter
+Zachary Cole,4,2B,Contact Specialist,0.37,2.97,3,90.7,33.7,field_out,Slider
+Zachary Cole,4,2B,Contact Specialist,1.14,3.1,12,73.7,-2.3,grounded_into_dp,Sinker
+Zachary Cole,4,2B,Contact Specialist,-0.5,2.93,1,86.4,38.7,field_out,Curveball
+Zachary Cole,4,2B,Contact Specialist,0.16,2.16,8,93.7,41.6,field_out,4-Seam Fastball
+Zachary Cole,4,2B,Contact Specialist,0.1,2.39,5,99.0,12.9,double,Cutter
+Zachary Cole,4,2B,Contact Specialist,0.64,3.56,12,86.2,-19.4,field_out,4-Seam Fastball
+Zachary Cole,4,2B,Contact Specialist,-0.59,2.42,4,85.8,1.3,field_out,Curveball
+Zachary Cole,4,2B,Contact Specialist,0.37,3.43,3,85.6,51.7,field_out,Cutter
+Zachary Cole,4,2B,Contact Specialist,1.39,1.2,14,75.1,56.3,field_out,Cutter
+Zachary Cole,4,2B,Contact Specialist,0.46,2.43,6,92.5,-9.5,field_out,Changeup
+Zachary Cole,4,2B,Contact Specialist,0.56,2.46,6,86.5,20.1,field_out,Changeup
+Zachary Cole,4,2B,Contact Specialist,1.18,3.08,12,76.0,35.2,field_out,Changeup
+Zachary Cole,4,2B,Contact Specialist,0.25,2.45,5,94.9,17.4,single,Slider
+Zachary Cole,4,2B,Contact Specialist,-0.13,2.93,2,84.1,27.2,single,4-Seam Fastball
+Zachary Cole,4,2B,Contact Specialist,0.58,3.2,3,93.1,6.5,grounded_into_dp,Curveball
+Zachary Cole,4,2B,Contact Specialist,1.09,3.04,12,89.3,42.6,field_out,Cutter
+Zachary Cole,4,2B,Contact Specialist,0.33,2.32,6,87.3,42.3,field_out,Cutter
+Zachary Cole,4,2B,Contact Specialist,0.64,3.0,3,98.9,28.6,field_out,Cutter
+Zachary Cole,4,2B,Contact Specialist,0.21,2.09,8,90.6,52.9,field_out,Cutter
+Zachary Cole,4,2B,Contact Specialist,-1.25,1.72,13,85.5,17.6,field_out,Changeup
+Zachary Cole,4,2B,Contact Specialist,0.03,2.33,5,88.4,12.0,single,Changeup
+Zachary Cole,4,2B,Contact Specialist,0.36,2.2,6,93.1,3.0,field_out,4-Seam Fastball
+Zachary Cole,4,2B,Contact Specialist,0.82,2.49,6,86.4,23.0,field_out,Cutter
+Zachary Cole,4,2B,Contact Specialist,0.64,3.29,3,92.2,35.4,single,Changeup
+Zachary Cole,4,2B,Contact Specialist,0.53,2.62,6,86.5,9.4,single,Sinker
+Zachary Cole,4,2B,Contact Specialist,0.08,1.94,8,89.6,24.0,field_out,Slider
+Zachary Cole,4,2B,Contact Specialist,0.02,2.14,8,86.1,6.4,field_out,Sinker
+Zachary Cole,4,2B,Contact Specialist,0.43,1.75,9,95.5,17.3,single,Sinker
+Zachary Cole,4,2B,Contact Specialist,-0.15,1.87,8,83.8,55.5,field_out,Curveball
+Mateo Ramos,13,SS,Contact Specialist,-0.78,2.38,4,86.2,2.8,field_out,Slider
+Mateo Ramos,13,SS,Contact Specialist,0.54,2.57,6,91.9,41.3,field_out,Curveball
+Mateo Ramos,13,SS,Contact Specialist,0.05,3.46,2,88.5,1.8,field_out,Slider
+Mateo Ramos,13,SS,Contact Specialist,0.2,2.17,8,94.4,6.6,grounded_into_dp,Sinker
+Mateo Ramos,13,SS,Contact Specialist,0.96,2.7,12,83.9,21.6,single,Curveball
+Mateo Ramos,13,SS,Contact Specialist,-0.23,2.81,5,91.7,20.5,single,Curveball
+Mateo Ramos,13,SS,Contact Specialist,0.13,2.25,5,88.6,-15.5,field_out,Cutter
+Mateo Ramos,13,SS,Contact Specialist,0.41,1.73,9,84.0,-9.2,field_out,Sinker
+Mateo Ramos,13,SS,Contact Specialist,1.08,1.58,14,69.9,-9.4,grounded_into_dp,Curveball
+Mateo Ramos,13,SS,Contact Specialist,0.37,2.46,6,87.4,20.1,single,Cutter
+Mateo Ramos,13,SS,Contact Specialist,-0.24,2.26,5,90.2,6.7,field_out,Slider
+Mateo Ramos,13,SS,Contact Specialist,-0.92,3.76,11,83.2,-18.7,field_out,Cutter
+Mateo Ramos,13,SS,Contact Specialist,-0.63,2.45,4,88.7,-16.6,field_out,Sinker
+Mateo Ramos,13,SS,Contact Specialist,-0.01,2.14,8,87.0,41.4,field_out,4-Seam Fastball
+Mateo Ramos,13,SS,Contact Specialist,0.73,1.38,14,87.1,17.9,single,Changeup
+Mateo Ramos,13,SS,Contact Specialist,-0.85,2.72,11,82.0,32.8,single,Changeup
+Mateo Ramos,13,SS,Contact Specialist,0.92,3.19,12,88.7,40.3,field_out,Sinker
+Mateo Ramos,13,SS,Contact Specialist,0.12,2.19,5,87.3,10.7,single,Slider
+Mateo Ramos,13,SS,Contact Specialist,0.09,2.38,5,93.3,-6.8,field_out,Sinker
+Mateo Ramos,13,SS,Contact Specialist,-0.2,2.3,5,82.8,26.5,field_out,Curveball
+Mateo Ramos,13,SS,Contact Specialist,0.56,3.17,3,84.2,17.9,field_out,Curveball
+Mateo Ramos,13,SS,Contact Specialist,0.85,1.57,14,85.9,0.3,field_out,Curveball
+Mateo Ramos,13,SS,Contact Specialist,-0.24,2.12,8,88.5,4.1,field_out,Sinker
+Mateo Ramos,13,SS,Contact Specialist,-0.46,1.88,7,87.7,35.8,single,4-Seam Fastball
+Mateo Ramos,13,SS,Contact Specialist,0.78,2.01,9,88.8,31.4,field_out,Sinker
+Mateo Ramos,13,SS,Contact Specialist,-1.0,1.93,13,76.8,42.4,field_out,Changeup
+Mateo Ramos,13,SS,Contact Specialist,-0.1,2.9,2,85.6,43.0,field_out,Slider
+Mateo Ramos,13,SS,Contact Specialist,0.37,3.41,3,78.7,-4.0,field_out,Cutter
+Mateo Ramos,13,SS,Contact Specialist,-0.02,2.23,5,99.5,13.3,double,Curveball
+Mateo Ramos,13,SS,Contact Specialist,0.84,2.77,12,79.0,46.7,field_out,Changeup
+Mateo Ramos,13,SS,Contact Specialist,-0.39,1.6,7,97.5,51.2,field_out,Cutter
+Mateo Ramos,13,SS,Contact Specialist,-0.49,1.78,7,100.9,11.6,single,Changeup
+Mateo Ramos,13,SS,Contact Specialist,-0.65,2.82,4,90.9,15.1,single,Changeup
+Mateo Ramos,13,SS,Contact Specialist,-0.1,1.84,8,85.5,15.1,single,4-Seam Fastball
+Evan Davenport,18,LF,Flyball Hitter,0.67,3.19,3,87.8,34.6,single,Sinker
+Evan Davenport,18,LF,Flyball Hitter,-0.23,2.69,5,107.4,42.7,home_run,Slider
+Evan Davenport,18,LF,Flyball Hitter,0.72,3.17,3,89.9,55.2,field_out,Curveball
+Evan Davenport,18,LF,Flyball Hitter,-0.36,2.78,4,90.9,43.3,field_out,Slider
+Evan Davenport,18,LF,Flyball Hitter,0.06,1.88,8,87.2,14.7,single,4-Seam Fastball
+Evan Davenport,18,LF,Flyball Hitter,-0.5,1.7,7,88.6,15.5,field_out,Cutter
+Evan Davenport,18,LF,Flyball Hitter,0.38,2.13,9,100.0,34.3,single,Curveball
+Evan Davenport,18,LF,Flyball Hitter,-0.77,1.51,7,93.6,39.5,field_out,4-Seam Fastball
+Evan Davenport,18,LF,Flyball Hitter,0.22,1.75,8,100.5,56.3,field_out,Sinker
+Evan Davenport,18,LF,Flyball Hitter,-0.99,1.68,13,89.3,46.8,field_out,Cutter
+Evan Davenport,18,LF,Flyball Hitter,0.23,2.09,8,88.7,54.9,field_out,Slider
+Evan Davenport,18,LF,Flyball Hitter,0.73,3.1,3,91.2,-13.9,grounded_into_dp,4-Seam Fastball
+Evan Davenport,18,LF,Flyball Hitter,0.37,2.5,6,93.2,51.8,field_out,Changeup
+Evan Davenport,18,LF,Flyball Hitter,-0.69,1.66,7,82.4,13.3,field_out,4-Seam Fastball
+Evan Davenport,18,LF,Flyball Hitter,1.11,3.32,12,79.1,52.4,field_out,4-Seam Fastball
+Evan Davenport,18,LF,Flyball Hitter,0.07,2.01,8,98.3,57.1,field_out,Cutter
+Evan Davenport,18,LF,Flyball Hitter,0.37,3.1,3,95.7,47.0,field_out,Changeup
+Evan Davenport,18,LF,Flyball Hitter,0.16,1.84,8,86.5,40.3,field_out,Changeup
+Evan Davenport,18,LF,Flyball Hitter,0.89,2.29,14,78.3,42.7,field_out,4-Seam Fastball
+Evan Davenport,18,LF,Flyball Hitter,-0.41,1.66,7,91.7,26.5,field_out,Slider
+Evan Davenport,18,LF,Flyball Hitter,-0.59,2.0,7,97.9,28.0,double,Sinker
+Evan Davenport,18,LF,Flyball Hitter,0.6,2.83,6,81.6,33.8,field_out,4-Seam Fastball
+Evan Davenport,18,LF,Flyball Hitter,-1.28,1.69,13,79.2,27.1,field_out,Changeup
+Evan Davenport,18,LF,Flyball Hitter,-0.75,3.08,1,92.8,3.9,field_out,4-Seam Fastball
+Evan Davenport,18,LF,Flyball Hitter,0.07,2.62,5,94.8,56.6,field_out,4-Seam Fastball
+Evan Davenport,18,LF,Flyball Hitter,-0.15,1.59,8,100.8,45.1,field_out,4-Seam Fastball
+Evan Davenport,18,LF,Flyball Hitter,-0.52,3.65,11,80.6,52.9,field_out,4-Seam Fastball
+Evan Davenport,18,LF,Flyball Hitter,0.42,2.47,6,90.5,49.3,field_out,4-Seam Fastball
+Evan Davenport,18,LF,Flyball Hitter,0.13,3.29,2,87.6,54.3,field_out,Changeup
+Evan Davenport,18,LF,Flyball Hitter,-0.49,1.93,7,90.2,25.6,single,Cutter
+Evan Davenport,18,LF,Flyball Hitter,-0.76,2.02,7,93.8,9.7,single,4-Seam Fastball
+Evan Davenport,18,LF,Flyball Hitter,0.56,2.46,6,99.3,54.1,field_out,Curveball
+Evan Davenport,18,LF,Flyball Hitter,0.35,3.07,3,89.6,12.9,single,Cutter
+Evan Davenport,18,LF,Flyball Hitter,-0.33,1.86,7,102.6,47.8,field_out,Cutter
+Evan Davenport,18,LF,Flyball Hitter,1.33,1.67,14,83.4,10.9,single,Changeup
+Evan Davenport,18,LF,Flyball Hitter,-0.4,3.26,1,94.1,-0.6,field_out,Cutter
+Evan Davenport,18,LF,Flyball Hitter,0.71,1.77,9,85.1,17.9,field_out,4-Seam Fastball
+Evan Davenport,18,LF,Flyball Hitter,0.06,1.86,8,95.2,48.5,field_out,4-Seam Fastball
+Evan Davenport,18,LF,Flyball Hitter,-0.16,1.66,8,91.2,26.3,single,Changeup
+Evan Davenport,18,LF,Flyball Hitter,0.06,2.94,2,86.7,-19.7,field_out,4-Seam Fastball
+Evan Davenport,18,LF,Flyball Hitter,0.08,1.85,8,86.1,16.4,field_out,Sinker
+Evan Davenport,18,LF,Flyball Hitter,0.31,1.9,9,94.2,28.7,field_out,Cutter
+Evan Davenport,18,LF,Flyball Hitter,0.58,3.01,3,87.4,49.3,field_out,Changeup
+Evan Davenport,18,LF,Flyball Hitter,-0.57,1.5,13,94.3,43.1,field_out,Cutter
+Evan Davenport,18,LF,Flyball Hitter,-0.11,2.63,5,98.2,18.1,double,Sinker
+Evan Davenport,18,LF,Flyball Hitter,0.74,2.8,6,86.8,25.8,field_out,4-Seam Fastball
+Caleb Whitmore,22,RF,Flyball Hitter,-0.91,2.53,11,86.1,41.1,field_out,Sinker
+Caleb Whitmore,22,RF,Flyball Hitter,-0.02,1.53,8,91.8,8.5,single,Cutter
+Caleb Whitmore,22,RF,Flyball Hitter,-0.68,2.61,4,97.2,-8.0,single,Curveball
+Caleb Whitmore,22,RF,Flyball Hitter,0.03,3.17,2,82.2,41.2,field_out,Changeup
+Caleb Whitmore,22,RF,Flyball Hitter,0.26,1.52,8,88.9,9.3,field_out,4-Seam Fastball
+Caleb Whitmore,22,RF,Flyball Hitter,0.61,1.82,9,85.8,52.9,field_out,Sinker
+Caleb Whitmore,22,RF,Flyball Hitter,-0.12,2.07,8,92.3,28.3,single,Curveball
+Caleb Whitmore,22,RF,Flyball Hitter,0.92,3.11,12,90.5,31.2,field_out,Changeup
+Caleb Whitmore,22,RF,Flyball Hitter,0.06,2.5,5,88.0,46.1,field_out,4-Seam Fastball
+Caleb Whitmore,22,RF,Flyball Hitter,-0.4,2.56,4,91.8,16.4,single,4-Seam Fastball
+Caleb Whitmore,22,RF,Flyball Hitter,-0.43,2.38,4,100.4,32.2,home_run,Slider
+Caleb Whitmore,22,RF,Flyball Hitter,0.46,2.27,6,83.8,13.9,single,Slider
+Caleb Whitmore,22,RF,Flyball Hitter,-0.32,1.94,7,77.5,4.4,field_out,4-Seam Fastball
+Caleb Whitmore,22,RF,Flyball Hitter,-0.22,1.84,8,97.2,-10.8,field_out,Changeup
+Caleb Whitmore,22,RF,Flyball Hitter,-0.03,1.77,8,86.0,36.4,field_out,Changeup
+Caleb Whitmore,22,RF,Flyball Hitter,-0.21,1.76,8,95.5,23.1,double,Curveball
+Caleb Whitmore,22,RF,Flyball Hitter,0.58,3.45,3,92.0,-15.3,field_out,Slider
+Caleb Whitmore,22,RF,Flyball Hitter,0.48,3.51,12,82.3,6.0,field_out,Cutter
+Caleb Whitmore,22,RF,Flyball Hitter,-0.58,2.55,4,87.9,41.9,field_out,Sinker
+Caleb Whitmore,22,RF,Flyball Hitter,-0.73,2.71,4,79.1,-15.6,field_out,Slider
+Caleb Whitmore,22,RF,Flyball Hitter,-1.26,3.41,11,82.8,26.8,field_out,Sinker
+Caleb Whitmore,22,RF,Flyball Hitter,-0.9,3.33,11,90.4,36.2,field_out,Sinker
+Caleb Whitmore,22,RF,Flyball Hitter,-0.15,1.86,8,85.9,9.4,field_out,Sinker
+Caleb Whitmore,22,RF,Flyball Hitter,-0.87,2.47,13,86.4,33.3,single,Curveball
+Caleb Whitmore,22,RF,Flyball Hitter,0.48,2.9,3,86.1,57.5,field_out,Sinker
+Caleb Whitmore,22,RF,Flyball Hitter,0.05,2.13,8,90.0,16.4,single,Changeup
+Caleb Whitmore,22,RF,Flyball Hitter,-0.76,3.27,1,95.6,-18.1,field_out,4-Seam Fastball
+Caleb Whitmore,22,RF,Flyball Hitter,0.09,2.23,5,87.6,48.6,field_out,Slider
+Caleb Whitmore,22,RF,Flyball Hitter,-0.17,3.07,2,95.9,42.1,field_out,4-Seam Fastball
+Caleb Whitmore,22,RF,Flyball Hitter,0.62,2.44,6,86.5,-13.4,field_out,Cutter
+Caleb Whitmore,22,RF,Flyball Hitter,0.18,2.2,5,101.9,-9.9,field_out,Changeup
+Caleb Whitmore,22,RF,Flyball Hitter,-0.4,2.39,4,97.3,44.3,field_out,Sinker
+Caleb Whitmore,22,RF,Flyball Hitter,-0.09,1.95,8,102.3,32.9,home_run,Cutter
+Caleb Whitmore,22,RF,Flyball Hitter,-0.2,2.26,5,98.6,33.6,field_out,4-Seam Fastball
+Caleb Whitmore,22,RF,Flyball Hitter,0.3,1.97,9,84.2,36.0,single,Cutter
+Caleb Whitmore,22,RF,Flyball Hitter,-0.04,1.72,8,93.7,55.7,field_out,4-Seam Fastball
+Caleb Whitmore,22,RF,Flyball Hitter,-0.0,2.45,5,89.6,5.7,field_out,4-Seam Fastball
+Caleb Whitmore,22,RF,Flyball Hitter,-0.13,2.65,5,87.1,21.1,single,Slider
+Caleb Whitmore,22,RF,Flyball Hitter,-0.52,3.38,1,80.2,36.5,field_out,Cutter
+Caleb Whitmore,22,RF,Flyball Hitter,1.13,1.65,14,86.5,41.8,field_out,Changeup
+Caleb Whitmore,22,RF,Flyball Hitter,-0.68,2.76,4,100.7,9.6,field_out,Curveball
+Caleb Whitmore,22,RF,Flyball Hitter,0.59,2.45,6,78.5,38.1,field_out,Cutter
+Caleb Whitmore,22,RF,Flyball Hitter,0.05,1.88,8,82.3,57.0,field_out,Changeup
+Caleb Whitmore,22,RF,Flyball Hitter,-0.16,2.37,5,75.0,41.3,field_out,4-Seam Fastball
+Dominic Russo,25,OF,Flyball Hitter,0.03,2.69,5,97.5,16.4,single,Slider
+Dominic Russo,25,OF,Flyball Hitter,0.65,3.41,3,87.2,16.9,single,Changeup
+Dominic Russo,25,OF,Flyball Hitter,0.25,2.0,8,95.1,17.6,double,4-Seam Fastball
+Dominic Russo,25,OF,Flyball Hitter,0.62,2.47,6,85.1,24.0,field_out,Slider
+Dominic Russo,25,OF,Flyball Hitter,0.29,3.09,3,96.5,37.0,field_out,Curveball
+Dominic Russo,25,OF,Flyball Hitter,-0.25,1.91,8,104.9,13.2,single,Cutter
+Dominic Russo,25,OF,Flyball Hitter,0.18,1.65,8,83.7,57.2,field_out,Cutter
+Dominic Russo,25,OF,Flyball Hitter,-0.02,1.65,8,77.3,29.2,field_out,4-Seam Fastball
+Dominic Russo,25,OF,Flyball Hitter,0.33,1.89,9,86.4,11.3,single,Cutter
+Dominic Russo,25,OF,Flyball Hitter,-0.29,2.01,7,81.4,53.8,field_out,Cutter
+Dominic Russo,25,OF,Flyball Hitter,0.34,1.88,9,92.5,25.3,field_out,Changeup
+Dominic Russo,25,OF,Flyball Hitter,0.28,2.75,5,98.8,48.9,field_out,4-Seam Fastball
+Dominic Russo,25,OF,Flyball Hitter,1.04,1.53,14,85.9,17.6,field_out,Sinker
+Dominic Russo,25,OF,Flyball Hitter,0.22,3.42,2,93.8,41.0,field_out,4-Seam Fastball
+Dominic Russo,25,OF,Flyball Hitter,0.1,2.59,5,91.1,36.5,field_out,Slider
+Dominic Russo,25,OF,Flyball Hitter,-0.23,1.91,8,105.5,48.6,home_run,Sinker
+Dominic Russo,25,OF,Flyball Hitter,1.0,1.57,14,80.7,46.6,field_out,Cutter
+Dominic Russo,25,OF,Flyball Hitter,-0.04,3.25,2,98.0,43.4,field_out,Changeup
+Dominic Russo,25,OF,Flyball Hitter,0.01,2.01,8,90.9,15.5,single,Changeup
+Dominic Russo,25,OF,Flyball Hitter,0.07,2.39,5,100.9,47.7,field_out,Slider
+Dominic Russo,25,OF,Flyball Hitter,-0.07,2.26,5,94.7,51.0,field_out,Changeup
+Dominic Russo,25,OF,Flyball Hitter,0.02,2.52,5,94.2,-3.6,field_out,Slider
+Dominic Russo,25,OF,Flyball Hitter,0.1,1.61,8,103.0,44.8,field_out,Curveball
+Dominic Russo,25,OF,Flyball Hitter,0.3,1.39,14,83.7,20.4,field_out,Curveball
+Dominic Russo,25,OF,Flyball Hitter,-1.0,3.18,11,93.3,43.5,field_out,Curveball
+Dominic Russo,25,OF,Flyball Hitter,0.96,1.8,14,69.9,41.2,field_out,Sinker
+Dominic Russo,25,OF,Flyball Hitter,-0.37,2.51,4,76.0,29.7,single,Changeup
+Dominic Russo,25,OF,Flyball Hitter,0.49,3.17,3,86.9,0.6,field_out,Sinker
+Dominic Russo,25,OF,Flyball Hitter,-1.26,1.69,13,84.4,22.6,field_out,4-Seam Fastball
+Dominic Russo,25,OF,Flyball Hitter,0.64,3.14,3,78.9,43.3,field_out,Slider
+Dominic Russo,25,OF,Flyball Hitter,0.46,2.64,6,88.6,52.0,field_out,Changeup
+Dominic Russo,25,OF,Flyball Hitter,-0.25,1.87,8,90.2,11.2,single,Slider
+Dominic Russo,25,OF,Flyball Hitter,-0.01,1.71,8,89.7,43.1,field_out,Slider
+Dominic Russo,25,OF,Flyball Hitter,0.13,3.15,2,90.2,47.1,field_out,Cutter
+Dominic Russo,25,OF,Flyball Hitter,0.22,2.01,8,90.8,41.7,field_out,4-Seam Fastball
+Dominic Russo,25,OF,Flyball Hitter,-0.06,3.21,2,90.0,30.7,single,Changeup
+Dominic Russo,25,OF,Flyball Hitter,0.29,2.68,6,93.7,19.0,single,Cutter
+Dominic Russo,25,OF,Flyball Hitter,0.3,2.86,3,87.8,15.0,single,Sinker
+Dominic Russo,25,OF,Flyball Hitter,-0.46,2.45,4,88.4,29.5,field_out,Sinker
+Dominic Russo,25,OF,Flyball Hitter,-0.12,3.36,2,105.6,38.6,field_out,4-Seam Fastball
+Gavin Fletcher,31,OF,Flyball Hitter,0.72,2.41,6,98.7,10.8,single,Sinker
+Gavin Fletcher,31,OF,Flyball Hitter,-0.04,3.46,2,78.7,34.3,single,Changeup
+Gavin Fletcher,31,OF,Flyball Hitter,0.08,3.2,2,82.4,47.2,field_out,Slider
+Gavin Fletcher,31,OF,Flyball Hitter,-0.51,2.39,4,97.1,28.7,field_out,4-Seam Fastball
+Gavin Fletcher,31,OF,Flyball Hitter,0.68,1.9,9,89.6,40.2,field_out,Slider
+Gavin Fletcher,31,OF,Flyball Hitter,1.16,3.47,12,89.0,15.4,field_out,Cutter
+Gavin Fletcher,31,OF,Flyball Hitter,0.1,2.34,5,86.1,22.7,field_out,4-Seam Fastball
+Gavin Fletcher,31,OF,Flyball Hitter,-1.13,3.28,11,78.9,44.3,field_out,Curveball
+Gavin Fletcher,31,OF,Flyball Hitter,0.48,1.77,9,96.0,-8.2,field_out,Curveball
+Gavin Fletcher,31,OF,Flyball Hitter,-0.13,2.42,5,93.4,33.1,field_out,Cutter
+Gavin Fletcher,31,OF,Flyball Hitter,0.79,2.45,6,99.5,-9.2,single,4-Seam Fastball
+Gavin Fletcher,31,OF,Flyball Hitter,0.56,2.46,6,94.9,56.3,field_out,Curveball
+Gavin Fletcher,31,OF,Flyball Hitter,0.35,2.81,6,92.0,-10.8,grounded_into_dp,Curveball
+Gavin Fletcher,31,OF,Flyball Hitter,-1.06,1.92,13,88.3,56.2,field_out,4-Seam Fastball
+Gavin Fletcher,31,OF,Flyball Hitter,0.66,1.71,9,93.3,17.4,single,Curveball
+Gavin Fletcher,31,OF,Flyball Hitter,0.01,2.94,2,82.0,57.6,field_out,Slider
+Gavin Fletcher,31,OF,Flyball Hitter,0.24,2.69,5,92.5,52.9,field_out,4-Seam Fastball
+Gavin Fletcher,31,OF,Flyball Hitter,0.59,2.73,6,93.3,12.7,single,Sinker
+Gavin Fletcher,31,OF,Flyball Hitter,-0.89,1.53,13,91.7,43.7,field_out,Curveball
+Gavin Fletcher,31,OF,Flyball Hitter,0.27,2.98,2,93.0,-18.4,field_out,Curveball
+Gavin Fletcher,31,OF,Flyball Hitter,-0.04,2.08,8,85.8,17.7,field_out,Curveball
+Gavin Fletcher,31,OF,Flyball Hitter,0.36,3.19,3,84.7,55.0,field_out,Slider
+Gavin Fletcher,31,OF,Flyball Hitter,0.61,1.6,9,86.6,24.6,field_out,Curveball
+Gavin Fletcher,31,OF,Flyball Hitter,-0.23,2.53,5,77.0,32.4,field_out,Cutter
+Gavin Fletcher,31,OF,Flyball Hitter,-0.36,3.44,1,87.8,57.5,field_out,4-Seam Fastball
+Gavin Fletcher,31,OF,Flyball Hitter,0.48,2.51,6,78.6,5.3,field_out,Sinker
+Gavin Fletcher,31,OF,Flyball Hitter,-0.99,2.06,13,82.8,19.0,field_out,Changeup
+Gavin Fletcher,31,OF,Flyball Hitter,0.06,1.32,14,78.0,57.1,field_out,Cutter
+Gavin Fletcher,31,OF,Flyball Hitter,-0.09,1.89,8,88.1,34.0,field_out,Curveball
+Gavin Fletcher,31,OF,Flyball Hitter,0.75,1.36,14,88.0,54.8,field_out,Changeup
+Gavin Fletcher,31,OF,Flyball Hitter,0.09,2.39,5,90.0,30.9,field_out,Sinker
+Gavin Fletcher,31,OF,Flyball Hitter,0.57,2.09,9,93.7,44.3,field_out,Curveball
+Gavin Fletcher,31,OF,Flyball Hitter,0.47,2.01,9,90.7,15.4,single,4-Seam Fastball
+Gavin Fletcher,31,OF,Flyball Hitter,-1.14,3.27,11,89.6,13.7,single,Cutter
+Gavin Fletcher,31,OF,Flyball Hitter,0.46,2.29,6,93.1,57.7,field_out,Curveball
+Gavin Fletcher,31,OF,Flyball Hitter,0.64,1.55,9,93.0,29.0,single,Cutter
+Gavin Fletcher,31,OF,Flyball Hitter,0.88,1.76,14,85.7,39.5,field_out,Slider
+Julian Cruz,35,DH,Flyball Hitter,-0.09,2.48,5,88.1,-3.2,field_out,Curveball
+Julian Cruz,35,DH,Flyball Hitter,-0.07,2.49,5,97.3,43.4,field_out,Cutter
+Julian Cruz,35,DH,Flyball Hitter,0.05,2.78,5,107.5,42.2,field_out,Sinker
+Julian Cruz,35,DH,Flyball Hitter,-0.9,2.96,11,63.8,14.9,field_out,Cutter
+Julian Cruz,35,DH,Flyball Hitter,-0.45,2.14,7,92.1,-12.2,field_out,Cutter
+Julian Cruz,35,DH,Flyball Hitter,-0.53,1.7,7,91.5,38.9,field_out,Curveball
+Julian Cruz,35,DH,Flyball Hitter,-0.51,2.37,4,87.0,40.0,field_out,Cutter
+Julian Cruz,35,DH,Flyball Hitter,-0.41,2.75,4,88.8,32.6,single,Curveball
+Julian Cruz,35,DH,Flyball Hitter,0.1,2.43,5,85.4,24.4,field_out,Cutter
+Julian Cruz,35,DH,Flyball Hitter,1.16,1.3,14,65.9,-15.3,field_out,Curveball
+Julian Cruz,35,DH,Flyball Hitter,-0.4,3.71,11,80.9,38.1,field_out,Curveball
+Julian Cruz,35,DH,Flyball Hitter,-0.21,3.25,2,95.7,48.0,field_out,Changeup
+Julian Cruz,35,DH,Flyball Hitter,0.0,2.78,5,90.6,12.4,single,Slider
+Julian Cruz,35,DH,Flyball Hitter,-0.83,2.9,11,89.5,44.7,field_out,Curveball
+Julian Cruz,35,DH,Flyball Hitter,-0.61,3.24,1,100.5,16.4,double,Changeup
+Julian Cruz,35,DH,Flyball Hitter,0.44,3.31,3,88.7,-12.7,field_out,4-Seam Fastball
+Julian Cruz,35,DH,Flyball Hitter,-0.83,2.52,4,92.0,57.1,field_out,4-Seam Fastball
+Julian Cruz,35,DH,Flyball Hitter,1.29,1.75,14,81.7,54.6,field_out,Curveball
+Julian Cruz,35,DH,Flyball Hitter,0.9,3.66,12,87.2,41.8,field_out,4-Seam Fastball
+Julian Cruz,35,DH,Flyball Hitter,0.53,1.64,9,94.5,14.1,single,4-Seam Fastball
+Julian Cruz,35,DH,Flyball Hitter,0.5,2.33,6,81.0,55.3,field_out,Curveball
+Julian Cruz,35,DH,Flyball Hitter,-0.56,2.61,4,90.2,-0.9,grounded_into_dp,Slider
+Julian Cruz,35,DH,Flyball Hitter,0.74,1.91,9,83.1,33.5,single,Cutter
+Julian Cruz,35,DH,Flyball Hitter,-0.57,3.04,1,84.6,44.9,field_out,Changeup
+Julian Cruz,35,DH,Flyball Hitter,0.91,3.08,12,79.3,40.2,field_out,4-Seam Fastball
+Julian Cruz,35,DH,Flyball Hitter,-0.56,3.24,1,107.4,57.6,field_out,Sinker
+Julian Cruz,35,DH,Flyball Hitter,-0.27,2.67,5,86.4,50.7,field_out,Sinker
+Julian Cruz,35,DH,Flyball Hitter,-0.69,3.2,1,92.2,47.6,field_out,Curveball
+Julian Cruz,35,DH,Flyball Hitter,-1.07,1.52,13,87.2,53.9,field_out,Changeup
+Julian Cruz,35,DH,Flyball Hitter,-0.82,3.11,1,102.4,46.3,field_out,Sinker
+Julian Cruz,35,DH,Flyball Hitter,-0.82,3.08,1,88.5,14.0,field_out,Sinker
+Julian Cruz,35,DH,Flyball Hitter,-0.08,2.86,2,88.5,41.7,field_out,Slider
+Julian Cruz,35,DH,Flyball Hitter,0.68,1.9,9,88.1,30.5,field_out,Sinker
+Julian Cruz,35,DH,Flyball Hitter,0.44,2.66,6,87.3,-12.6,grounded_into_dp,Sinker
+Julian Cruz,35,DH,Flyball Hitter,-0.08,3.5,2,94.9,28.2,field_out,Sinker
+Julian Cruz,35,DH,Flyball Hitter,-0.07,2.72,5,85.1,9.9,field_out,Sinker
+Julian Cruz,35,DH,Flyball Hitter,-0.35,1.46,13,75.4,50.1,field_out,Sinker
+Julian Cruz,35,DH,Flyball Hitter,-0.69,3.39,1,90.7,43.7,field_out,Slider
+Mason Crandall,14,3B,Groundball Hitter,-0.39,2.05,7,96.7,57.7,field_out,Cutter
+Mason Crandall,14,3B,Groundball Hitter,0.12,2.25,5,97.4,-15.7,field_out,Slider
+Mason Crandall,14,3B,Groundball Hitter,0.04,2.59,5,98.7,-12.4,single,Changeup
+Mason Crandall,14,3B,Groundball Hitter,-0.37,1.77,7,95.6,-4.2,field_out,Sinker
+Mason Crandall,14,3B,Groundball Hitter,-0.52,2.57,4,100.0,-18.6,field_out,Changeup
+Mason Crandall,14,3B,Groundball Hitter,-0.56,1.49,13,77.8,-6.0,field_out,Changeup
+Mason Crandall,14,3B,Groundball Hitter,-0.65,2.25,4,82.9,-7.1,grounded_into_dp,Changeup
+Mason Crandall,14,3B,Groundball Hitter,1.17,3.46,12,82.3,2.5,field_out,Curveball
+Mason Crandall,14,3B,Groundball Hitter,-0.61,1.75,7,92.0,-2.1,field_out,Sinker
+Mason Crandall,14,3B,Groundball Hitter,-0.5,2.1,7,89.3,-5.3,grounded_into_dp,Changeup
+Mason Crandall,14,3B,Groundball Hitter,1.48,1.72,14,78.1,34.3,field_out,Cutter
+Mason Crandall,14,3B,Groundball Hitter,-0.86,3.04,11,77.5,-0.8,field_out,Sinker
+Mason Crandall,14,3B,Groundball Hitter,0.02,1.73,8,92.6,10.9,single,Curveball
+Mason Crandall,14,3B,Groundball Hitter,0.67,2.15,9,89.1,28.5,single,Cutter
+Mason Crandall,14,3B,Groundball Hitter,-0.69,1.93,7,96.5,10.2,single,Changeup
+Mason Crandall,14,3B,Groundball Hitter,-0.66,1.75,7,87.2,6.2,field_out,Changeup
+Mason Crandall,14,3B,Groundball Hitter,-0.81,2.09,7,95.2,50.5,field_out,Slider
+Mason Crandall,14,3B,Groundball Hitter,0.06,1.72,8,94.8,16.3,single,4-Seam Fastball
+Mason Crandall,14,3B,Groundball Hitter,0.31,3.23,3,86.6,-19.3,field_out,Curveball
+Mason Crandall,14,3B,Groundball Hitter,-0.36,2.05,7,96.1,-2.0,single,Sinker
+Mason Crandall,14,3B,Groundball Hitter,-0.91,3.38,11,77.3,31.1,single,Slider
+Mason Crandall,14,3B,Groundball Hitter,-0.02,2.69,5,91.3,3.0,field_out,4-Seam Fastball
+Mason Crandall,14,3B,Groundball Hitter,0.48,3.08,3,97.7,-18.5,field_out,Changeup
+Mason Crandall,14,3B,Groundball Hitter,-0.19,1.29,13,80.7,15.7,field_out,4-Seam Fastball
+Mason Crandall,14,3B,Groundball Hitter,0.66,3.0,3,87.7,30.9,field_out,Sinker
+Mason Crandall,14,3B,Groundball Hitter,-0.06,1.35,13,88.5,-1.6,field_out,4-Seam Fastball
+Mason Crandall,14,3B,Groundball Hitter,-0.2,1.62,8,96.2,-11.2,field_out,Slider
+Mason Crandall,14,3B,Groundball Hitter,-1.04,1.51,13,82.8,28.5,single,Cutter
+Mason Crandall,14,3B,Groundball Hitter,-0.64,1.81,7,96.2,44.1,field_out,Curveball
+Mason Crandall,14,3B,Groundball Hitter,0.04,2.38,5,87.5,-8.3,field_out,Sinker
+Mason Crandall,14,3B,Groundball Hitter,-0.42,1.91,7,83.0,37.2,field_out,Changeup
+Mason Crandall,14,3B,Groundball Hitter,1.2,3.45,12,71.4,21.1,field_out,Slider
+Mason Crandall,14,3B,Groundball Hitter,-0.69,1.88,7,89.9,-3.8,field_out,Changeup
+Mason Crandall,14,3B,Groundball Hitter,-0.64,1.73,7,98.5,8.9,single,Curveball
+Mason Crandall,14,3B,Groundball Hitter,0.6,3.18,3,84.2,2.8,field_out,4-Seam Fastball
+Mason Crandall,14,3B,Groundball Hitter,-0.76,1.55,7,81.7,-19.3,field_out,Sinker
+Mason Crandall,14,3B,Groundball Hitter,1.22,3.46,12,89.1,-3.9,grounded_into_dp,4-Seam Fastball
+Mason Crandall,14,3B,Groundball Hitter,0.7,2.1,9,84.3,-16.5,field_out,Cutter
+Mason Crandall,14,3B,Groundball Hitter,0.34,2.58,6,83.1,3.9,field_out,4-Seam Fastball
+Mason Crandall,14,3B,Groundball Hitter,0.02,1.93,8,92.4,22.7,field_out,4-Seam Fastball
+Mason Crandall,14,3B,Groundball Hitter,0.23,2.0,8,96.4,3.2,field_out,Changeup
+Mason Crandall,14,3B,Groundball Hitter,-0.08,2.67,5,83.1,30.5,field_out,Changeup
+Mason Crandall,14,3B,Groundball Hitter,-0.91,3.32,11,79.2,12.3,field_out,4-Seam Fastball
+Mason Crandall,14,3B,Groundball Hitter,-0.7,1.96,7,91.4,5.4,field_out,Sinker
+Mason Crandall,14,3B,Groundball Hitter,0.26,2.4,5,90.4,1.1,field_out,4-Seam Fastball
+Mason Crandall,14,3B,Groundball Hitter,0.16,2.5,5,92.8,-13.5,field_out,4-Seam Fastball
+Mason Crandall,14,3B,Groundball Hitter,-0.17,1.94,8,85.7,47.5,field_out,Cutter
+Troy Dalton,30,C,Groundball Hitter,-0.14,2.74,5,80.8,31.1,field_out,4-Seam Fastball
+Troy Dalton,30,C,Groundball Hitter,-0.21,2.93,2,86.8,-10.1,grounded_into_dp,Curveball
+Troy Dalton,30,C,Groundball Hitter,-0.84,2.59,11,81.1,4.9,field_out,4-Seam Fastball
+Troy Dalton,30,C,Groundball Hitter,-0.48,1.9,7,83.4,55.6,field_out,Sinker
+Troy Dalton,30,C,Groundball Hitter,0.67,1.82,9,81.0,-14.8,field_out,Cutter
+Troy Dalton,30,C,Groundball Hitter,0.19,1.71,8,89.3,11.8,single,Cutter
+Troy Dalton,30,C,Groundball Hitter,-0.03,2.96,2,88.6,35.6,single,Cutter
+Troy Dalton,30,C,Groundball Hitter,-1.04,1.45,13,84.7,-17.3,field_out,Curveball
+Troy Dalton,30,C,Groundball Hitter,-0.09,3.4,2,94.5,-1.2,field_out,Sinker
+Troy Dalton,30,C,Groundball Hitter,0.92,3.39,12,88.0,-12.6,field_out,Sinker
+Troy Dalton,30,C,Groundball Hitter,0.54,2.38,6,88.4,53.7,field_out,Slider
+Troy Dalton,30,C,Groundball Hitter,0.17,2.74,5,99.0,31.0,field_out,Slider
+Troy Dalton,30,C,Groundball Hitter,0.13,1.7,8,92.9,55.7,field_out,Curveball
+Troy Dalton,30,C,Groundball Hitter,-0.05,3.5,2,84.4,-8.0,field_out,Sinker
+Troy Dalton,30,C,Groundball Hitter,-0.33,1.71,7,89.5,14.3,single,Curveball
+Troy Dalton,30,C,Groundball Hitter,0.11,3.13,2,89.1,29.5,single,Changeup
+Troy Dalton,30,C,Groundball Hitter,-0.3,3.34,1,92.3,-19.2,field_out,Sinker
+Troy Dalton,30,C,Groundball Hitter,-1.27,3.62,11,72.8,-15.9,field_out,4-Seam Fastball
+Troy Dalton,30,C,Groundball Hitter,-1.2,3.44,11,74.3,22.2,single,Sinker
+Troy Dalton,30,C,Groundball Hitter,0.31,3.11,3,89.9,2.8,field_out,Curveball
+Troy Dalton,30,C,Groundball Hitter,0.15,1.57,8,100.6,11.6,single,Changeup
+Troy Dalton,30,C,Groundball Hitter,0.0,3.05,2,88.3,-17.2,field_out,Slider
+Troy Dalton,30,C,Groundball Hitter,0.15,1.71,8,87.1,-10.5,field_out,Curveball
+Troy Dalton,30,C,Groundball Hitter,-0.04,1.85,8,91.4,-8.4,field_out,Slider
+Troy Dalton,30,C,Groundball Hitter,-0.65,2.02,7,88.7,56.2,field_out,Cutter
+Troy Dalton,30,C,Groundball Hitter,0.37,2.77,6,87.4,-7.6,field_out,Sinker
+Troy Dalton,30,C,Groundball Hitter,0.18,3.36,2,87.8,48.6,field_out,Slider
+Troy Dalton,30,C,Groundball Hitter,-0.19,2.46,5,89.3,-5.1,field_out,4-Seam Fastball
+Troy Dalton,30,C,Groundball Hitter,-1.1,1.73,13,80.3,2.1,field_out,Sinker
+Troy Dalton,30,C,Groundball Hitter,0.78,2.7,6,88.8,18.0,single,Cutter
+Troy Dalton,30,C,Groundball Hitter,0.84,3.45,12,74.7,-17.4,field_out,Cutter
+Troy Dalton,30,C,Groundball Hitter,0.5,2.34,6,83.8,51.2,field_out,Curveball
+Troy Dalton,30,C,Groundball Hitter,0.01,2.06,8,98.2,-16.0,field_out,Cutter
+Troy Dalton,30,C,Groundball Hitter,-1.19,1.44,13,95.2,-5.6,single,Sinker
+Troy Dalton,30,C,Groundball Hitter,-0.0,3.14,2,90.6,0.4,field_out,Changeup
+Troy Dalton,30,C,Groundball Hitter,0.86,1.99,14,79.9,22.0,field_out,Sinker
+Troy Dalton,30,C,Groundball Hitter,-0.12,3.0,2,96.2,-8.4,single,Sinker
+Troy Dalton,30,C,Groundball Hitter,0.08,2.63,5,91.3,49.5,field_out,Cutter
+Troy Dalton,30,C,Groundball Hitter,0.43,1.2,14,83.0,16.8,single,Sinker
+Troy Dalton,30,C,Groundball Hitter,0.33,3.16,3,88.5,-6.5,field_out,Changeup
+Troy Dalton,30,C,Groundball Hitter,-0.4,2.53,4,86.3,-0.0,grounded_into_dp,Sinker
+Nathan Ramsey,8,2B,Groundball Hitter,0.25,1.79,8,104.8,12.9,single,Curveball
+Nathan Ramsey,8,2B,Groundball Hitter,0.26,1.79,8,90.5,6.5,field_out,Changeup
+Nathan Ramsey,8,2B,Groundball Hitter,-0.44,2.33,4,90.6,-4.9,field_out,Sinker
+Nathan Ramsey,8,2B,Groundball Hitter,1.04,3.09,12,84.3,18.8,single,Sinker
+Nathan Ramsey,8,2B,Groundball Hitter,0.41,1.69,9,94.2,12.3,single,Sinker
+Nathan Ramsey,8,2B,Groundball Hitter,0.68,1.81,9,87.8,-5.6,field_out,4-Seam Fastball
+Nathan Ramsey,8,2B,Groundball Hitter,0.3,1.57,9,95.4,22.0,double,Changeup
+Nathan Ramsey,8,2B,Groundball Hitter,0.09,1.61,8,94.6,26.4,field_out,Curveball
+Nathan Ramsey,8,2B,Groundball Hitter,-0.17,2.07,8,101.7,29.0,home_run,Sinker
+Nathan Ramsey,8,2B,Groundball Hitter,-0.04,3.03,2,95.6,-1.0,single,Curveball
+Nathan Ramsey,8,2B,Groundball Hitter,-0.13,1.69,8,89.1,-12.2,field_out,Cutter
+Nathan Ramsey,8,2B,Groundball Hitter,-0.26,2.39,5,91.3,-10.6,field_out,Sinker
+Nathan Ramsey,8,2B,Groundball Hitter,0.59,1.78,9,93.8,-15.6,field_out,Cutter
+Nathan Ramsey,8,2B,Groundball Hitter,0.64,2.12,9,93.8,-11.4,field_out,Sinker
+Nathan Ramsey,8,2B,Groundball Hitter,0.47,2.12,9,89.3,2.5,grounded_into_dp,Cutter
+Nathan Ramsey,8,2B,Groundball Hitter,0.65,1.81,9,99.6,44.7,field_out,Cutter
+Nathan Ramsey,8,2B,Groundball Hitter,-0.09,1.95,8,94.8,13.1,single,Cutter
+Nathan Ramsey,8,2B,Groundball Hitter,0.07,2.58,5,91.4,9.6,field_out,Cutter
+Nathan Ramsey,8,2B,Groundball Hitter,0.54,1.87,9,85.6,-4.0,field_out,4-Seam Fastball
+Nathan Ramsey,8,2B,Groundball Hitter,0.13,2.52,5,97.0,-19.6,single,4-Seam Fastball
+Nathan Ramsey,8,2B,Groundball Hitter,1.19,2.85,12,94.0,20.0,single,Curveball
+Nathan Ramsey,8,2B,Groundball Hitter,-0.51,3.05,1,96.3,-6.5,single,4-Seam Fastball
+Nathan Ramsey,8,2B,Groundball Hitter,0.0,2.59,5,85.8,-15.2,field_out,4-Seam Fastball
+Nathan Ramsey,8,2B,Groundball Hitter,0.05,2.71,5,88.3,-2.6,field_out,Curveball
+Nathan Ramsey,8,2B,Groundball Hitter,-1.09,1.87,13,79.8,2.7,field_out,Curveball
+Nathan Ramsey,8,2B,Groundball Hitter,-0.55,3.25,1,96.3,35.6,field_out,Slider
+Nathan Ramsey,8,2B,Groundball Hitter,0.5,3.6,12,93.4,-17.5,field_out,Slider
+Nathan Ramsey,8,2B,Groundball Hitter,0.75,3.1,3,86.2,54.8,field_out,Slider
+Nathan Ramsey,8,2B,Groundball Hitter,-0.62,1.93,7,83.9,-17.2,grounded_into_dp,Curveball
+Nathan Ramsey,8,2B,Groundball Hitter,-1.37,1.98,13,77.2,23.2,single,Curveball
+Nathan Ramsey,8,2B,Groundball Hitter,0.13,2.01,8,87.6,4.3,field_out,Cutter
+Nathan Ramsey,8,2B,Groundball Hitter,-0.18,2.55,5,83.7,-0.5,field_out,Curveball
+Nathan Ramsey,8,2B,Groundball Hitter,0.5,3.07,3,89.0,45.3,field_out,Curveball
+Nathan Ramsey,8,2B,Groundball Hitter,0.67,1.84,9,80.6,3.6,field_out,Changeup
+Nathan Ramsey,8,2B,Groundball Hitter,1.24,0.98,14,77.9,-6.4,field_out,Cutter
+Nathan Ramsey,8,2B,Groundball Hitter,0.6,1.9,9,81.2,-6.3,grounded_into_dp,4-Seam Fastball
+Nathan Ramsey,8,2B,Groundball Hitter,-0.73,1.51,7,89.8,2.1,field_out,Curveball
+Nathan Ramsey,8,2B,Groundball Hitter,-0.38,3.12,1,86.0,56.7,field_out,Sinker
+Nathan Ramsey,8,2B,Groundball Hitter,-0.07,2.31,5,88.4,44.1,field_out,Changeup
+Zach York,23,OF,Groundball Hitter,-0.46,1.41,13,68.3,18.8,field_out,Slider
+Zach York,23,OF,Groundball Hitter,-0.42,2.48,4,94.7,-12.8,field_out,Slider
+Zach York,23,OF,Groundball Hitter,-0.6,1.49,13,76.9,-0.3,field_out,Changeup
+Zach York,23,OF,Groundball Hitter,0.12,2.49,5,91.3,1.6,field_out,Sinker
+Zach York,23,OF,Groundball Hitter,0.14,2.08,8,91.1,-18.5,field_out,Sinker
+Zach York,23,OF,Groundball Hitter,0.41,3.08,3,89.8,28.6,single,4-Seam Fastball
+Zach York,23,OF,Groundball Hitter,-0.31,1.65,7,96.4,-16.5,single,Sinker
+Zach York,23,OF,Groundball Hitter,-0.6,1.83,7,85.1,-17.7,field_out,4-Seam Fastball
+Zach York,23,OF,Groundball Hitter,-1.11,3.35,11,80.5,39.2,field_out,Curveball
+Zach York,23,OF,Groundball Hitter,-0.41,2.06,7,98.9,7.5,single,Sinker
+Zach York,23,OF,Groundball Hitter,0.16,2.24,5,96.4,-5.8,field_out,Cutter
+Zach York,23,OF,Groundball Hitter,-0.44,2.32,4,90.9,-12.1,field_out,Slider
+Zach York,23,OF,Groundball Hitter,-0.31,2.36,4,87.8,8.9,field_out,4-Seam Fastball
+Zach York,23,OF,Groundball Hitter,0.56,2.46,6,82.6,5.9,field_out,Changeup
+Zach York,23,OF,Groundball Hitter,0.76,2.62,6,75.5,-17.0,grounded_into_dp,Cutter
+Zach York,23,OF,Groundball Hitter,-0.1,3.23,2,89.7,-15.3,grounded_into_dp,4-Seam Fastball
+Zach York,23,OF,Groundball Hitter,0.63,2.26,6,90.4,47.2,field_out,4-Seam Fastball
+Zach York,23,OF,Groundball Hitter,-0.52,3.02,1,87.8,-18.3,field_out,Sinker
+Zach York,23,OF,Groundball Hitter,-0.39,2.71,4,93.1,-15.7,field_out,4-Seam Fastball
+Zach York,23,OF,Groundball Hitter,-0.58,1.61,7,86.3,-9.6,grounded_into_dp,Curveball
+Zach York,23,OF,Groundball Hitter,-0.56,1.47,13,81.0,-18.4,field_out,4-Seam Fastball
+Zach York,23,OF,Groundball Hitter,0.54,2.38,6,88.3,3.3,grounded_into_dp,Sinker
+Zach York,23,OF,Groundball Hitter,0.0,2.8,5,86.3,13.0,field_out,Curveball
+Zach York,23,OF,Groundball Hitter,0.04,2.03,8,78.2,13.3,single,4-Seam Fastball
+Zach York,23,OF,Groundball Hitter,-0.12,2.71,5,97.5,1.8,field_out,Cutter
+Zach York,23,OF,Groundball Hitter,0.8,3.2,3,89.7,-15.7,field_out,4-Seam Fastball
+Zach York,23,OF,Groundball Hitter,0.66,3.06,3,83.3,29.7,field_out,Cutter
+Zach York,23,OF,Groundball Hitter,1.39,1.55,14,83.5,6.4,field_out,4-Seam Fastball
+Zach York,23,OF,Groundball Hitter,-0.7,1.57,7,88.5,-6.2,field_out,Cutter
+Zach York,23,OF,Groundball Hitter,0.53,2.44,6,82.2,-10.3,field_out,Curveball
+Zach York,23,OF,Groundball Hitter,-0.98,3.43,11,79.4,-9.6,field_out,Curveball
+Zach York,23,OF,Groundball Hitter,-0.73,2.58,4,89.2,50.4,field_out,Sinker
+Zach York,23,OF,Groundball Hitter,-0.09,2.25,5,92.1,-16.6,grounded_into_dp,4-Seam Fastball
+Zach York,23,OF,Groundball Hitter,0.4,3.45,3,77.3,5.3,field_out,Changeup
+Zach York,23,OF,Groundball Hitter,-0.78,2.55,4,96.5,-2.1,single,Slider
+Zach York,23,OF,Groundball Hitter,-0.62,2.04,7,92.9,29.1,single,Changeup
+Hunter Caldwell,32,1B,Groundball Hitter,-0.8,3.37,1,90.7,-15.4,field_out,4-Seam Fastball
+Hunter Caldwell,32,1B,Groundball Hitter,0.25,2.64,5,95.9,10.5,field_out,Cutter
+Hunter Caldwell,32,1B,Groundball Hitter,-1.33,3.27,11,89.1,-2.8,field_out,Cutter
+Hunter Caldwell,32,1B,Groundball Hitter,0.16,2.71,5,93.7,-14.0,field_out,Cutter
+Hunter Caldwell,32,1B,Groundball Hitter,0.55,2.11,9,92.9,-10.3,field_out,Sinker
+Hunter Caldwell,32,1B,Groundball Hitter,0.3,3.65,12,86.7,49.0,field_out,Slider
+Hunter Caldwell,32,1B,Groundball Hitter,-0.13,1.55,8,90.6,3.0,field_out,Sinker
+Hunter Caldwell,32,1B,Groundball Hitter,0.63,2.84,3,89.5,-0.2,field_out,Changeup
+Hunter Caldwell,32,1B,Groundball Hitter,0.06,1.53,8,91.4,6.9,field_out,Cutter
+Hunter Caldwell,32,1B,Groundball Hitter,-0.36,2.25,4,86.7,17.5,single,Slider
+Hunter Caldwell,32,1B,Groundball Hitter,0.53,2.57,6,87.9,0.1,field_out,Changeup
+Hunter Caldwell,32,1B,Groundball Hitter,0.51,3.39,3,83.7,-7.7,field_out,Slider
+Hunter Caldwell,32,1B,Groundball Hitter,0.28,1.82,8,86.2,-9.5,field_out,Changeup
+Hunter Caldwell,32,1B,Groundball Hitter,0.17,2.6,5,78.6,27.1,field_out,Changeup
+Hunter Caldwell,32,1B,Groundball Hitter,0.62,2.01,9,80.9,-12.3,field_out,Cutter
+Hunter Caldwell,32,1B,Groundball Hitter,0.16,2.53,5,94.8,21.8,single,4-Seam Fastball
+Hunter Caldwell,32,1B,Groundball Hitter,0.51,2.52,6,91.7,-4.8,field_out,Sinker
+Hunter Caldwell,32,1B,Groundball Hitter,-0.12,2.35,5,91.2,37.2,field_out,Sinker
+Hunter Caldwell,32,1B,Groundball Hitter,-0.02,2.62,5,86.4,33.2,field_out,Curveball
+Hunter Caldwell,32,1B,Groundball Hitter,-1.11,3.37,11,91.4,45.3,field_out,Slider
+Hunter Caldwell,32,1B,Groundball Hitter,1.25,3.11,12,80.3,-7.2,field_out,Cutter
+Hunter Caldwell,32,1B,Groundball Hitter,-0.08,1.62,8,86.6,23.3,field_out,Curveball
+Hunter Caldwell,32,1B,Groundball Hitter,-0.36,1.95,7,83.5,14.8,field_out,Cutter
+Hunter Caldwell,32,1B,Groundball Hitter,-0.03,2.51,5,93.6,24.8,field_out,4-Seam Fastball
+Hunter Caldwell,32,1B,Groundball Hitter,0.55,2.45,6,91.6,5.6,field_out,Sinker
+Hunter Caldwell,32,1B,Groundball Hitter,0.46,2.51,6,94.8,-7.3,grounded_into_dp,Changeup
+Hunter Caldwell,32,1B,Groundball Hitter,-0.52,1.93,7,87.2,-13.3,field_out,Cutter
+Hunter Caldwell,32,1B,Groundball Hitter,0.42,1.96,9,78.3,21.9,field_out,Curveball
+Hunter Caldwell,32,1B,Groundball Hitter,-0.19,2.4,5,97.4,23.8,double,4-Seam Fastball
+Hunter Caldwell,32,1B,Groundball Hitter,0.0,1.95,8,89.1,29.5,field_out,Curveball
+Hunter Caldwell,32,1B,Groundball Hitter,0.13,2.62,5,95.0,-19.2,field_out,4-Seam Fastball
+Hunter Caldwell,32,1B,Groundball Hitter,0.98,2.44,14,73.1,-2.5,field_out,Sinker
+Hunter Caldwell,32,1B,Groundball Hitter,0.29,2.58,6,93.2,10.5,single,Sinker
+Hunter Caldwell,32,1B,Groundball Hitter,0.25,3.49,2,84.6,50.1,field_out,Cutter
+Hunter Caldwell,32,1B,Groundball Hitter,-0.37,1.84,7,93.7,-1.0,grounded_into_dp,Slider
+Dean Sullivan,17,C,Balanced Hitter,-0.03,2.45,5,94.2,28.6,single,Cutter
+Dean Sullivan,17,C,Balanced Hitter,0.88,1.45,14,86.1,9.6,single,Sinker
+Dean Sullivan,17,C,Balanced Hitter,1.1,1.91,14,80.5,42.4,field_out,Curveball
+Dean Sullivan,17,C,Balanced Hitter,0.49,2.86,3,92.1,1.2,field_out,Curveball
+Dean Sullivan,17,C,Balanced Hitter,0.51,3.23,3,88.0,-7.1,field_out,4-Seam Fastball
+Dean Sullivan,17,C,Balanced Hitter,-0.76,2.45,4,94.8,0.1,field_out,Sinker
+Dean Sullivan,17,C,Balanced Hitter,-0.83,2.84,1,88.5,-4.4,field_out,4-Seam Fastball
+Dean Sullivan,17,C,Balanced Hitter,-1.28,3.33,11,81.4,39.1,field_out,Curveball
+Dean Sullivan,17,C,Balanced Hitter,-0.19,2.52,5,88.9,20.9,single,Sinker
+Dean Sullivan,17,C,Balanced Hitter,-0.0,1.95,8,92.3,53.9,field_out,Curveball
+Dean Sullivan,17,C,Balanced Hitter,-0.13,2.64,5,89.4,-14.7,field_out,Curveball
+Dean Sullivan,17,C,Balanced Hitter,-0.25,3.53,11,81.2,14.6,field_out,Slider
+Dean Sullivan,17,C,Balanced Hitter,-0.06,2.57,5,94.2,14.7,single,4-Seam Fastball
+Dean Sullivan,17,C,Balanced Hitter,-0.69,2.51,4,98.0,-2.0,field_out,Slider
+Dean Sullivan,17,C,Balanced Hitter,-0.46,2.51,4,95.7,11.2,single,Slider
+Dean Sullivan,17,C,Balanced Hitter,-0.74,2.52,4,90.8,48.3,field_out,Sinker
+Dean Sullivan,17,C,Balanced Hitter,0.46,3.3,3,87.9,-9.3,grounded_into_dp,4-Seam Fastball
+Dean Sullivan,17,C,Balanced Hitter,0.3,2.37,6,79.3,42.8,field_out,Changeup
+Dean Sullivan,17,C,Balanced Hitter,1.25,3.23,12,78.5,32.9,single,Slider
+Dean Sullivan,17,C,Balanced Hitter,0.12,3.01,2,86.5,10.4,field_out,Sinker
+Dean Sullivan,17,C,Balanced Hitter,-0.55,2.63,4,94.3,55.8,field_out,Changeup
+Dean Sullivan,17,C,Balanced Hitter,-0.47,2.69,4,94.8,-5.9,field_out,Slider
+Dean Sullivan,17,C,Balanced Hitter,0.08,2.63,5,89.2,25.2,field_out,4-Seam Fastball
+Dean Sullivan,17,C,Balanced Hitter,-0.12,2.36,5,88.1,-18.1,field_out,4-Seam Fastball
+Dean Sullivan,17,C,Balanced Hitter,-0.45,2.41,4,97.8,3.4,field_out,Cutter
+Dean Sullivan,17,C,Balanced Hitter,-0.39,2.53,4,91.9,49.5,field_out,Sinker
+Dean Sullivan,17,C,Balanced Hitter,1.06,3.28,12,88.1,47.9,field_out,Changeup
+Dean Sullivan,17,C,Balanced Hitter,1.19,1.58,14,78.9,21.4,field_out,Curveball
+Dean Sullivan,17,C,Balanced Hitter,-0.0,1.58,8,93.1,43.6,field_out,4-Seam Fastball
+Dean Sullivan,17,C,Balanced Hitter,0.05,1.38,14,80.5,26.0,single,Curveball
+Dean Sullivan,17,C,Balanced Hitter,0.0,2.97,2,95.7,9.7,single,Changeup
+Dean Sullivan,17,C,Balanced Hitter,-0.14,2.25,5,92.9,12.1,field_out,Sinker
+Dean Sullivan,17,C,Balanced Hitter,0.87,3.6,12,77.4,46.7,field_out,Cutter
+Dean Sullivan,17,C,Balanced Hitter,-0.78,1.43,13,80.7,10.3,single,Sinker
+Dean Sullivan,17,C,Balanced Hitter,-0.55,2.6,4,92.5,14.7,field_out,Sinker
+Dean Sullivan,17,C,Balanced Hitter,-0.36,1.41,13,79.9,23.9,field_out,4-Seam Fastball
+Dean Sullivan,17,C,Balanced Hitter,-1.06,3.12,11,66.7,9.6,field_out,Slider
+Dean Sullivan,17,C,Balanced Hitter,-0.45,2.37,4,82.4,42.1,field_out,Slider
+Dean Sullivan,17,C,Balanced Hitter,-0.63,1.94,7,91.4,-12.4,field_out,Slider
+Dean Sullivan,17,C,Balanced Hitter,-0.06,1.73,8,92.2,20.8,single,Sinker
+Dean Sullivan,17,C,Balanced Hitter,0.14,2.12,8,97.5,2.4,single,Curveball
+Dean Sullivan,17,C,Balanced Hitter,-0.18,1.85,8,93.7,56.4,field_out,Curveball
+Parker Lowe,20,OF,Balanced Hitter,-0.19,2.67,5,89.8,26.1,field_out,Changeup
+Parker Lowe,20,OF,Balanced Hitter,0.6,3.05,3,85.2,-6.1,field_out,Changeup
+Parker Lowe,20,OF,Balanced Hitter,-0.77,1.71,7,89.8,-8.7,field_out,Sinker
+Parker Lowe,20,OF,Balanced Hitter,1.08,2.92,12,78.0,27.1,field_out,Sinker
+Parker Lowe,20,OF,Balanced Hitter,0.07,1.96,8,98.1,-0.6,field_out,Curveball
+Parker Lowe,20,OF,Balanced Hitter,-0.19,3.1,2,93.6,23.2,field_out,Curveball
+Parker Lowe,20,OF,Balanced Hitter,1.47,3.45,12,81.7,-3.7,field_out,Sinker
+Parker Lowe,20,OF,Balanced Hitter,0.53,2.31,6,96.3,45.0,field_out,Sinker
+Parker Lowe,20,OF,Balanced Hitter,0.12,2.43,5,95.9,17.9,double,Changeup
+Parker Lowe,20,OF,Balanced Hitter,-0.4,3.25,1,82.7,38.4,field_out,Changeup
+Parker Lowe,20,OF,Balanced Hitter,0.45,2.82,6,88.6,40.5,field_out,Slider
+Parker Lowe,20,OF,Balanced Hitter,-0.07,3.0,2,83.8,-10.4,field_out,4-Seam Fastball
+Parker Lowe,20,OF,Balanced Hitter,-0.19,2.6,5,95.2,25.9,double,Sinker
+Parker Lowe,20,OF,Balanced Hitter,0.76,2.32,6,98.8,-13.2,field_out,Sinker
+Parker Lowe,20,OF,Balanced Hitter,-1.2,3.38,11,86.8,-13.0,grounded_into_dp,Sinker
+Parker Lowe,20,OF,Balanced Hitter,0.78,3.07,3,81.4,4.0,field_out,Curveball
+Parker Lowe,20,OF,Balanced Hitter,0.13,3.4,2,87.2,-19.6,field_out,Curveball
+Parker Lowe,20,OF,Balanced Hitter,-0.26,2.22,5,86.9,26.7,field_out,Cutter
+Parker Lowe,20,OF,Balanced Hitter,1.11,1.85,14,75.8,27.0,single,Sinker
+Parker Lowe,20,OF,Balanced Hitter,0.29,3.25,3,81.3,27.1,field_out,Curveball
+Parker Lowe,20,OF,Balanced Hitter,0.8,2.63,6,81.4,0.7,grounded_into_dp,4-Seam Fastball
+Parker Lowe,20,OF,Balanced Hitter,-0.27,2.3,5,97.9,29.9,field_out,4-Seam Fastball
+Parker Lowe,20,OF,Balanced Hitter,-0.03,2.94,2,96.2,29.3,field_out,4-Seam Fastball
+Parker Lowe,20,OF,Balanced Hitter,0.51,2.43,6,98.0,3.8,field_out,Curveball
+Parker Lowe,20,OF,Balanced Hitter,0.65,2.32,6,91.7,18.6,single,Changeup
+Parker Lowe,20,OF,Balanced Hitter,0.96,3.08,12,78.7,-3.4,grounded_into_dp,Changeup
+Parker Lowe,20,OF,Balanced Hitter,-0.88,3.24,11,80.4,-17.5,field_out,Slider
+Parker Lowe,20,OF,Balanced Hitter,-0.27,3.11,2,92.5,12.2,single,Slider
+Parker Lowe,20,OF,Balanced Hitter,0.65,2.64,6,93.4,-19.9,field_out,4-Seam Fastball
+Parker Lowe,20,OF,Balanced Hitter,-0.9,1.75,13,85.0,-1.1,field_out,Changeup
+Parker Lowe,20,OF,Balanced Hitter,-0.55,2.15,7,84.2,-4.5,field_out,4-Seam Fastball
+Parker Lowe,20,OF,Balanced Hitter,-0.1,2.44,5,95.4,58.0,field_out,Sinker
+Parker Lowe,20,OF,Balanced Hitter,0.76,2.28,6,85.8,12.2,field_out,Sinker
+Parker Lowe,20,OF,Balanced Hitter,0.46,2.98,3,86.1,-16.9,field_out,Cutter
+Parker Lowe,20,OF,Balanced Hitter,1.24,1.77,14,88.4,-15.4,field_out,Slider
+Parker Lowe,20,OF,Balanced Hitter,-0.31,3.04,1,86.2,57.7,field_out,4-Seam Fastball
+Parker Lowe,20,OF,Balanced Hitter,0.85,2.47,14,81.2,-6.6,field_out,Changeup
+Parker Lowe,20,OF,Balanced Hitter,-0.36,2.51,4,91.4,56.4,field_out,Sinker
+Parker Lowe,20,OF,Balanced Hitter,0.07,3.25,2,95.7,-4.7,field_out,Slider
+Shane Barrett,26,UT,Balanced Hitter,-1.2,3.5,11,72.4,44.3,field_out,Sinker
+Shane Barrett,26,UT,Balanced Hitter,0.39,1.7,9,86.4,-5.4,field_out,Changeup
+Shane Barrett,26,UT,Balanced Hitter,-0.03,2.17,5,98.4,51.3,field_out,Slider
+Shane Barrett,26,UT,Balanced Hitter,-0.05,2.76,5,88.0,15.8,single,Curveball
+Shane Barrett,26,UT,Balanced Hitter,-0.75,3.15,1,90.4,19.6,single,Slider
+Shane Barrett,26,UT,Balanced Hitter,-0.42,1.94,7,91.7,57.1,field_out,Slider
+Shane Barrett,26,UT,Balanced Hitter,-0.44,2.38,4,84.8,24.1,single,Curveball
+Shane Barrett,26,UT,Balanced Hitter,-0.66,1.99,7,92.6,-17.5,field_out,Slider
+Shane Barrett,26,UT,Balanced Hitter,-0.4,3.17,1,95.4,-15.6,grounded_into_dp,Sinker
+Shane Barrett,26,UT,Balanced Hitter,-0.82,2.42,4,80.9,43.8,field_out,Curveball
+Shane Barrett,26,UT,Balanced Hitter,-0.68,1.88,7,91.6,32.7,field_out,Slider
+Shane Barrett,26,UT,Balanced Hitter,-0.52,3.4,1,79.9,39.3,field_out,Curveball
+Shane Barrett,26,UT,Balanced Hitter,0.04,2.66,5,83.5,42.3,field_out,4-Seam Fastball
+Shane Barrett,26,UT,Balanced Hitter,0.61,2.57,6,81.1,6.6,field_out,Curveball
+Shane Barrett,26,UT,Balanced Hitter,-0.15,1.84,8,84.6,28.2,field_out,Sinker
+Shane Barrett,26,UT,Balanced Hitter,1.31,1.41,14,82.1,37.1,field_out,4-Seam Fastball
+Shane Barrett,26,UT,Balanced Hitter,-0.14,2.69,5,88.2,15.9,single,Sinker
+Shane Barrett,26,UT,Balanced Hitter,0.67,3.31,3,87.7,29.9,field_out,Slider
+Shane Barrett,26,UT,Balanced Hitter,-0.65,2.9,1,88.2,44.1,field_out,4-Seam Fastball
+Shane Barrett,26,UT,Balanced Hitter,0.34,3.12,3,74.8,55.3,field_out,Sinker
+Shane Barrett,26,UT,Balanced Hitter,-0.69,2.77,4,84.2,9.4,field_out,Slider
+Shane Barrett,26,UT,Balanced Hitter,-1.21,3.01,11,84.4,33.6,field_out,Sinker
+Shane Barrett,26,UT,Balanced Hitter,-0.43,2.37,4,87.7,18.1,single,Curveball
+Shane Barrett,26,UT,Balanced Hitter,0.21,1.69,8,88.6,-15.2,field_out,Sinker
+Shane Barrett,26,UT,Balanced Hitter,0.14,1.79,8,86.1,6.0,field_out,Changeup
+Shane Barrett,26,UT,Balanced Hitter,0.32,2.94,3,94.3,9.4,single,Sinker
+Shane Barrett,26,UT,Balanced Hitter,1.41,3.06,12,89.3,40.5,field_out,Changeup
+Shane Barrett,26,UT,Balanced Hitter,0.25,3.13,2,83.3,-16.4,field_out,Sinker
+Shane Barrett,26,UT,Balanced Hitter,-0.01,2.65,5,98.5,20.0,double,Cutter
+Shane Barrett,26,UT,Balanced Hitter,-0.13,2.05,8,87.4,4.1,field_out,Curveball
+Shane Barrett,26,UT,Balanced Hitter,-0.06,1.87,8,100.7,35.7,field_out,Slider
+Shane Barrett,26,UT,Balanced Hitter,-1.03,3.39,11,81.7,-19.4,field_out,Changeup
+Shane Barrett,26,UT,Balanced Hitter,-0.03,2.86,2,87.0,53.3,field_out,4-Seam Fastball
+Shane Barrett,26,UT,Balanced Hitter,-0.55,3.3,1,76.3,24.1,single,Changeup
+Shane Barrett,26,UT,Balanced Hitter,0.01,1.85,8,78.0,56.8,field_out,Slider
+Shane Barrett,26,UT,Balanced Hitter,0.13,1.54,8,99.0,11.4,single,Slider
+Gabriel Aris,29,IF,Balanced Hitter,0.48,2.72,6,90.2,-14.5,field_out,Slider
+Gabriel Aris,29,IF,Balanced Hitter,-0.18,3.02,2,88.8,18.0,single,Changeup
+Gabriel Aris,29,IF,Balanced Hitter,0.71,3.65,12,84.0,1.4,field_out,Slider
+Gabriel Aris,29,IF,Balanced Hitter,-0.45,2.0,7,88.3,27.7,single,Curveball
+Gabriel Aris,29,IF,Balanced Hitter,0.46,3.35,3,86.1,12.1,single,Curveball
+Gabriel Aris,29,IF,Balanced Hitter,0.64,3.13,3,88.1,10.4,field_out,Sinker
+Gabriel Aris,29,IF,Balanced Hitter,0.57,2.66,6,96.0,-10.4,single,Slider
+Gabriel Aris,29,IF,Balanced Hitter,0.05,2.41,5,92.4,-14.8,field_out,Cutter
+Gabriel Aris,29,IF,Balanced Hitter,0.64,2.64,6,85.1,20.8,single,Changeup
+Gabriel Aris,29,IF,Balanced Hitter,0.28,3.01,2,83.7,2.4,grounded_into_dp,Curveball
+Gabriel Aris,29,IF,Balanced Hitter,0.95,3.17,12,88.6,14.1,single,Sinker
+Gabriel Aris,29,IF,Balanced Hitter,1.1,1.65,14,80.1,51.5,field_out,Changeup
+Gabriel Aris,29,IF,Balanced Hitter,0.24,3.21,2,87.1,-18.9,field_out,Curveball
+Gabriel Aris,29,IF,Balanced Hitter,1.0,2.49,14,81.9,36.1,field_out,Curveball
+Gabriel Aris,29,IF,Balanced Hitter,0.33,3.37,3,100.7,43.7,field_out,Sinker
+Gabriel Aris,29,IF,Balanced Hitter,0.3,2.39,6,96.5,18.8,single,Changeup
+Gabriel Aris,29,IF,Balanced Hitter,-0.18,2.6,5,90.2,-2.0,field_out,Changeup
+Gabriel Aris,29,IF,Balanced Hitter,0.79,2.16,9,83.9,9.0,field_out,Cutter
+Gabriel Aris,29,IF,Balanced Hitter,1.09,2.98,12,83.2,56.2,field_out,Curveball
+Gabriel Aris,29,IF,Balanced Hitter,0.19,2.76,5,75.6,11.3,single,4-Seam Fastball
+Gabriel Aris,29,IF,Balanced Hitter,0.44,3.32,3,91.0,24.1,field_out,4-Seam Fastball
+Gabriel Aris,29,IF,Balanced Hitter,1.22,1.6,14,83.1,-3.3,field_out,Sinker
+Gabriel Aris,29,IF,Balanced Hitter,-1.1,3.18,11,80.5,41.6,field_out,Sinker
+Gabriel Aris,29,IF,Balanced Hitter,-0.07,2.93,2,82.0,34.1,single,Sinker
+Gabriel Aris,29,IF,Balanced Hitter,0.31,1.84,9,98.5,-4.5,field_out,Cutter
+Gabriel Aris,29,IF,Balanced Hitter,1.28,3.12,12,90.4,1.3,field_out,Curveball
+Gabriel Aris,29,IF,Balanced Hitter,0.43,2.56,6,98.3,15.6,single,Cutter
+Gabriel Aris,29,IF,Balanced Hitter,-0.82,3.35,1,90.8,11.4,single,Changeup
+Gabriel Aris,29,IF,Balanced Hitter,0.75,2.12,9,90.3,-19.7,field_out,Sinker
+Gabriel Aris,29,IF,Balanced Hitter,-0.6,2.84,1,91.8,33.9,field_out,4-Seam Fastball
+Gabriel Aris,29,IF,Balanced Hitter,0.51,2.71,6,94.4,17.9,single,Changeup
+Gabriel Aris,29,IF,Balanced Hitter,1.14,3.32,12,74.8,29.4,field_out,Slider
+Gabriel Aris,29,IF,Balanced Hitter,0.67,2.89,3,99.4,42.8,field_out,4-Seam Fastball
+Gabriel Aris,29,IF,Balanced Hitter,0.57,2.33,6,91.2,-12.3,field_out,Slider
+Gabriel Aris,29,IF,Balanced Hitter,0.07,2.47,5,89.1,49.5,field_out,Slider
+Harrison Knox,34,OF,Balanced Hitter,-0.32,2.49,4,85.1,51.3,field_out,Slider
+Harrison Knox,34,OF,Balanced Hitter,-0.49,2.71,4,86.2,56.6,field_out,4-Seam Fastball
+Harrison Knox,34,OF,Balanced Hitter,-0.48,3.24,1,91.2,39.0,field_out,4-Seam Fastball
+Harrison Knox,34,OF,Balanced Hitter,0.03,2.57,5,87.9,-7.7,field_out,Curveball
+Harrison Knox,34,OF,Balanced Hitter,-0.42,2.13,7,91.2,10.9,single,Changeup
+Harrison Knox,34,OF,Balanced Hitter,-0.41,2.38,4,75.1,-11.3,field_out,4-Seam Fastball
+Harrison Knox,34,OF,Balanced Hitter,-0.31,2.85,1,94.6,18.0,single,Cutter
+Harrison Knox,34,OF,Balanced Hitter,0.26,2.71,5,90.2,28.3,single,Changeup
+Harrison Knox,34,OF,Balanced Hitter,1.11,2.93,12,79.7,-13.3,field_out,4-Seam Fastball
+Harrison Knox,34,OF,Balanced Hitter,0.73,1.83,9,95.6,-17.3,field_out,Slider
+Harrison Knox,34,OF,Balanced Hitter,-0.67,3.21,1,91.8,26.2,single,Slider
+Harrison Knox,34,OF,Balanced Hitter,0.0,2.17,5,88.5,1.7,field_out,Sinker
+Harrison Knox,34,OF,Balanced Hitter,-0.81,2.34,4,95.3,5.6,grounded_into_dp,4-Seam Fastball
+Harrison Knox,34,OF,Balanced Hitter,-0.86,2.79,11,94.0,-4.4,field_out,Slider
+Harrison Knox,34,OF,Balanced Hitter,-0.54,3.44,1,73.3,12.6,single,Changeup
+Harrison Knox,34,OF,Balanced Hitter,-1.07,3.6,11,84.3,29.9,field_out,Changeup
+Harrison Knox,34,OF,Balanced Hitter,-0.64,3.13,1,95.6,35.7,single,Changeup
+Harrison Knox,34,OF,Balanced Hitter,0.37,2.51,6,84.9,42.1,field_out,Cutter
+Harrison Knox,34,OF,Balanced Hitter,-0.27,2.45,5,99.3,-15.3,single,Sinker
+Harrison Knox,34,OF,Balanced Hitter,0.01,2.78,5,92.5,46.8,field_out,Slider
+Harrison Knox,34,OF,Balanced Hitter,-0.74,2.56,4,94.5,29.5,field_out,Changeup
+Harrison Knox,34,OF,Balanced Hitter,-0.62,2.34,4,93.4,8.7,single,Slider
+Harrison Knox,34,OF,Balanced Hitter,0.11,2.37,5,91.0,46.2,field_out,Cutter
+Harrison Knox,34,OF,Balanced Hitter,-1.16,1.24,13,87.6,49.3,field_out,4-Seam Fastball
+Harrison Knox,34,OF,Balanced Hitter,0.6,2.12,9,86.5,5.2,grounded_into_dp,Cutter
+Harrison Knox,34,OF,Balanced Hitter,-0.53,2.93,1,96.2,-15.5,field_out,Curveball
+Harrison Knox,34,OF,Balanced Hitter,0.62,1.92,9,89.8,55.8,field_out,Slider
+Harrison Knox,34,OF,Balanced Hitter,0.08,2.44,5,94.9,-18.6,field_out,Slider
+Harrison Knox,34,OF,Balanced Hitter,-0.34,2.14,7,86.0,12.9,field_out,Cutter
+Harrison Knox,34,OF,Balanced Hitter,0.47,1.57,9,75.9,15.9,field_out,Changeup
+Harrison Knox,34,OF,Balanced Hitter,0.51,1.86,9,89.8,9.0,single,Cutter
+Harrison Knox,34,OF,Balanced Hitter,-0.37,3.12,1,89.6,1.1,grounded_into_dp,4-Seam Fastball
+Harrison Knox,34,OF,Balanced Hitter,-0.6,2.78,4,104.7,9.7,single,Sinker
+Harrison Knox,34,OF,Balanced Hitter,0.06,2.28,5,94.0,21.0,field_out,Changeup
+Cody Malone,36,IF,Balanced Hitter,-0.81,1.87,7,87.7,3.4,field_out,Sinker
+Cody Malone,36,IF,Balanced Hitter,0.48,2.54,6,87.9,12.2,single,4-Seam Fastball
+Cody Malone,36,IF,Balanced Hitter,-0.18,2.66,5,91.9,48.7,field_out,Changeup
+Cody Malone,36,IF,Balanced Hitter,1.06,3.07,12,83.9,9.4,single,Cutter
+Cody Malone,36,IF,Balanced Hitter,-0.61,2.05,7,84.3,9.2,single,Sinker
+Cody Malone,36,IF,Balanced Hitter,0.01,2.61,5,88.3,10.0,single,Slider
+Cody Malone,36,IF,Balanced Hitter,0.3,3.0,3,98.9,30.3,field_out,Sinker
+Cody Malone,36,IF,Balanced Hitter,0.04,1.48,14,94.3,10.1,single,Curveball
+Cody Malone,36,IF,Balanced Hitter,-0.58,2.37,4,84.6,25.5,single,Slider
+Cody Malone,36,IF,Balanced Hitter,-0.49,1.55,7,90.5,30.2,field_out,Sinker
+Cody Malone,36,IF,Balanced Hitter,-0.61,2.68,4,89.5,-13.5,grounded_into_dp,4-Seam Fastball
+Cody Malone,36,IF,Balanced Hitter,-0.47,3.62,11,82.7,-0.7,field_out,Cutter
+Cody Malone,36,IF,Balanced Hitter,0.11,3.12,2,74.9,-12.6,field_out,Changeup
+Cody Malone,36,IF,Balanced Hitter,-1.39,2.75,11,84.8,40.7,field_out,Curveball
+Cody Malone,36,IF,Balanced Hitter,0.03,2.5,5,88.4,21.0,single,Sinker
+Cody Malone,36,IF,Balanced Hitter,0.64,1.7,9,92.6,-0.4,field_out,Cutter
+Cody Malone,36,IF,Balanced Hitter,1.06,2.12,14,71.5,3.6,field_out,Slider
+Cody Malone,36,IF,Balanced Hitter,-0.41,1.76,7,102.9,12.8,single,Sinker
+Cody Malone,36,IF,Balanced Hitter,-0.04,3.22,2,91.7,48.5,field_out,Slider
+Cody Malone,36,IF,Balanced Hitter,0.04,1.65,8,78.4,-3.6,field_out,4-Seam Fastball
+Cody Malone,36,IF,Balanced Hitter,1.22,3.27,12,78.7,36.7,field_out,Sinker
+Cody Malone,36,IF,Balanced Hitter,0.56,1.9,9,86.8,-17.4,field_out,Changeup
+Cody Malone,36,IF,Balanced Hitter,-0.88,2.11,13,75.1,32.8,single,4-Seam Fastball
+Cody Malone,36,IF,Balanced Hitter,1.13,3.6,12,79.6,12.2,single,Curveball
+Cody Malone,36,IF,Balanced Hitter,-0.02,1.91,8,97.0,14.2,double,Sinker
+Cody Malone,36,IF,Balanced Hitter,0.03,2.41,5,81.2,16.9,field_out,Changeup
+Cody Malone,36,IF,Balanced Hitter,0.26,1.99,8,86.1,57.2,field_out,Sinker
+Cody Malone,36,IF,Balanced Hitter,0.61,1.58,9,85.5,-12.9,field_out,Curveball
+Cody Malone,36,IF,Balanced Hitter,-0.93,2.49,13,89.7,-4.9,field_out,Sinker
+Cody Malone,36,IF,Balanced Hitter,-0.72,2.38,4,89.3,-14.5,grounded_into_dp,4-Seam Fastball
+Cody Malone,36,IF,Balanced Hitter,-0.08,1.64,8,102.5,-8.4,single,Slider
+Cody Malone,36,IF,Balanced Hitter,-0.4,2.39,4,86.3,49.3,field_out,Curveball
+Sean Winslow,37,1B,Balanced Hitter,-0.66,2.23,4,96.0,19.1,single,4-Seam Fastball
+Sean Winslow,37,1B,Balanced Hitter,-0.65,1.71,7,88.2,39.4,field_out,4-Seam Fastball
+Sean Winslow,37,1B,Balanced Hitter,0.42,3.23,3,83.1,10.2,field_out,4-Seam Fastball
+Sean Winslow,37,1B,Balanced Hitter,-0.49,2.3,4,99.5,-4.5,single,Sinker
+Sean Winslow,37,1B,Balanced Hitter,-0.73,2.01,7,86.0,11.2,single,Changeup
+Sean Winslow,37,1B,Balanced Hitter,-0.98,2.15,13,84.9,28.5,single,Sinker
+Sean Winslow,37,1B,Balanced Hitter,-0.82,2.19,4,89.6,14.4,field_out,Curveball
+Sean Winslow,37,1B,Balanced Hitter,-0.41,2.42,4,92.5,41.8,field_out,Curveball
+Sean Winslow,37,1B,Balanced Hitter,-0.97,1.94,13,78.0,49.0,field_out,Slider
+Sean Winslow,37,1B,Balanced Hitter,-0.83,2.08,13,81.7,17.7,single,Sinker
+Sean Winslow,37,1B,Balanced Hitter,-0.9,3.76,11,80.5,-19.6,field_out,Curveball
+Sean Winslow,37,1B,Balanced Hitter,-0.03,2.73,5,87.8,18.6,single,4-Seam Fastball
+Sean Winslow,37,1B,Balanced Hitter,-0.07,1.94,8,87.5,24.1,single,Cutter
+Sean Winslow,37,1B,Balanced Hitter,-0.46,2.48,4,99.5,-17.0,field_out,4-Seam Fastball
+Sean Winslow,37,1B,Balanced Hitter,-0.48,2.14,7,88.2,46.9,field_out,Curveball
+Sean Winslow,37,1B,Balanced Hitter,0.12,2.26,5,97.7,11.4,field_out,Cutter
+Sean Winslow,37,1B,Balanced Hitter,0.03,2.54,5,87.2,56.6,field_out,4-Seam Fastball
+Sean Winslow,37,1B,Balanced Hitter,-0.87,1.65,13,85.7,53.8,field_out,4-Seam Fastball
+Sean Winslow,37,1B,Balanced Hitter,-0.52,1.9,7,87.2,2.8,field_out,Sinker
+Sean Winslow,37,1B,Balanced Hitter,-0.17,2.98,2,88.6,-4.4,field_out,Sinker
+Sean Winslow,37,1B,Balanced Hitter,0.13,2.98,2,95.3,-3.0,field_out,Cutter
+Sean Winslow,37,1B,Balanced Hitter,-0.88,2.19,13,74.9,10.4,single,Cutter
+Sean Winslow,37,1B,Balanced Hitter,1.24,1.64,14,81.6,45.1,field_out,Slider
+Sean Winslow,37,1B,Balanced Hitter,-0.46,2.02,7,89.3,42.6,field_out,Curveball
+Sean Winslow,37,1B,Balanced Hitter,-0.34,2.23,4,88.7,-18.3,field_out,4-Seam Fastball
+Sean Winslow,37,1B,Balanced Hitter,0.02,1.85,8,84.1,27.6,field_out,Slider
+Sean Winslow,37,1B,Balanced Hitter,-0.4,1.9,7,92.4,17.9,single,Curveball
+Sean Winslow,37,1B,Balanced Hitter,-0.08,2.95,2,83.5,37.1,field_out,Curveball
+Sean Winslow,37,1B,Balanced Hitter,0.93,3.87,12,85.2,2.5,field_out,Changeup
+Sean Winslow,37,1B,Balanced Hitter,-0.4,2.11,7,95.6,20.0,double,Cutter
+Sean Winslow,37,1B,Balanced Hitter,-1.21,1.68,13,81.6,-4.9,field_out,Sinker
+Sean Winslow,37,1B,Balanced Hitter,-0.47,1.7,7,99.8,55.8,field_out,Cutter
+Sean Winslow,37,1B,Balanced Hitter,-0.44,2.72,4,98.2,17.6,double,4-Seam Fastball
+Owen Sterling,38,C,Balanced Hitter,-0.19,2.59,5,101.6,-5.5,field_out,4-Seam Fastball
+Owen Sterling,38,C,Balanced Hitter,-0.1,2.61,5,95.0,4.9,field_out,4-Seam Fastball
+Owen Sterling,38,C,Balanced Hitter,-0.18,2.61,5,97.0,-11.1,single,4-Seam Fastball
+Owen Sterling,38,C,Balanced Hitter,0.03,1.61,8,91.1,22.9,single,Cutter
+Owen Sterling,38,C,Balanced Hitter,-0.2,2.36,5,88.0,29.2,field_out,Curveball
+Owen Sterling,38,C,Balanced Hitter,1.0,2.98,12,80.6,43.8,field_out,Sinker
+Owen Sterling,38,C,Balanced Hitter,-0.34,2.32,4,92.4,28.3,single,Curveball
+Owen Sterling,38,C,Balanced Hitter,0.08,2.24,5,93.3,-0.8,field_out,Slider
+Owen Sterling,38,C,Balanced Hitter,0.39,3.2,3,87.2,5.1,field_out,Changeup
+Owen Sterling,38,C,Balanced Hitter,-0.38,2.48,4,102.9,-3.2,field_out,Curveball
+Owen Sterling,38,C,Balanced Hitter,-0.06,2.53,5,98.4,33.7,field_out,Slider
+Owen Sterling,38,C,Balanced Hitter,-0.27,2.49,5,90.2,16.2,single,Sinker
+Owen Sterling,38,C,Balanced Hitter,0.26,2.41,5,93.3,45.5,field_out,Curveball
+Owen Sterling,38,C,Balanced Hitter,-1.26,3.16,11,75.2,-3.5,field_out,Curveball
+Owen Sterling,38,C,Balanced Hitter,1.25,3.48,12,86.7,44.5,field_out,4-Seam Fastball
+Owen Sterling,38,C,Balanced Hitter,0.22,3.08,2,92.6,-2.7,field_out,Changeup
+Owen Sterling,38,C,Balanced Hitter,0.0,3.5,2,86.5,-2.1,field_out,4-Seam Fastball
+Owen Sterling,38,C,Balanced Hitter,-0.7,2.67,4,94.4,41.0,field_out,Sinker
+Owen Sterling,38,C,Balanced Hitter,1.16,2.03,14,82.8,-5.6,field_out,Changeup
+Owen Sterling,38,C,Balanced Hitter,0.18,3.5,2,94.7,57.1,field_out,Slider
+Owen Sterling,38,C,Balanced Hitter,-0.54,2.0,7,86.0,10.7,field_out,Sinker
+Owen Sterling,38,C,Balanced Hitter,0.43,2.67,6,92.5,40.2,field_out,4-Seam Fastball
+Owen Sterling,38,C,Balanced Hitter,-0.94,3.19,11,86.8,30.0,field_out,4-Seam Fastball
+Owen Sterling,38,C,Balanced Hitter,0.28,1.66,8,97.6,24.4,double,Cutter
+Owen Sterling,38,C,Balanced Hitter,-0.23,2.3,5,86.1,9.6,field_out,Cutter
+Owen Sterling,38,C,Balanced Hitter,0.24,3.17,2,90.9,1.2,field_out,Curveball
+Owen Sterling,38,C,Balanced Hitter,0.22,2.53,5,92.4,-13.4,field_out,Slider
+Owen Sterling,38,C,Balanced Hitter,-0.06,2.33,5,93.1,30.4,field_out,Curveball
+Owen Sterling,38,C,Balanced Hitter,-0.5,3.15,1,92.1,-19.9,grounded_into_dp,Slider
+Owen Sterling,38,C,Balanced Hitter,0.57,1.93,9,89.3,35.8,single,Cutter
+Cole McIntyre,40,OF,Balanced Hitter,1.07,3.11,12,82.2,45.8,field_out,Curveball
+Cole McIntyre,40,OF,Balanced Hitter,-0.42,2.0,7,89.3,13.3,field_out,Slider
+Cole McIntyre,40,OF,Balanced Hitter,0.44,2.55,6,86.1,0.5,field_out,Cutter
+Cole McIntyre,40,OF,Balanced Hitter,0.06,1.76,8,82.9,47.7,field_out,Changeup
+Cole McIntyre,40,OF,Balanced Hitter,0.65,3.0,3,93.7,-15.6,grounded_into_dp,Curveball
+Cole McIntyre,40,OF,Balanced Hitter,-0.23,1.67,8,93.2,-8.2,field_out,Cutter
+Cole McIntyre,40,OF,Balanced Hitter,0.15,1.66,8,96.1,55.2,field_out,Changeup
+Cole McIntyre,40,OF,Balanced Hitter,-0.06,1.94,8,86.9,10.5,single,Curveball
+Cole McIntyre,40,OF,Balanced Hitter,-0.27,2.99,2,94.4,15.0,field_out,Cutter
+Cole McIntyre,40,OF,Balanced Hitter,-0.83,3.12,11,80.8,-0.0,field_out,Slider
+Cole McIntyre,40,OF,Balanced Hitter,0.89,2.51,12,76.2,-10.7,grounded_into_dp,4-Seam Fastball
+Cole McIntyre,40,OF,Balanced Hitter,0.34,2.51,6,94.0,20.4,single,Curveball
+Cole McIntyre,40,OF,Balanced Hitter,1.01,1.69,14,80.7,16.4,single,Slider
+Cole McIntyre,40,OF,Balanced Hitter,-0.43,3.45,1,100.2,13.5,double,Changeup
+Cole McIntyre,40,OF,Balanced Hitter,0.89,1.65,14,79.7,-18.9,grounded_into_dp,Cutter
+Cole McIntyre,40,OF,Balanced Hitter,-0.16,2.34,5,90.4,-17.0,field_out,Slider
+Cole McIntyre,40,OF,Balanced Hitter,0.13,2.6,5,90.4,38.1,field_out,Changeup
+Cole McIntyre,40,OF,Balanced Hitter,-0.17,2.13,8,94.4,56.5,field_out,Changeup
+Cole McIntyre,40,OF,Balanced Hitter,0.03,2.03,8,85.1,42.8,field_out,Changeup
+Cole McIntyre,40,OF,Balanced Hitter,-0.28,1.76,8,102.9,54.3,field_out,4-Seam Fastball
+Cole McIntyre,40,OF,Balanced Hitter,-0.03,2.6,5,86.2,13.1,field_out,Curveball
+Cole McIntyre,40,OF,Balanced Hitter,0.02,1.54,8,89.3,28.7,single,Curveball
+Cole McIntyre,40,OF,Balanced Hitter,-0.03,1.57,8,100.5,42.1,field_out,Curveball
+Cole McIntyre,40,OF,Balanced Hitter,0.16,2.54,5,99.6,18.6,double,Cutter
+Cole McIntyre,40,OF,Balanced Hitter,0.54,1.68,9,90.3,3.1,field_out,Changeup
+Cole McIntyre,40,OF,Balanced Hitter,0.21,2.27,5,91.7,8.8,single,Changeup
+Cole McIntyre,40,OF,Balanced Hitter,0.74,2.26,6,87.2,19.9,single,Changeup
+Cole McIntyre,40,OF,Balanced Hitter,0.17,1.44,14,72.1,38.2,field_out,Curveball
+Cole McIntyre,40,OF,Balanced Hitter,-0.05,2.42,5,89.3,16.7,single,Cutter
+Cole McIntyre,40,OF,Balanced Hitter,-1.3,3.32,11,87.1,46.2,field_out,Curveball
+Cole McIntyre,40,OF,Balanced Hitter,0.34,2.85,3,85.8,9.7,single,Curveball

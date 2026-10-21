@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Statcast Vision | College Batter Heatmap & MLB Benchmark</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <link rel="stylesheet" href="style.css?v=20261016_v5">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    },
+                    colors: {
+                        dark: '#0a0f1d',
+                        darker: '#040711',
+                        card: '#111928',
+                        cardHover: '#162236',
+                        primary: '#3b82f6',
+                        coolTeal: '#2dd4bf',
+                        coolCyan: '#38bdf8',
+                        coolIndigo: '#818cf8',
+                        coolViolet: '#6366f1',
+                        savantRed: '#ef4444'
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-darker text-slate-200 font-sans min-h-screen antialiased selection:bg-primary selection:text-white">
+    
+    <!-- Top Bar -->
+    <header class="bg-dark/95 backdrop-blur-md border-b border-slate-800/80 px-6 py-3.5 sticky top-0 z-40 shadow-xl">
+        <div class="max-w-7xl mx-auto flex flex-col sm:flex-row justify-between items-center gap-3">
+            <div class="flex items-center space-x-3">
+                <!-- Clean Baseball Diamond Logo (No Lightning Bolt) -->
+                <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-blue-600 via-indigo-600 to-cyan-500 flex items-center justify-center shadow-lg shadow-blue-500/20 border border-blue-400/30">
+                    <svg class="w-5 h-5 text-white" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M12 2L2 12l10 10 10-10L12 2z"></path>
+                        <circle cx="12" cy="12" r="3" fill="currentColor"></circle>
+                    </svg>
+                </div>
+                <div>
+                    <h1 class="text-xl font-extrabold tracking-tight text-white">Statcast <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-indigo-300 to-cyan-400">Vision</span></h1>
+                    <p class="text-xs text-slate-400 font-medium">College Batter Heatmap & MLB Statcast Benchmark</p>
+                </div>
+            </div>
+
+            <!-- Header Controls: Benchmark Badge & Clean Demo Load Button (No Lightning Emoji) -->
+            <div class="flex items-center gap-3">
+                <div id="datasetBadge" class="hidden items-center gap-2 px-3 py-1.5 rounded-lg bg-slate-800/80 border border-slate-700/60 text-xs font-medium text-slate-300">
+                    <span class="w-2 h-2 rounded-full bg-cyan-400 animate-pulse"></span>
+                    <span id="datasetBadgeText">40 College Batters • 141 MLB Benchmarks</span>
+                </div>
+                <button id="quickLoadBtn" class="bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-500 hover:to-indigo-500 text-white text-xs font-semibold py-2 px-4 rounded-lg shadow-md shadow-blue-500/20 transition-all flex items-center gap-2 cursor-pointer">
+                    <svg class="w-3.5 h-3.5 text-blue-200" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path></svg>
+                    <span>Load 40-Player Demo Roster</span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Container -->
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 pt-6 pb-28 space-y-6">
+        
+        <!-- Upload / Dataset Section (Drawer) -->
+        <section class="glass-card rounded-2xl p-4 shadow-xl transition-all">
+            <div class="flex justify-between items-center">
+                <div class="flex items-center gap-2">
+                    <span class="text-xs font-bold uppercase tracking-wider text-slate-400">Dataset Upload</span>
+                    <span class="text-xs text-slate-500 hidden sm:inline">• Upload your own MLB Statcast or College CSVs</span>
+                </div>
+                <button id="toggleUploadBtn" class="text-xs text-primary hover:text-blue-400 font-semibold flex items-center gap-1 transition-colors">
+                    <span id="toggleUploadText">Show CSV Upload Inputs</span>
+                    <svg id="toggleUploadIcon" class="w-4 h-4 transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                </button>
+            </div>
+
+            <form id="uploadForm" class="hidden mt-3 pt-3 border-t border-slate-800/80 flex flex-col md:flex-row gap-4 items-end">
+                <div class="flex-1 w-full">
+                    <label class="block text-xs font-semibold text-slate-400 mb-1.5">MLB Statcast Benchmark CSV</label>
+                    <input type="file" id="mlbFile" accept=".csv" class="block w-full text-xs text-slate-400 file:mr-3 file:py-2 file:px-3 file:rounded-md file:border-0 file:text-xs file:font-semibold file:bg-slate-800 file:text-primary hover:file:bg-slate-700 transition-colors cursor-pointer border border-slate-700/80 rounded-lg bg-dark/60">
+                </div>
+                <div class="flex-1 w-full">
+                    <label class="block text-xs font-semibold text-slate-400 mb-1.5">College Batter CSV (40 Players)</label>
+                    <input type="file" id="collegeFile" accept=".csv" class="block w-full text-xs text-slate-400 file:mr-3 file:py-2 file:px-3 file:rounded-md file:border-0 file:text-xs file:font-semibold file:bg-slate-800 file:text-primary hover:file:bg-slate-700 transition-colors cursor-pointer border border-slate-700/80 rounded-lg bg-dark/60">
+                </div>
+                <button type="submit" id="analyzeBtn" class="bg-primary hover:bg-blue-600 text-white text-xs font-semibold py-2.5 px-6 rounded-lg shadow-lg shadow-blue-500/20 transition-all flex items-center justify-center min-w-[130px]">
+                    <span id="btnText">Analyze Files</span>
+                    <svg id="btnLoader" class="animate-spin -ml-1 mr-2 h-4 w-4 text-white hidden" fill="none" viewBox="0 0 24 24">
+                        <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+                        <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                    </svg>
+                </button>
+            </form>
+            <div id="uploadError" class="mt-3 text-red-400 text-xs hidden font-medium"></div>
+        </section>
+
+        <!-- Loading / Initial Prompt -->
+        <div id="initialPrompt" class="glass-card rounded-2xl p-10 text-center shadow-xl border border-slate-800">
+            <div class="max-w-md mx-auto space-y-4">
+                <div class="w-16 h-16 mx-auto rounded-2xl bg-blue-500/10 border border-blue-500/20 flex items-center justify-center text-primary">
+                    <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"></path>
+                    </svg>
+                </div>
+                <h3 class="text-lg font-bold text-white">Loading Presentation Dataset</h3>
+                <p class="text-sm text-slate-400">Loading 40-player college roster against 141 MLB Statcast benchmark hitters...</p>
+                <button id="promptLoadBtn" class="w-full bg-primary hover:bg-blue-600 text-white font-semibold py-3 px-6 rounded-xl shadow-lg shadow-blue-500/25 transition-all">
+                    Load 40-Player Demo Roster
+                </button>
+            </div>
+        </div>
+
+        <!-- Dashboard View -->
+        <div id="dashboard" class="hidden flex-col gap-6 opacity-0 transition-opacity duration-500">
+            
+            <!-- ACTIVE PLAYER SPOTLIGHT HEADER CARD -->
+            <section class="glass-card rounded-2xl p-6 shadow-2xl border border-slate-800/90 relative overflow-hidden">
+                <!-- Background subtle glow -->
+                <div class="absolute -top-16 -right-16 w-64 h-64 bg-blue-600/10 rounded-full blur-3xl pointer-events-none"></div>
+
+                <div class="flex flex-col lg:flex-row justify-between items-start lg:items-center gap-6">
+                    
+                    <!-- Left: Spotlight Player Profile & Selector -->
+                    <div class="flex flex-col sm:flex-row items-start sm:items-center gap-4 w-full lg:w-auto">
+                        <div class="w-14 h-14 rounded-2xl bg-gradient-to-br from-slate-800 to-slate-900 border border-slate-700/80 flex items-center justify-center text-primary shadow-inner">
+                            <svg class="w-7 h-7 text-cyan-400" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+                                <circle cx="12" cy="7" r="4"></circle>
+                            </svg>
+                        </div>
+                        <div>
+                            <div class="flex items-center gap-2.5 flex-wrap">
+                                <h2 id="spotlightPlayerName" class="text-2xl sm:text-3xl font-black text-white tracking-tight">Lucas Vance</h2>
+                                <span id="spotlightPlayerNumPos" class="px-2.5 py-0.5 rounded-md bg-blue-500/20 text-blue-400 border border-blue-500/30 text-xs font-bold">#24 • OF</span>
+                                <span id="spotlightPlayerArchetype" class="px-2.5 py-0.5 rounded-md bg-indigo-500/20 text-indigo-300 border border-indigo-500/30 text-xs font-semibold">Power Slugger</span>
+                            </div>
+                            <div class="flex items-center gap-2 mt-1">
+                                <span id="spotlightPlayerIndex" class="text-xs text-slate-400 font-medium">Player 1 of 40 on College Roster</span>
+                                <span class="text-slate-600">•</span>
+                                <span class="text-xs text-emerald-400 font-semibold flex items-center gap-1">
+                                    <span class="w-1.5 h-1.5 rounded-full bg-emerald-400"></span> Profile Active
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Center / Right: Quick Navigation Selector -->
+                    <div class="flex items-center gap-2 w-full lg:w-auto justify-end">
+                        <button id="prevPlayerBtn" class="p-2.5 rounded-xl bg-slate-800/90 hover:bg-slate-700 text-slate-300 hover:text-white transition-all border border-slate-700/60 cursor-pointer" title="Previous Batter (or Left Arrow)">
+                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M15 19l-7-7 7-7"></path></svg>
+                        </button>
+                        
+                        <div class="w-full sm:w-64">
+                            <select id="playerSelect" class="w-full bg-slate-900/90 border border-slate-700 text-white text-xs font-bold rounded-xl focus:ring-2 focus:ring-primary focus:border-transparent block py-2.5 px-3 cursor-pointer shadow-inner">
+                            </select>
+                        </div>
+
+                        <button id="nextPlayerBtn" class="p-2.5 rounded-xl bg-slate-800/90 hover:bg-slate-700 text-slate-300 hover:text-white transition-all border border-slate-700/60 cursor-pointer" title="Next Batter (or Right Arrow)">
+                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7"></path></svg>
+                        </button>
+                    </div>
+
+                </div>
+
+                <!-- Spotlight Stats Row (Active Metrics) -->
+                <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-7 gap-2.5 mt-5 pt-4 border-t border-slate-800/80">
+                    <div class="bg-dark/80 border border-slate-800 rounded-xl p-2.5 text-center">
+                        <span class="text-[10px] uppercase font-bold text-slate-500 block">Batted Balls</span>
+                        <span id="spotlightBip" class="text-lg font-black text-white">0</span>
+                    </div>
+                    <div class="bg-indigo-500/10 border border-indigo-500/20 rounded-xl p-2.5 text-center">
+                        <span class="text-[10px] uppercase font-bold text-indigo-400 block">Hard Hit %</span>
+                        <span id="spotlightHh" class="text-lg font-black text-indigo-400">0%</span>
+                    </div>
+                    <div class="bg-dark/80 border border-slate-800 rounded-xl p-2.5 text-center">
+                        <span class="text-[10px] uppercase font-bold text-slate-500 block">Avg Exit Velo</span>
+                        <span id="spotlightAvgEv" class="text-lg font-black text-white">0.0</span>
+                    </div>
+                    <div class="bg-dark/80 border border-slate-800 rounded-xl p-2.5 text-center">
+                        <span class="text-[10px] uppercase font-bold text-slate-500 block">Max Exit Velo</span>
+                        <span id="spotlightMaxEv" class="text-lg font-black text-white">0.0</span>
+                    </div>
+                    <div class="bg-cyan-500/10 border border-cyan-500/20 rounded-xl p-2.5 text-center">
+                        <span class="text-[10px] uppercase font-bold text-cyan-400 block">Sweet Spot %</span>
+                        <span id="spotlightSs" class="text-lg font-black text-cyan-300">0%</span>
+                    </div>
+                    <div class="bg-amber-500/10 border border-amber-500/30 rounded-xl p-2.5 text-center">
+                        <span class="text-[10px] uppercase font-bold text-amber-400 block">🎯 Barrels</span>
+                        <span id="spotlightBarrels" class="text-lg font-black text-amber-400">0</span>
+                    </div>
+                    <div class="bg-dark/80 border border-slate-800 rounded-xl p-2.5 text-center">
+                        <span class="text-[10px] uppercase font-bold text-slate-500 block">Hits (HR)</span>
+                        <span id="spotlightHits" class="text-lg font-black text-white">0 (0)</span>
+                    </div>
+                </div>
+
+            </section>
+
+            <!-- Middle Row: Heatmap & MLB Percentiles -->
+            <div class="grid grid-cols-1 lg:grid-cols-12 gap-6 items-start">
+                
+                <!-- Left: Non-rigid Strike Zone Heatmap & Pitch Dots (Cool Tones) -->
+                <section class="glass-card rounded-2xl p-6 shadow-xl lg:col-span-6 flex flex-col relative overflow-hidden">
+                    
+                    <!-- Header with View Controls -->
+                    <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-3 mb-4">
+                        <div>
+                            <h2 class="text-base font-bold text-white">Contact Quality & Location Heatmap</h2>
+                        </div>
+
+                        <!-- Mode Pills -->
+                        <div class="inline-flex rounded-lg bg-dark/80 p-1 border border-slate-800">
+                            <button id="viewHeatmapDots" class="view-mode-btn px-2.5 py-1 text-xs font-semibold rounded-md bg-primary text-white transition-all cursor-pointer">Heat + Dots</button>
+                            <button id="viewDotsOnly" class="view-mode-btn px-2.5 py-1 text-xs font-semibold rounded-md text-slate-400 hover:text-white transition-all cursor-pointer">Dots Only</button>
+                            <button id="viewZonesOnly" class="view-mode-btn px-2.5 py-1 text-xs font-semibold rounded-md text-slate-400 hover:text-white transition-all cursor-pointer">3x3 Zones</button>
+                        </div>
+                    </div>
+
+                    <!-- Filter pills -->
+                    <div class="flex items-center gap-2 mb-4">
+                        <span class="text-[11px] font-semibold text-slate-400">Filter:</span>
+                        <button id="filterAll" class="filter-btn px-2.5 py-0.5 text-[11px] font-semibold rounded-full bg-slate-700 text-white border border-slate-600 transition-all cursor-pointer">All BIP</button>
+                        <button id="filterHardHit" class="filter-btn px-2.5 py-0.5 text-[11px] font-semibold rounded-full bg-dark text-slate-400 border border-slate-800 hover:text-white transition-all cursor-pointer">Hard Hits (≥95)</button>
+                        <button id="filterHits" class="filter-btn px-2.5 py-0.5 text-[11px] font-semibold rounded-full bg-dark text-slate-400 border border-slate-800 hover:text-white transition-all cursor-pointer">Hits Only</button>
+                    </div>
+
+                    <!-- Strike Zone Chart Canvas + SVG Container -->
+                    <div class="flex items-center justify-center p-2 bg-darker/70 rounded-xl border border-slate-800/80">
+                        <div id="heatmapContainer" class="w-full aspect-[4/5] max-w-[380px] relative rounded-xl overflow-hidden shadow-inner">
+                            <canvas id="heatmapCanvas"></canvas>
+                            <svg id="heatmapSvg"></svg>
+                        </div>
+                    </div>
+
+                    <!-- Cool-Toned Legend & Visual Key -->
+                    <div class="mt-4 pt-3 border-t border-slate-800/80 flex flex-wrap items-center justify-between text-xs text-slate-400 gap-2">
+                        <div class="flex items-center gap-3">
+                            <div class="flex items-center gap-1.5">
+                                <span class="w-3 h-3 rounded-full bg-indigo-500 shadow-sm shadow-indigo-500/50"></span>
+                                <span class="text-[11px]">Hard Hit (≥95 mph)</span>
+                            </div>
+                            <div class="flex items-center gap-1.5">
+                                <span class="w-3 h-3 rounded-full bg-cyan-400 shadow-sm shadow-cyan-400/50"></span>
+                                <span class="text-[11px]">Contact (&lt;95 mph)</span>
+                            </div>
+                        </div>
+                        <div class="flex items-center gap-1.5">
+                            <span class="text-[11px]">Density Gradient:</span>
+                            <div class="w-16 h-2 rounded-full bg-gradient-to-r from-slate-900 via-cyan-500 to-indigo-500 border border-slate-700"></div>
+                        </div>
+                    </div>
+
+                </section>
+
+                <!-- Right: MLB Percentile Rankings (Savant Sliders) -->
+                <section class="glass-card rounded-2xl p-6 shadow-xl lg:col-span-6 flex flex-col justify-between">
+                    <div>
+                        <div class="flex justify-between items-start mb-2">
+                            <div>
+                                <h2 class="text-base font-bold text-white flex items-center gap-2">
+                                    <span>MLB Percentile Rankings</span>
+                                    <span class="text-[10px] font-semibold px-2 py-0.5 rounded-full bg-blue-500/10 text-blue-400 border border-blue-500/20">Statcast Sliders</span>
+                                </h2>
+                                <p class="text-xs text-slate-400">Comparing batter against 141 Major League Statcast hitters</p>
+                            </div>
+                            <span class="text-[11px] font-bold px-2 py-1 rounded bg-slate-800 text-slate-300 border border-slate-700">0 - 100th</span>
+                        </div>
+
+                        <!-- Sliders list -->
+                        <div id="slidersContainer" class="space-y-5 mt-5">
+                            <!-- Populated dynamically -->
+                        </div>
+                    </div>
+
+                    <!-- Benchmarking Context Footnote -->
+                    <div class="mt-8 pt-4 border-t border-slate-800/80 bg-slate-900/40 -mx-6 -mb-6 p-4 rounded-b-2xl flex items-center justify-between text-xs text-slate-400">
+                        <div class="flex items-center gap-2">
+                            <span class="w-2 h-2 rounded-full bg-cyan-400"></span>
+                            <span>Calculated against <strong>141 MLB players</strong> (5,630+ Statcast events)</span>
+                        </div>
+                        <span class="text-[11px] font-semibold text-slate-500">Realistic NCAA/MLB spread</span>
+                    </div>
+
+                </section>
+
+            </div>
+
+            <!-- Bottom Row: Launch Angle on Hits vs Outs (ACTIVE BARREL ZONE) -->
+            <section class="glass-card rounded-2xl p-6 shadow-xl">
+                <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-3 mb-4">
+                    <div>
+                        <h2 class="text-base font-bold text-white flex items-center gap-2">
+                            <span>Launch Angle & Exit Velocity (Hits vs. Outs)</span>
+                            <span class="text-[10px] font-semibold px-2 py-0.5 rounded-full bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">Interactive Outcome Plot</span>
+                        </h2>
+                        <p class="text-xs text-slate-400">Click the Barrel button or the shaded Barrel Zone below to isolate high-value contact</p>
+                    </div>
+
+                    <!-- Active Filter & Barrel Zone Buttons -->
+                    <div class="flex items-center gap-2">
+                        <span id="laHitCount" class="text-xs font-semibold px-2.5 py-1 rounded-lg bg-blue-500/10 text-blue-400 border border-blue-500/20">Hits: 0</span>
+                        <span id="laOutCount" class="text-xs font-semibold px-2.5 py-1 rounded-lg bg-red-500/10 text-red-400 border border-red-500/20">Outs: 0</span>
+                        
+                        <!-- ACTIVE BARREL ZONE TOGGLE BUTTON -->
+                        <button id="barrelToggleBtn" class="px-3 py-1 rounded-lg text-xs font-bold transition-all flex items-center gap-1.5 bg-amber-500/15 text-amber-400 border border-amber-500/30 hover:bg-amber-500/25 cursor-pointer shadow-sm" title="Click to isolate Statcast Barrels">
+                            <span>🎯 Barrels:</span>
+                            <span id="laBarrelCount" class="font-black text-amber-300">0</span>
+                        </button>
+                    </div>
+                </div>
+
+                <div id="laContainer" class="w-full h-[450px] min-h-[420px] relative flex items-center justify-center bg-darker/70 rounded-xl border border-slate-800/80 p-3 shadow-inner overflow-hidden">
+                    <!-- SVG rendered by D3 -->
+                </div>
+            </section>
+
+        </div>
+
+    </main>
+
+    <!-- Global Floating Tooltip -->
+    <div id="globalTooltip" class="tooltip"></div>
+
+    <script src="app.js?v=20261016_v5"></script>
+</body>
+</html>
